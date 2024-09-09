@@ -20,7 +20,7 @@ Lorsque vous créez un barbare, réfléchissez d'où il vient et quelle est sa p
 
 Vous pouvez concevoir rapidement un barbare en suivant ces quelques suggestions. En premier lieu, la Force devrait être votre plus haute valeur de caractéristique, suivie par la Constitution. Ensuite, choisissez l'historique sauvageon.
 
-# Capacités de classe
+## Capacités de classe
 ### Points de vie
 DV : 1d12 par niveau de barbare
 pv au niveau 1 : 12 + votre modificateur de Constitution
@@ -122,7 +122,8 @@ Au niveau 20, vous êtes l'incarnation de la puissance du monde sauvage. Vos val
 
 ---
 
-# Voies primitives
+## ==Voies primitives==
+
 ## Voie du berserker
 ***Manuel des joueurs***
 
