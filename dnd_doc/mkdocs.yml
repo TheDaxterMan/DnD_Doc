@@ -1,0 +1,105 @@
+site_name: DnD Doc
+
+theme: 
+  name : material
+  feature :
+    - navigation.expand
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - toc.integrate
+    - content.code.copy
+    - content.code.select
+    - content.code.annotate
+
+  font:
+    text: Rubik
+    code: Rubik Mono
+  
+  palette:
+    #Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      primary: light blue
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    #Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: teal
+      primary: deep purple
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    
+    #Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      toggle:
+        icon: material/weather-night
+        name: Switch to system preference
+
+# plugins:
+#   - minify
+#   - section-index
+#   - search
+#   - navincluder
+#   - git-revision-date-localized
+#   - include-markdown
+#   - glightbox:
+#     effect: zoom
+#     slide_effect: slide
+#     width: auto
+#     height: 40vw
+#     zoomable: true
+#     skip_classes:
+#       - custom-skip-class-name
+#     auto_caption: false
+#     caption_position: bottom
+#     background: white
+
+# markdown_extensions:
+#   - markdown_include.include
+#   - toc:
+#     permalink: "#"
+#     baselevel: 1
+#     separator: "_"
+#   - admonition
+#   - def_list
+#   - pymdownx.details
+#   - attr_list
+#   - md_in_html
+#   - tables
+#   - pymdownx.tasklist:
+#     custom_checkbox: true
+#   - pymdownx.superfences:
+#     custom_fences:
+#       - name: mermaid
+#         class: mermaid
+#         format: !!python/name:pymdownx.superfences.fence_code_format
+#   - pymdownx.superfences
+#   - pymdownx.inlinehilite
+#   - pymdownx.snippets
+#   - pymdownx.critic
+#   - pymdownx.caret
+#   - pymdownx.keys
+#   - pymdownx.mark
+#   - pymdownx.tilde
+#   - pymdownx.highlight:
+#     anchor_linenums: true
+#     line_spans: __span
+#     pygments_lang_class: true
+#   - pymdownx.tabbed:
+#     alternate_style: true
+#   - pymdownx.emoji:
+#     emoji_index: !!python/name:materialx.emoji.twemoji
+#     emoji_generator: !!python/name:materialx.emoji.to_svg
+#   - attr_list
+#   - md_in_html
+
+nav:
+  - Home: index.md
+  - Barbare: barbare.md
