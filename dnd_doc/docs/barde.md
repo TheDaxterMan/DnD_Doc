@@ -278,9 +278,84 @@ Une fois que vous avez adopté cette présence majestueuse, vous ne pouvez plus 
 
 ## Collège des épées
 ***Le guide complet de Xanathar***
+Les bardes du Collège des épées sont appelés des lames, et ils divertissent par des prouesses audacieuses avec leurs armes. Les lames se livrent à des acrobaties telles qu'avaler une épée, lancer et jongler des couteaux, et simuler des combats. Bien qu'ils utilisent leurs armes pour divertir, ils sont aussi des guerriers hautement entraînés et compétents.
 
+Leur talent pour les armes incite de nombreuses lames à mener une double vie. Une lame peut se servir d'une troupe de cirque comme couverture pour commettre des actes malfaisants tels que l'assassinat, le vol et le chantage. D'autres lames s'attaquent aux criminels, faisant régner la justice contre les puissants et les cruels. La plupart des troupes sont heureuses d'accepter le talent d'une lame pour l'excitation qu'il ajoute à un spectacle, mais peu d'artistes font entièrement confiance à une lame dans leurs rangs.
+
+Les lames qui abandonnent leur vie d'artiste ont souvent rencontré des problèmes qui rendent impossible le maintien de leurs activités secrètes. Une lame prise en flagrant délit de vol ou de justice vigilante est un handicap trop important pour la plupart des troupes. Grâce à leurs compétences en matière d'armes et de magie, ces lames travaillent comme agents d'exécution pour des guildes de voleurs ou se lancent dans l'aventure à leur propre compte.
+
+### Maîtrises supplémentaires
+Lorsque vous rejoignez le Collège des Épées au 3e niveau, vous gagnez la maîtrises des armures intermédiaires et du cimeterre.
+
+Si vous maîtrisez une arme de mêlée simple ou martiale, vous pouvez l'utiliser comme focus pour vos sorts de barde.
+
+### Style de combat
+Au 3e niveau, vous adoptez un style de combat particulier comme spécialité. Choisissez l'une des options suivantes. Vous ne pouvez pas prendre une option de style de combat plus d'une fois, même si vous avez la possibilité de la choisir à nouveau plus tard.
+
+- **Duel.** Lorsque vous maniez une arme de mêlée à une main et aucune autre arme, vous bénéficiez d'un bonus de +2 aux jets de dégâts avec cette arme.
+- **Combat à deux armes.** Lorsque vous vous engagez dans un combat à deux armes, vous pouvez ajouter votre modificateur de caractéristique aux dégâts de la seconde attaque.
+
+### Moulinet
+Au 3e niveau, vous apprenez à faire des démonstrations impressionnantes de prouesses martiales et de rapidité.
+
+Chaque fois que vous entreprenez l'action Attaquer à votre tour, votre vitesse de déplacement augmente de 3m jusqu'à la fin du tour, et si une attaque d'arme que vous portez dans le cadre de cette action touche une créature, vous pouvez utiliser l'une des options suivantes de moulinet de votre choix. Vous ne pouvez utiliser qu'une seule option de moulinet par tour.
+
+- **Moulinet défensif.** Vous pouvez dépenser une utilisation de votre Inspiration bardique pour que l'arme inflige des dégâts supplémentaires à la cible touchée. Les dégâts sont égaux au nombre obtenu sur le dé d'inspiration bardique. Vous ajoutez également le nombre obtenu à votre CA jusqu'au début de votre prochain tour.
+
+- **Moulinet tranchant.** Vous pouvez dépenser une utilisation de votre inspiration bardique pour que l'arme inflige des dégâts supplémentaires à la cible que vous avez touchée et à toute autre créature de votre choix que vous pouvez voir dans un rayon de 1,50m autour de vous. Les dégâts sont égaux au nombre obtenu sur le dé d'inspiration bardique.
+
+- **Moulinet mobile.** Vous pouvez dépenser une utilisation de votre inspiration bardique pour que l'arme inflige des dégâts supplémentaires à la cible que vous avez touchée. Les dégâts sont égaux au nombre obtenu sur le dé d'inspiration bardique. Vous pouvez également repousser la cible jusqu'à 1,50m de vous, plus un nombre de mètres égal à 0,30m x le nombre que vous obtenez sur ce dé. Vous pouvez alors immédiatement utiliser votre réaction pour vous déplacer à votre vitesse de marche jusqu'à un espace inoccupé à moins de 1,50m de la cible.
+
+### Attaque supplémentaire
+À partir du 6ème niveau, vous pouvez attaquer deux fois au lieu d'une, chaque fois que vous entreprenez l'action Attaquer à votre tour.
+
+### Moulinet de maître
+À partir du 14ème niveau, chaque fois que vous utilisez une option de moulinet, vous pouvez lancer un d6 et l'utiliser au lieu de dépenser un dé d'inspiration bardique.
 
 ---
 
 ## Collège des murmures
 ***Le guide complet de Xanathar***
+La plupart des gens sont heureux d'accueillir un barde parmi eux. Les bardes du Collège des murmures utilisent cela à leur avantage. Ils semblent être des bardes comme les autres, partageant des nouvelles, chantant des chansons et racontant des histoires au public qu'ils rassemblent. En réalité, le Collège des murmures enseigne à ses étudiants qu'ils sont des loups parmi les moutons. Ces bardes utilisent leurs connaissances et leur magie pour découvrir des secrets et les retourner contre les autres par l'extorsion et les menaces.
+
+Beaucoup d'autres bardes détestent le Collège des murmures, le considérant comme un parasite qui utilise la réputation des bardes pour acquérir richesse et pouvoir. C'est pourquoi ces bardes révèlent rarement leur véritable nature, à moins qu'ils n'y soient obligés. Ils prétendent généralement suivre un autre collège, ou gardent leur vraie nature secrète afin de mieux infiltrer et exploiter les cours royales et autres lieux de pouvoir.
+
+### Lames psychiques
+Lorsque vous rejoignez le Collège des murmures au 3e niveau, vous gagnez la capacité de rendre vos attaques d'armes magiquement toxiques pour l'esprit d'une créature.
+
+Lorsque vous touchez une créature avec une attaque d'arme, vous pouvez dépenser une utilisation de votre Inspiration bardique pour lui infliger 2d6 points de dégâts psychiques supplémentaires. Vous ne pouvez le faire qu'une fois par round, à votre tour.
+
+Les dégâts psychiques augmentent lorsque vous atteignez certains niveaux de cette classe, passant à 3d6 au 5e niveau, 5d6 au 10e niveau et 8d6 au 15e niveau.
+
+### Mots de terreur
+Au 3e niveau, vous apprenez à imprégner des mots d'apparence innocente d'une magie insidieuse capable d'inspirer la terreur.
+
+Si vous parlez à un humanoïde seul pendant au moins 1 minute, vous pouvez tenter de semer la paranoïa et la peur dans son esprit. À la fin de la conversation, la cible doit réussir un jet de sauvegarde de Sagesse contre le DC de sauvegarde de votre sort ou être effrayée par vous ou une autre créature de votre choix. La cible est ainsi effrayée pendant 1 heure, jusqu'à ce qu'elle soit attaquée ou endommagée, ou jusqu'à ce qu'elle soit témoin de l'attaque ou de l'endommagement de ses alliés.
+
+Si la cible réussit son jet de sauvegarde, elle n'a aucune idée que vous avez essayé de l'effrayer.
+
+Une fois que vous avez utilisé cette caractéristique, vous ne pouvez plus l'utiliser avant d'avoir terminé un repos court ou un repos long.
+
+### Voile de murmures
+Au 6ème niveau, vous gagnez la capacité d'adopter la personnalité d'un humanoïde. Lorsqu'un humanoïde meurt à moins de 30 pieds de vous, vous pouvez capturer son ombre par magie en utilisant votre réaction. Vous conservez cette ombre jusqu'à ce que vous l'utilisiez ou que vous terminiez un long repos.
+
+Vous pouvez utiliser l'ombre comme une action. Elle disparaît alors et se transforme magiquement en un déguisement qui apparaît sur vous. Vous ressemblez alors à la personne décédée, mais en bonne santé et en vie. Ce déguisement dure 1 heure ou jusqu'à ce que vous y mettiez fin par une action bonus.
+
+Pendant que vous êtes déguisé, vous avez accès à toutes les informations que l'humanoïde partagerait librement avec une simple connaissance. Ces informations comprennent des détails généraux sur son passé et sa vie personnelle, mais ne comprennent pas de secrets. Ces informations sont suffisantes pour que vous puissiez vous faire passer pour cette personne en puisant dans ses souvenirs.
+
+Une autre créature peut voir à travers ce déguisement en réussissant un test de Sagesse (perspicacité) contesté par votre test de Charisme (tromperie). Vous bénéficiez d'un bonus de +5 à votre test.
+
+Une fois que vous avez capturé une ombre avec cette caractéristique, vous ne pouvez pas en capturer une autre avant d'avoir terminé un repos court ou long.
+
+### Savoir de l'ombre
+Au 14ème niveau, vous gagnez la capacité de tisser de la magie noire dans vos paroles et de puiser dans les peurs les plus profondes d'une créature.
+
+Au cours d'une action, vous chuchotez magiquement une phrase que seule une créature de votre choix située à moins de 9m de vous peut entendre. La cible doit effectuer un jet de sauvegarde de Sagesse contre le DD de sauvegarde de votre sort. Elle réussit automatiquement si elle ne partage pas de langue avec vous ou si elle ne peut pas vous entendre. Si vous réussissez votre jet de sauvegarde, votre murmure ressemble à un marmonnement inintelligible et n'a aucun effet.
+
+Si la cible rate son jet de sauvegarde, elle est charmée par vous pour les 8 prochaines heures ou jusqu'à ce que vous ou vos alliés l'attaquiez ou lui infligiez des dégâts. Elle interprète les chuchotements comme une description de son secret le plus mortifiant.
+
+Bien que vous n'ayez aucune connaissance de ce secret, la cible est convaincue que vous le connaissez. Lorsqu'elle est ainsi charmée, la créature obéit à vos ordres de peur que vous ne révéliez son secret. Elle ne risquera pas sa vie pour vous et ne se battra pas pour vous, à moins qu'elle ne soit déjà encline à le faire. Elle vous accorde des faveurs et des cadeaux qu'elle offrirait à un ami proche.
+
+Lorsque l'effet prend fin, la créature ne comprend pas pourquoi elle vous a inspiré une telle crainte.
+
+Une fois que vous avez utilisé cette caractéristique, vous ne pouvez plus l'utiliser avant d'avoir terminé un long repos.
