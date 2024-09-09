@@ -232,6 +232,7 @@ Les barbares qui empruntent la Voie de la Bête tirent leur rage d'une étincell
 Un tel barbare peut être habité par un esprit primitif ou descendre d'un métamorphe. Vous pouvez choisir l'origine de votre force sauvage ou la déterminer en effectuant un jet sur la table Origine de la bête.
 
 **Origine de la bête :**
+
 | **d4** | **Origine** |
 | ------ | ----------- |
 | 1 | L'un de vos parents est un lycanthrope et vous avez hérité de sa malédiction. |
@@ -310,8 +311,68 @@ Au niveau 14, les esprits de vos ancêtres deviennent suffisamment puissants pou
 
 ## Voie du héraut des tempêtes
 ***Le guide complet de Xanathar***
+Tous les barbares sont animés par une fureur contenue. Leur rage leur confère une force, une résistance et une vitesse supérieures. Les barbares qui suivent la voie du héraut de la tempête apprennent à transformer leur rage en un voile de magie primitive qui tourbillonne autour d'eux. Quand un tel barbare libère sa furie, il peut puiser dans les forces de la nature pour créer de puissants effets magiques.
+
+Les hérauts des tempêtes sont généralement des guerriers d'élite formés par des druides, de gardes forestiers et d'autres personnes ayant juré de protéger le royaume naturel. D'autres hérauts d'orage perfectionnent leur art dans des loges d'élite fondées dans des régions dévastées par les tempêtes, dans les étendues gelées du bout du monde ou au cœur des déserts les plus brûlants.
+
+### Aura de tempête
+A partir du niveau 3, vous émettez une aura magique et orageuse pendant votre rage. L'aura s'étend à 3 mètres de vous dans toutes les directions, mais pas à travers un abri total.
+
+Votre aura s'accompagne d'un effet qui s'active lorsque vous entrez en rage. Par une action bonus vous pouvez réactiver l'effet à chacun de vos tours.L'effet de votre aura dépend de l'environnement choisi parmis les suivants : désert, mer ou toundra. Vous pouvez changer votre choix d'environnement chaque fois que vous gagnez un niveau dans cette classe.
+
+Si les effets de votre aura nécessitent un jet de sauvegarde, le DC est égal à 8 + votre bonus de compétence + votre modificateur de Constitution.
+
+- **Désert.** Lorsque cet effet est activé, toutes les autres créatures dans votre aura subissent 2 dégâts de feu chacune. Les dégâts augmentent lorsque vous atteignez certains niveaux de cette classe, passant à 3 au 5e niveau, 4 au 10e niveau, 5 au 15e niveau et 6 au 20e niveau.
+
+- **Mer.** Lorsque cet effet est activé, vous pouvez choisir une créature autre que vous, et que vous voyez dans votre aura. La cible doit effectuer un jet de sauvegarde de Dextérité. Elle subit 1d6 points de dégâts de foudre en cas de sauvegarde ratée, ou la moitié en cas de sauvegarde réussie. Les dégâts augmentent lorsque vous atteignez certains niveaux de cette classe, passant à 2d6 au 10ème niveau, 3d6 au 15ème niveau et 4d6 au 20ème niveau.
+
+- **Toundra.** Lorsque cet effet est activé, chaque créature de votre choix se trouvant dans votre aura gagne 2 points de vie temporaires, car les esprits de glace leurs permettent de mieux supporter la douleur. Les points de vie temporaires augmentent lorsque vous atteignez certains niveaux de cette classe, passant à 3 au 5e niveau, 4 au 10e niveau, 5 au 15e niveau et 6 au 20e niveau.
+
+### Âme des tempêtes
+Au 6e niveau, la tempête vous accorde des avantages même lorsque votre aura n'est pas active. Ces avantages dépendent de l'environnement que vous avez choisi pour votre Aura de tempête.
+
+- **Désert.** Vous devenez résistant aux dégâts de feu, et vous ne subissez pas les effets de la chaleur extrême, comme décrit dans le Guide du Maître du Donjon. De plus, comme action, vous pouvez toucher un objet inflammable qui n'est ni porté ni transporté par quelqu'un d'autre et l'enflammer.
+
+- **Mer.** Vous devenez résistant aux dégâts de foudre et vous pouvez respirer sous l'eau. Vous gagnez également une vitesse de nage de 9m.
+
+- **Toundra.** Vous devenez résistant aux dégâts de froid et vous ne subissez pas les effets du froid extrême, tels que décrits dans le Guide du Maître du Donjon. De plus, comme action, vous pouvez toucher de l'eau et en transformer un cube de 1,5 mètre en glace, qui fond au bout d'une minute. Cette action échoue si une créature se trouve dans le cube.
+
+### Tempête protectrice
+Au 10ème niveau, vous apprenez à utiliser votre maîtrise de la tempête pour protéger les autres. Chaque créature de votre choix bénéficie de la résistance aux dégâts que vous avez obtenue grâce à l'aptitude Âme des tempêtes, tant que la créature est dans votre Aura de tempête.
+
+### Tempête déchaînée
+Au 14e niveau, la puissance de la tempête que vous arrivez à canaliser augmente pour le plus grand malheur de vos ennemis. L'effet est basé sur l'environnement que vous avez choisi pour votre Aura de tempête.
+
+- **Désert.** Immédiatement après qu'une créature dans votre aura vous ait frappé avec une attaque, vous pouvez utiliser votre réaction pour forcer cette créature à faire un jet de sauvegarde de Dextérité. En cas d'échec, la créature subit des dégâts de feu égaux à la moitié de votre niveau de barbare.
+
+- **Mer.** Lorsque vous touchez une créature dans votre aura avec une attaque, vous pouvez utiliser votre réaction pour forcer cette créature à faire un jet de sauvegarde de Force. En cas d'échec, la créature est mise à terre, comme si elle avait été frappée par une vague.
+
+- **Toundra.** Lorsque l'effet de votre Aura de tempête est activé, vous pouvez choisir une créature que vous pouvez voir dans l'aura. Cette créature doit réussir un jet de sauvegarde de Force, ou sa vitesse est réduite à 0 jusqu'au début de votre prochain tour, car du givre magique la recouvre.
 
 ---
 
 ## Voie du Zélote
 ***Le guide complet de Xanathar***
+Certaines divinités inspirent leurs adeptes au point qu'ils se laissent aller à une féroce fureur guerrière. Ces barbares sont des zélotes, des guerriers qui canalisent leur rage pour créer d'extraordinaire manifestations de puissance divine.
+
+De nombreux dieux inspirent leurs disciples à embrasser cette voie. Tempus des Royaumes oubliés, Hextor et Erythnul de Greyhawk en sont de parfaits exemples. En général, les dieux qui inspirent les zélotes sont des divinités du combat, de la destruction et de la violence. Tous ne sont pas maléfiques, mais peu sont bons.
+
+
+### Fureur divine
+Au 3e niveau, vous pouvez canaliser la fureur divine dans vos coups que vous portez avec vos armes. Quand vous entrez en rage, la première créature que vous touchez à l'aide d'une arme à chacun de vos tours subit des dégâts supplémentaires égaux à 1d6 + la moitié de votre niveau de barbare. Les dégâts supplémentaires sont nécrotiques ou radiants ; vous choisissez le type de dégâts lorsque vous obtenez cette caractéristique.
+
+### Guerrier des dieux
+Au 3e niveau, votre âme est marquée pour une bataille sans fin. Si un sort, tel que Rappel à la vie, a pour seul effet de vous ramener à la vie (mais pas à la non-mort), celui qui lance le sort sur vous n'a pas besoin de composantes matérielles.
+
+### Focalisation fanatique
+A partir du 6ème niveau, la puissance divine qui alimente votre rage peut vous protéger. Si vous échouez à un jet de sauvegarde alors que vous êtes en rage, vous pouvez le relancer et vous devez utiliser le nouveau jet. Vous ne pouvez utiliser cette capacité qu'une seule fois par rage.
+
+### Présence zélée
+Au 10ème niveau, vous apprenez à canaliser la puissance divine pour inspirer le zèle aux autres. En tant qu'action bonus, vous lancez un cri de guerre infusé d'énergie divine. Jusqu'à dix créatures de votre choix situées à moins de 18m de vous et pouvant vous entendre bénéficient d'un avantage aux jets d'attaque et aux jets de sauvegarde jusqu'au début de votre prochain tour.
+
+Une fois que vous avez utilisé cette caractéristique, vous ne pouvez plus l'utiliser avant d'avoir terminé un long repos.
+
+### Rage au-delà de la mort
+À partir du 14ème niveau, la puissance divine qui alimente votre rage vous permet d'éviter les coups mortels.
+
+Lorsque vous êtes en rage, le fait d'avoir 0 point de vie ne vous rend pas inconscient. Vous devez toujours effectuer des jets de sauvegarde contre la mort, et vous subissez les effets normaux des dégâts subis lorsque vous êtes à 0 point de vie. Cependant, si vous deviez mourir à cause d'un échec aux jets de sauvegarde, vous ne mourrez pas avant la fin de votre rage, et vous ne mourrez alors que si vous avez encore 0 point de vie.
