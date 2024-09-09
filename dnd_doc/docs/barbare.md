@@ -85,6 +85,10 @@ Au niveau 2, vous ressentez une sensation étrange lorsque les choses qui vous e
 ## Voie primitive
 Au niveau 3, vous choisissez la voie par laquelle s'exprime votre rage. Choisissez la voie du berserker ou la voie du guerrier totem, chacune étant détaillée ci-dessous. Votre choix vous accorde des capacités aux niveaux 3, 6, 10 et 14.
 
+## Savoir primal
+***Optionnel au niveau 3***
+Lorsque vous atteignez le niveau 3, puis encore au niveau 10, vous recevez la maîtrise d'une compétence de votre choix parmi la liste des compétences accessibles aux barbares de niveau 1.
+
 ## Amélioration de caractéristiques
 Au niveau 4, puis par la suite aux niveaux 8, 12, 16 et 19, vous pouvez augmenter une valeur de caractéristique de votre choix de +2, ou bien augmenter deux valeurs de caractéristique de votre choix de +1. Vous ne pouvez cependant pas augmenter une caractéristique au-delà de 20 par ce biais.
 
@@ -96,6 +100,10 @@ Au niveau 5, votre vitesse augmente de 3 mètres tant que vous ne portez pas d'a
 
 ## Instinct sauvage
 Au niveau 7, vos instincts sont si aiguisés que vous obtenez un avantage aux jets d'initiative. De plus, si vous êtes surpris au début du combat et que vous n'êtes pas incapable d'agir, vous pouvez jouer normalement durant votre premier tour, mais seulement si vous entrez en rage avant de faire quoique ce soit d'autre à ce tour.
+
+## Bon instinctif
+***Optionnel au niveau 7***
+Dans le cadre de l'action bonus entreprise pour entrer en rage, vous pouvez vous déplacer jusqu'à la moitié de votre vitesse.
 
 ## Critique brutal
 À partir du niveau 9, vous pouvez lancer un dé de dégâts de votre arme en plus lorsque vous déterminez les dégâts supplémentaires que vous infligez sur un coup critique réussi avec une attaque au corps à corps. Ce bonus aux dégâts passe à deux dés au niveau 13 et à trois dés au niveau 17.
@@ -171,12 +179,12 @@ Au niveau 14, vous obtenez un bénéfice magique correspondant à l'animal totem
 
 De nombreux endroits dans le multivers regorgent de beauté, d'émotions intenses et de magie effrénée. La Féerie, les plans supérieurs et d'autres royaumes de puissances surnaturelles irradient de telles forces et peuvent profondément influencer les gens. En tant que personnes dotées de profonds sentiments, les barbares sont particulièrement sensibles à ces influences sauvages, et certains sont même transformés par la magie. Ces barbares imprégnés de magie empruntent la voie de la magie sauvage. Les barbares elfes, tieffelins, aasimars et génasis, désireux de manifester la magie d'Outremonde de leurs ancêtres, suivent souvent cette voie.
 
-### Sens de la magie
+### Conscience magique
 *Capacité de la voie de la magie sauvage de niveau 3*
 
 Par une action, vous pouvez ouvrir votre conscience à la présence de magie concentrée. Jusqu'à la fin de votre prochain tour, vous connaissez l'emplacement de tout sort ou objet magique dans un rayon de 18 m autour de vous et qui n'est pas caché par un abri total. Lorsque vous sentez un sort, vous reconnaissez à quelle école de magie il appartient. Vous pouvez utiliser cette capacité un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
-### Sursaut sauvage
+### Accès sauvage
 *Capacité de la voie de la magie sauvage de niveau 3*
 
 L'énergie magique qui coule en vous jaillit parfois. Lorsque vous entrez en rage, lancez 1d8 sur la table de Magie sauvage pour déterminer l'effet magique produit. Si l'effet requiert un jet de sauvegarde, le DD est égal à 8 + votre bonus de maîtrise + votre modificateur de Constitution.
@@ -194,7 +202,7 @@ L'énergie magique qui coule en vous jaillit parfois. Lorsque vous entrez en rag
 | 7	| Des fleurs et des plantes poussent temporairement autour de vous. Jusqu'à ce que votre rage se termine, le sol dans un rayon de 4,50 mètres autour de vous est un terrain difficile pour vos ennemis. |
 | 8	| La magie imprègne une arme de votre choix que vous tenez. Jusqu'à ce que votre rage se termine, le type de dégâts de l'arme est de force, et elle acquiert les propriétés légère et lancer, avec une portée nominale de 6 mètres et une longue portée de 18 mètres. Si l'arme quitte votre main, elle réapparaît dans votre main à la fin du tour en cours. | 
 
-### Réserve de magie
+### Magie galvanisante
 *Capacité de la voie de la magie sauvage de niveau 6*
 
 Vous pouvez exploiter votre magie sauvage pour vous renforcer ou renforcer un compagnon. Par une action, vous pouvez toucher une créature (y compris vous-même) et lui conférer l'un des avantages suivants de votre choix :
@@ -204,12 +212,106 @@ Vous pouvez exploiter votre magie sauvage pour vous renforcer ou renforcer un co
 
 Vous pouvez effectuer cette action un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
-### Réaction instable
+### Riposte capricieuse
 *Capacité de la voie de la magie sauvage de niveau 10*
 
 Lorsque vous êtes en danger pendant votre rage, votre magie intérieure peut se déchaîner. Immédiatement après avoir subi des dégâts ou échoué à un jet de sauvegarde pendant que vous êtes en rage, vous pouvez utiliser votre réaction pour lancer un dé sur la table de Magie sauvage et l'effet obtenu se produit immédiatement. Cet effet remplace votre effet de Magie sauvage en cours.
 
-### Sursaut contrôlé
+### Sauvagerie contrôlé
 *Capacité de la voie de la magie sauvage de niveau 14*
 
 Chaque fois que vous lancez un dé sur la table de Magie sauvage, vous pouvez lancer le dé deux fois et choisir lequel des deux effets se déclenche. Si vous lancez le même nombre sur les deux dés, vous pouvez ignorer le dé et choisir n'importe quel effet sur la table.
+
+---
+
+## Voie de la bête
+***Le Chaudron des Merveilles de Tasha***
+
+Les barbares qui empruntent la Voie de la Bête tirent leur rage d'une étincelle bestiale qui brûle dans leur âme. Cette bête éclate dans les affres de la rage, transformant physiquement le barbare.
+
+Un tel barbare peut être habité par un esprit primitif ou descendre d'un métamorphe. Vous pouvez choisir l'origine de votre force sauvage ou la déterminer en effectuant un jet sur la table Origine de la bête.
+
+**Origine de la bête :**
+| **d4** | **Origine** |
+| ------ | ----------- |
+| 1 | L'un de vos parents est un lycanthrope et vous avez hérité de sa malédiction. |
+| 2 | Vous descendez d'un archidruide et avez hérité de la capacité à changer partiellement de forme. |
+| 3 | Un esprit féérique vous a octroyé la capacité d'adopter différents aspects bestiaux. |
+| 4 | Un esprit animal ancestral vit en vous, ce qui vous permet d'embrasser cette voie |
+
+### Forme de la bête
+*Capacité de la voie de la bête de niveau 3*
+
+Lorsque vous entrez dans votre rage, vous pouvez vous transformer, révélant la puissance bestiale qui est en vous. Jusqu'à la fin de la rage, vous manifestez une arme naturelle. Elle compte pour vous comme une arme courante de corps à corps, et vous ajoutez votre modificateur de Force aux jets d'attaque et de dégâts lorsque vous attaquez avec, selon la règle normale.
+
+Vous choisissez la forme de l'arme à chaque fois que vous entrez en rage :
+
+- **Morsure.** Votre bouche se transforme en une gueule bestiale ou en grandes mandibules (au choix). Elle inflige 1d8 points de dégâts perforants quand elle touche. Une fois à chacun de vos tours où vous infligez des dégâts à une créature avec cette morsure, vous regagnez un nombre de points de vie égal que votre bonus de maîtrise, à condition que vous ayez moins de la moitié de vos points de vie lorsque vous touchez.
+
+- **Griffes.** Chacune de vos mains se transforme en une griffe, que vous pouvez utiliser comme une arme si elle est libre. Elle inflige 1d6 points de dégâts tranchants sur un coup. Une fois à chacun de vos tours, lorsque vous attaquez avec une griffe en utilisant l'action Attaque, vous pouvez effectuer une attaque de griffe supplémentaire dans le cadre de la même action.
+
+- **Queue.** Il vous pousse une queue épineuse qui inflige 1d8 points de dégâts perforants en cas de coup et qui a la propriété de portée. Si une créature que vous pouvez voir à moins de 3 mètres de vous vous frappe avec un jet d'attaque, vous pouvez utiliser votre réaction pour donner un coup de queue et lancer un d8, appliquant un bonus à votre CA égal au nombre obtenu, ce qui peut vous faire rater l'attaque.
+
+### Âme bestiale
+*Capacité de la voie de la bête de niveau 6*
+
+La puissance sauvage qui est en vous s'intensifie au point que les armes naturelles de votre Forme de la bête comptent comme magiques pour ce qui est de passer outre la résistance et l'immunité aux attaques et aux dégâts non magiques.
+
+Vous pouvez également altérer votre forme pour vous adapter à l'environnement. Lorsque vous terminez un repos court ou long, choisissez l'un des avantages suivants, qui dure jusqu'à ce que vous terminiez un repos court ou long :
+
+- Vous gagnez une vitesse de nage égale à votre vitesse de marche et vous pouvez respirer sous l'eau.
+- Vous gagnez une vitesse d'escalade égale à votre vitesse de marche et vous pouvez grimper sur des surfaces difficiles, y compris à l'envers sur des plafonds, sans avoir à faire de test d'aptitude.
+- Lorsque vous sautez, vous pouvez faire un test de Force (Athlétisme) et prolonger votre saut d'un nombre de pieds égal au total du test. Vous ne pouvez faire ce test qu'une seule fois par tour.
+
+### Fureur contagieuse
+*Capacité de la voie de la bête de niveau 10*
+
+Lorsque vous touchez une créature avec une armes naturelles et que vous êtes enragé, la bête intérieure peut infecter votre cible d'un accès de furie. La cible doit réussir un jet de sauvegarde de Sagesse (DC égal à 8 + votre modificateur de Constitution + votre bonus de compétence) ou subir l'un des effets suivants (au choix) :
+
+- La cible doit utiliser sa réaction pour effectuer une attaque au corps à corps contre une autre créature de votre choix que vous pouvez voir.
+- La cible subit 2d12 points de dégâts psychiques.
+
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées à la fin d'un long repos.
+
+### Hallali
+*Capacité de la voie de la bête de niveau 14*
+
+La bête qui est en vous est désormais si puissante que sa férocité se manifeste chez autrui et vous galvanise quand des compagnons se joignent à votre meute. Lorsque vous entrez dans votre rage, vous pouvez choisir un nombre de créatures consentantes que vous pouvez voir dans un rayon de 9m égal à votre modificateur de Constitution (minimum d'une créature).
+Vous gagnez 5 points de vie temporaires pour chaque créature qui accepte cette aptitude. Jusqu'à la fin de la rage, les créatures choisies peuvent utiliser l'avantage suivant une fois à chacun de leurs tours : 
+- Lorsque la créature touche une cible avec un jet d'attaque et lui inflige des dégâts, la créature peut lancer un d6 et gagner un bonus aux dégâts égal au nombre obtenu.
+
+Vous pouvez utiliser cette caractéristique un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées à la fin d'un long repos.
+
+---
+
+## Voie du gardien ancestral
+***Le guide complet de Xanathar***
+Certains barbares sont issus de cultures qui vénèrent leurs ancêtres. Ces tribus enseignent que les guerriers du passé subsistent dans le monde sous la forme de puissants esprits, qui peuvent guider et protéger les vivants. Lorsqu'un barbare qui suit cette voie est en état de rage, il contacte le monde des esprits et fait appel à ces esprits protecteurs.
+
+Les barbares qui font appel à leurs gardiens ancestraux peuvent combattent mieux quand il s'agit de protéger leurs tribus et leurs alliés. Afin de consolider les liens avec leurs gardiens ancestraux, les barbares qui suivent cette voie se couvrent de tatouages élaborés qui célèbrent les exploits de leurs ancêtres. Ces tatouages racontent des sagas de victoires contre des monstres terribles et d'autres rivaux redoutables.
+
+### Protecteur ancestraux
+Au niveau 3, Des guerriers spectraux apparaissent lorsque vous entrez en rage. Pendant que vous êtes enragé, la première créature que vous touchez avec une attaque à votre tour devient la cible des guerriers, qui viennent gêner ses attaques. Jusqu'au début de votre prochain tour, cette cible a un désavantage sur tout jet d'attaque qui n'est pas contre vous, et lorsque la cible touche une créature autre que vous avec une attaque, cette créature a une résistance aux dégâts infligés par l'attaque. L'effet sur la cible prend fin prématurément si votre rage prend fin.
+
+### Bouclier spirituel
+A partir du niveau 6, les esprits gardiens qui vous aident peuvent fournir une protection surnaturelle à ceux que vous défendez. Si vous êtes enragé et qu'une créature visible à moins de 9m de vous subit des dégâts, vous pouvez utiliser votre réaction pour réduire ces dégâts de 2d6.
+
+Lorsque vous atteignez certains niveaux dans cette classe, vous pouvez réduire les dégâts de 3d6 au 10ème niveau et de 4d6 au 14ème niveau.
+
+### Consultation des esprits
+Au niveau 10, vous gagnez la capacité de consulter les esprits de vos ancêtres. Lorsque vous le faites, vous lancez le sort Augure ou Clairvoyance, sans utiliser d'emplacement de sort ou de composantes matérielles. Au lieu de créer un détecteur sphérique, le sort clairvoyance vous permet dans ce cas d'invoquer l'esprit d'un de vos ancêtres qui apparait invisible à l'endroit de votre choix. La sagesse est votre capacité de lanceur de sorts pour ces sorts.
+
+Après avoir lancé l'un ou l'autre sort de cette façon, vous ne pouvez plus utiliser cette caractéristique avant d'avoir terminé un repos court ou long.
+
+### Ancêtres vengeurs
+Au niveau 14, les esprits de vos ancêtres deviennent suffisamment puissants pour riposter. Lorsque vous utilisez votre bouclier spirituel pour réduire les dégâts infligés par une attaque, l'attaquant subit un montant de dégâts de force égale à celle absorbée par votre bouclier spirituel.
+
+---
+
+## Voie du héraut des tempêtes
+***Le guide complet de Xanathar***
+
+---
+
+## Voie du Zélote
+***Le guide complet de Xanathar***
