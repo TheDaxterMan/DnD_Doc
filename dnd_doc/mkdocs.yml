@@ -104,5 +104,16 @@ theme:
 
 nav:
   - Home: index.md
+  - Artificier: artificier.md
   - Barbare: barbare.md
   - Barde: barde.md
+  - Clerc: clerc.md
+  - Druide: druide.md
+  - Ensorceleur: ensorceleur.md
+  - Guerrier: guerrier.md
+  - Magicien: magicien.md
+  - Moine: moine.md
+  - Occultiste: occultiste.md
+  - Paladin: paladin.md
+  - Rodeur: rodeur.md
+  - Roublard: roublard.md
