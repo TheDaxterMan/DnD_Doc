@@ -399,41 +399,86 @@ Les artificiers ont inventé d'innombrables imprégnations magiques capables de 
 
 La description de chaque imprégnation indique le type d'objet qui peut la recevoir et si l'objet magique en résultant nécessite un lien. Certaines imprégnations spécifient un niveau d'artificier minimum. Vous ne pouvez apprendre une imprégnation de ce genre à moins d'avoir au moins le niveau spécifié. À moins que la description d'une imprégnation n'indique le contraire, vous ne pouvez apprendre une imprégnation donnée qu'une seule fois.
 
-### Bottes du sentier sinueux
-*Prérequis : artificier niveau 6*
-*Objet : une paire de bottes (nécessite un lien)*
+### Aiguisoir d'esprit
+*Objet : Une armure ou une robe*
 
-Une créature qui porte ces bottes peut se téléporter par une action bonus jusqu'à une distance de 4,50 m dans un espace inoccupé qu'elle peut voir. La créature doit avoir occupé cet espace à un moment donné au cours du tour en cours.
+L'objet infusé peut envoyer une secousse au porteur pour recentrer son esprit. L'objet a 4 charges. Lorsque le porteur échoue à un jet de sauvegarde de Constitution pour maintenir sa concentration sur un sort, il peut utiliser sa réaction pour dépenser 1 des charges de l'objet pour réussir à la place. L'objet regagne 1d4 charges dépensées chaque jour à l'aube.
 
-### Focaliseur arcanique amélioré
-*Objet : une baguette, un bâton ou un sceptre (nécessite un lien)*
+### Anneau de ravitaillement magique
+*Prérequis : Artificier de niveau 6*
+*Objet : Un anneau (nécessite un lien)*
 
-Tant qu'elle tient cet objet, une créature gagne un bonus de + 1 aux jets d'attaque avec un sort. De plus, la créature ignore les abris partiels lorsqu'elle effectue une attaque avec un sort. Le bonus passe à +2 lorsque vous atteignez le niveau 10 dans cette classe.
-
-### Défense améliorée
-*Objet : une armure ou un bouclier*
-
-Une créature reçoit un bonus de +1 à sa Classe d'Armure lorsqu'elle porte l'objet imprégné (armure ou bouclier). Le bonus passe à +2 lorsque vous atteignez le niveau 10 dans cette classe.
+Lorsqu'elle porte cet anneau, la créature peut récupérer un emplacement de sort dépensé en tant qu'action. L'emplacement récupéré peut être de niveau 3 ou inférieur. Une fois utilisé, l'anneau ne peut être réutilisé qu'à l'aube suivante.
 
 ### Arme améliorée
 *Objet : une arme courante ou de guerre*
 
 Octroie un bonus de +1 aux jets d'attaque et de dégâts effectués avec cette arme magique. Le bonus passe à +2 lorsque vous atteignez le niveau 10 dans cette classe.
 
-### Serviteur homoncule
-*Objet : une gemme ou un cristal d'une valeur d'au moins 100 po*
+### Arme boomerang
+*Objet : une arme courante ou de guerre avec la propriété lancer*
 
-Vous découvrez d'anciennes méthodes pour créer magiquement un homoncule spécial qui vous sert. L'objet que vous imprégnez sert de cœur à la créature, autour duquel se forme instantanément le corps de la créature. Vous déterminez l'apparence de l'homoncule. Certains artificiers préféreront un oiseau d'aspect mécanique, tandis que d'autres voudront une fiole ailée ou un chaudron miniature. L'homoncule est amical envers vous et vos compagnons, et obéit à vos ordres. Référez-vous au bloc de stat du serviteur homoncule.
-
-En combat, [l'homoncule](https://www.aidedd.org/dnd/monstres.php?vf=serviteur-homoncule) partage votre initiative, mais prend son tour immédiatement après le vôtre. Il peut bouger et utiliser sa réaction par lui-même, mais la seule action qu'il peut entreprendre à son tour est l'action Esquiver, à moins que vous ne preniez une action bonus à votre tour pour lui ordonner d'entreprendre l'une des actions de son bloc de stat, ou bien encore une action parmi Aider, Chercher, Foncer, Se cacher et Se désengager.
-
-Si le sort réparation est lancé sur l'homoncule, il récupère 2d6 points de vie. S'il meurt, il disparaît, ne laissant sur place que son cœur.
+Octroie un bonus de +1 aux jets d'attaque et de dégâts effectués avec cette arme magique, qui retourne dans la main de son porteur immédiatement après avoir effectué une attaque à distance.
 
 ### Arme radiante
 *Prérequis : artificier niveau 6*
 *Objet : une arme courante ou de guerre (nécessite un lien)*
 
 Vous obtenez un bonus de +1 aux jets d'attaque et de dégâts effectués avec cette arme magique. Lorsqu'il la tient en main, le porteur peut prendre une action bonus pour lui faire émaner une lumière vive dans un rayon de 9 mètres et une lumière faible sur 9 mètres supplémentaires. Le porteur peut arrêter la lumière par une action bonus. L'arme possède 4 charges. Par une réaction, immédiatement après avoir été touché par une attaque, le porteur peut dépenser 1 charge et faire que l'attaquant soit aveuglé jusqu'à la fin du prochain tour de ce dernier, à moins qu'il ne réussisse un jet de sauvegarde de Constitution contre le DD de sauvegarde de vos sorts. L'arme récupère 1d4 charges dépensées chaque jour à l'aube.
+
+### Armure de propulsion arcane
+*Prérequis : Artificier de niveau 14*
+*Objet : Une armure (nécessite un lien)*
+
+Le porteur de cette armure bénéficie des avantages suivants :
+
+- La vitesse de marche augmente de 5 pieds.
+- L'armure comprend des gantelets, dont chacun est une arme de mêlée magique qui ne peut être maniée que si la main ne tient rien. Le porteur est compétent avec les gantelets, et chacun d'entre eux inflige 1d8 points de dégâts de force sur un coup et a la propriété de pouvoir être jeté, avec une portée normale de 20 pieds et une portée longue de 60 pieds. Lorsqu'il est lancé, le gantelet se détache et vole vers la cible de l'attaque, puis revient immédiatement vers le porteur et se rattache.
+- L'armure ne peut être retirée contre la volonté du porteur.
+- S'il manque des membres au porteur, l'armure les remplace - mains, bras, pieds, jambes ou autres appendices similaires. Les substituts fonctionnent de la même manière que les parties du corps qu'ils remplacent.
+
+### Armure de force magique
+*Objet : Une armure (nécessite un lien)*
+
+Cette armure a 6 charges. Le porteur peut dépenser les charges de l'armure de la façon suivante :
+
+- Lorsqu'il effectue un test de Force ou un jet de sauvegarde de Force, il peut dépenser 1 charge pour ajouter au jet un bonus égal à son modificateur d'Intelligence.
+- Si la créature est mise à terre, elle peut utiliser sa réaction pour dépenser 1 charge afin d'éviter d'être mise à terre.
+L'armure regagne 1d6 charges dépensées chaque jour à l'aube.
+
+### Armure résistante
+*Prérequis : artificier niveau 6*
+*Objet : une armure (nécessite un lien)*
+
+Une créature qui porte cette armure obtient la résistance à un des types de dégâts suivants, que vous choisissez au moment d'imprégner l'objet : acide, feu, force, foudre, froid, nécrotique, poison, psychique, radiant ou tonnerre.
+
+### Bottes du sentier sinueux
+*Prérequis : artificier niveau 6*
+*Objet : une paire de bottes (nécessite un lien)*
+
+Une créature qui porte ces bottes peut se téléporter par une action bonus jusqu'à une distance de 4,50 m dans un espace inoccupé qu'elle peut voir. La créature doit avoir occupé cet espace à un moment donné au cours du tour en cours.
+
+### Bouclier répulsif
+*Prérequis : artificier niveau 6*
+*Objet : un bouclier (nécessite un lien)*
+
+Une créature qui tient se bouclier gagne un bonus de + 1 à la Classe d'Armure. Le bouclier possède 4 charges. Tant qu'il le tient, le porteur peut utiliser une réaction immédiatement après avoir été touché par une attaque au corps à corps pour dépenser 1 des charges du bouclier et repousser l'attaquant jusqu'à 4,50 mètres. Le bouclier récupère quotidiennement 1d4 charges dépensées chaque jour à l'aube.
+
+### Défense améliorée
+*Objet : une armure ou un bouclier*
+
+Une créature reçoit un bonus de +1 à sa Classe d'Armure lorsqu'elle porte l'objet imprégné (armure ou bouclier). Le bonus passe à +2 lorsque vous atteignez le niveau 10 dans cette classe.
+
+### Focaliseur arcanique amélioré
+*Objet : une baguette, un bâton ou un sceptre (nécessite un lien)*
+
+Tant qu'elle tient cet objet, une créature gagne un bonus de + 1 aux jets d'attaque avec un sort. De plus, la créature ignore les abris partiels lorsqu'elle effectue une attaque avec un sort. Le bonus passe à +2 lorsque vous atteignez le niveau 10 dans cette classe.
+
+### Heaume de vigilance
+*Prérequis : Artificier de niveau 10*
+*Objet : Un casque (nécessite un lien)*
+
+Lorsqu'elle porte ce casque, une créature a l'avantage aux jets d'initiative. De plus, le porteur ne peut pas être surpris, à condition qu'il ne soit pas neutralisé.
 
 ### Réplique d'objet magique
 En utilisant cette imprégnation, vous reproduisez un objet magique spécifique. Vous pouvez apprendre cette imprégnation plusieurs fois : à chaque fois, choisissez un objet magique différent à reproduire parmi les tables ci-dessous. Si la table indique un niveau dans son intitulé, vous devez avoir au moins ce niveau dans cette classe pour choisir un objet y figurant.
@@ -512,19 +557,18 @@ Dans les tables, l'entrée de chaque objet indique s'il nécessite un lien ou no
 | Anneau de protection | Oui |
 | Anneau du bélier | Oui |
 
-### Bouclier répulsif
-*Prérequis : artificier niveau 6*
-*Objet : un bouclier (nécessite un lien)*
+### Salve 
+*Objet : Une arme simple ou martiale avec la propriété munition (nécessite un lien).*
 
-Une créature qui tient se bouclier gagne un bonus de + 1 à la Classe d'Armure. Le bouclier possède 4 charges. Tant qu'il le tient, le porteur peut utiliser une réaction immédiatement après avoir été touché par une attaque au corps à corps pour dépenser 1 des charges du bouclier et repousser l'attaquant jusqu'à 4,50 mètres. Le bouclier récupère quotidiennement 1d4 charges dépensées chaque jour à l'aube.
+Cette arme magique accorde un bonus de +1 aux jets d'attaque et de dégâts effectués avec elle lorsqu'elle est utilisée pour effectuer une attaque à distance, et elle ignore la propriété de chargement si elle en possède une.
 
-### Armure résistante
-*Prérequis : artificier niveau 6*
-*Objet : une armure (nécessite un lien)*
+Si l'arme manque de munitions, elle en produit elle-même, créant automatiquement une munition magique lorsque le porteur effectue une attaque à distance avec elle. Les munitions créées par l'arme disparaissent dès qu'elle touche ou manque une cible.
 
-Une créature qui porte cette armure obtient la résistance à un des types de dégâts suivants, que vous choisissez au moment d'imprégner l'objet : acide, feu, force, foudre, froid, nécrotique, poison, psychique, radiant ou tonnerre.
+### Serviteur homoncule
+*Objet : une gemme ou un cristal d'une valeur d'au moins 100 po*
 
-### Arme boomerang
-*Objet : une arme courante ou de guerre avec la propriété lancer*
+Vous découvrez d'anciennes méthodes pour créer magiquement un homoncule spécial qui vous sert. L'objet que vous imprégnez sert de cœur à la créature, autour duquel se forme instantanément le corps de la créature. Vous déterminez l'apparence de l'homoncule. Certains artificiers préféreront un oiseau d'aspect mécanique, tandis que d'autres voudront une fiole ailée ou un chaudron miniature. L'homoncule est amical envers vous et vos compagnons, et obéit à vos ordres. Référez-vous au bloc de stat du serviteur homoncule.
 
-Octroie un bonus de +1 aux jets d'attaque et de dégâts effectués avec cette arme magique, qui retourne dans la main de son porteur immédiatement après avoir effectué une attaque à distance.
+En combat, [l'homoncule](https://www.aidedd.org/dnd/monstres.php?vf=serviteur-homoncule) partage votre initiative, mais prend son tour immédiatement après le vôtre. Il peut bouger et utiliser sa réaction par lui-même, mais la seule action qu'il peut entreprendre à son tour est l'action Esquiver, à moins que vous ne preniez une action bonus à votre tour pour lui ordonner d'entreprendre l'une des actions de son bloc de stat, ou bien encore une action parmi Aider, Chercher, Foncer, Se cacher et Se désengager.
+
+Si le sort réparation est lancé sur l'homoncule, il récupère 2d6 points de vie. S'il meurt, il disparaît, ne laissant sur place que son cœur.

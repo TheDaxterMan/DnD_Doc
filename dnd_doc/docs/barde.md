@@ -240,6 +240,7 @@ Vous pouvez utiliser cette réaction un nombre de fois égal à votre modificate
 
 ## Collège de la séduction
 ***Le guide complet de Xanathar***
+
 Le Collège de la séduction accueille les bardes qui ont appris à maîtriser leur art dans le royaume vibrant de la Forêt des Fées ou sous la tutelle de quelqu'un qui y habitait. Encadrés par des satyres, des eladrins et d'autres fey, ces bardes apprennent à utiliser leur magie pour enchanter et captiver les autres.
 
 Les bardes de ce collège sont considérés avec un mélange de crainte et d'admiration. Leurs prestations sont légendaires. Ces bardes sont si éloquents qu'un discours ou un chant prononcé par l'un d'entre eux peut amener ses ravisseurs à le relâcher sain et sauf et peut inciter un dragon furieux à la complaisance. La même magie qui leur permet de calmer les bêtes peut aussi plier les esprits. Les méchants bardes de ce collège peuvent s'emparer d'une communauté pendant des semaines, abusant de leur magie pour transformer leurs hôtes en esclaves. Les bardes héroïques de ce collège utilisent plutôt ce pouvoir pour réjouir les opprimés et saper les oppresseurs.
@@ -278,6 +279,7 @@ Une fois que vous avez adopté cette présence majestueuse, vous ne pouvez plus 
 
 ## Collège des épées
 ***Le guide complet de Xanathar***
+
 Les bardes du Collège des épées sont appelés des lames, et ils divertissent par des prouesses audacieuses avec leurs armes. Les lames se livrent à des acrobaties telles qu'avaler une épée, lancer et jongler des couteaux, et simuler des combats. Bien qu'ils utilisent leurs armes pour divertir, ils sont aussi des guerriers hautement entraînés et compétents.
 
 Leur talent pour les armes incite de nombreuses lames à mener une double vie. Une lame peut se servir d'une troupe de cirque comme couverture pour commettre des actes malfaisants tels que l'assassinat, le vol et le chantage. D'autres lames s'attaquent aux criminels, faisant régner la justice contre les puissants et les cruels. La plupart des troupes sont heureuses d'accepter le talent d'une lame pour l'excitation qu'il ajoute à un spectacle, mais peu d'artistes font entièrement confiance à une lame dans leurs rangs.
@@ -316,6 +318,7 @@ Chaque fois que vous entreprenez l'action Attaquer à votre tour, votre vitesse 
 
 ## Collège des murmures
 ***Le guide complet de Xanathar***
+
 La plupart des gens sont heureux d'accueillir un barde parmi eux. Les bardes du Collège des murmures utilisent cela à leur avantage. Ils semblent être des bardes comme les autres, partageant des nouvelles, chantant des chansons et racontant des histoires au public qu'ils rassemblent. En réalité, le Collège des murmures enseigne à ses étudiants qu'ils sont des loups parmi les moutons. Ces bardes utilisent leurs connaissances et leur magie pour découvrir des secrets et les retourner contre les autres par l'extorsion et les menaces.
 
 Beaucoup d'autres bardes détestent le Collège des murmures, le considérant comme un parasite qui utilise la réputation des bardes pour acquérir richesse et pouvoir. C'est pourquoi ces bardes révèlent rarement leur véritable nature, à moins qu'ils n'y soient obligés. Ils prétendent généralement suivre un autre collège, ou gardent leur vraie nature secrète afin de mieux infiltrer et exploiter les cours royales et autres lieux de pouvoir.

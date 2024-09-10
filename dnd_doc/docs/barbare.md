@@ -288,6 +288,7 @@ Vous pouvez utiliser cette caractéristique un nombre de fois égal à votre bon
 
 ## Voie du gardien ancestral
 ***Le guide complet de Xanathar***
+
 Certains barbares sont issus de cultures qui vénèrent leurs ancêtres. Ces tribus enseignent que les guerriers du passé subsistent dans le monde sous la forme de puissants esprits, qui peuvent guider et protéger les vivants. Lorsqu'un barbare qui suit cette voie est en état de rage, il contacte le monde des esprits et fait appel à ces esprits protecteurs.
 
 Les barbares qui font appel à leurs gardiens ancestraux peuvent combattent mieux quand il s'agit de protéger leurs tribus et leurs alliés. Afin de consolider les liens avec leurs gardiens ancestraux, les barbares qui suivent cette voie se couvrent de tatouages élaborés qui célèbrent les exploits de leurs ancêtres. Ces tatouages racontent des sagas de victoires contre des monstres terribles et d'autres rivaux redoutables.
@@ -312,6 +313,7 @@ Au niveau 14, les esprits de vos ancêtres deviennent suffisamment puissants pou
 
 ## Voie du héraut des tempêtes
 ***Le guide complet de Xanathar***
+
 Tous les barbares sont animés par une fureur contenue. Leur rage leur confère une force, une résistance et une vitesse supérieures. Les barbares qui suivent la voie du héraut de la tempête apprennent à transformer leur rage en un voile de magie primitive qui tourbillonne autour d'eux. Quand un tel barbare libère sa furie, il peut puiser dans les forces de la nature pour créer de puissants effets magiques.
 
 Les hérauts des tempêtes sont généralement des guerriers d'élite formés par des druides, de gardes forestiers et d'autres personnes ayant juré de protéger le royaume naturel. D'autres hérauts d'orage perfectionnent leur art dans des loges d'élite fondées dans des régions dévastées par les tempêtes, dans les étendues gelées du bout du monde ou au cœur des déserts les plus brûlants.
@@ -354,6 +356,7 @@ Au 14e niveau, la puissance de la tempête que vous arrivez à canaliser augment
 
 ## Voie du Zélote
 ***Le guide complet de Xanathar***
+
 Certaines divinités inspirent leurs adeptes au point qu'ils se laissent aller à une féroce fureur guerrière. Ces barbares sont des zélotes, des guerriers qui canalisent leur rage pour créer d'extraordinaire manifestations de puissance divine.
 
 De nombreux dieux inspirent leurs disciples à embrasser cette voie. Tempus des Royaumes oubliés, Hextor et Erythnul de Greyhawk en sont de parfaits exemples. En général, les dieux qui inspirent les zélotes sont des divinités du combat, de la destruction et de la violence. Tous ne sont pas maléfiques, mais peu sont bons.
