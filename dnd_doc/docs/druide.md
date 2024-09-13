@@ -246,6 +246,7 @@ Lorsque vous atteignez le niveau 14, les créatures du monde naturel ressentent 
 ---
 
 ## Cercle des Astres
+***Le Chaudron des Merveilles de Tasha***
 
 Le Cercle des Astres permet à ses adeptes de puiser dans la lumière des étoiles. Ces druides observent les cieux depuis des siècles pour comprendre les secrets révélés par les constellations. L’acquisition progressive de ces arcanes permet à l’ordre de déployer toute la puissance du cosmos.
 
@@ -312,6 +313,7 @@ Tant que vous êtes sous forme stellaire, vous êtes en partie intangible, ce qu
 ---
 
 ## Cercle des Fournaises
+***Le Chaudron des Merveilles de Tasha***
 
 Les adeptes du Cercle des Fournaises comprennent la nécessité de la destruction, lorsqu’une forêt en proie au déclin se régénère grâce à un feu purificateur. Ces druides se lient à la nature par des tendances à la fois destructrices et créatives, ce qui leur permet de produire des flammes maîtrisées qui calcineront une chose pour donner vie à une autre.
 
@@ -343,6 +345,82 @@ L’esprit des fournaises est amical envers vous et vos alliés. Il se manifeste
 Votre lien avec l’esprit des fournaises renforce vos sorts de destruction et de guérison. Chaque fois que vous lancez un sort qui inflige des dégâts de feu ou restaure des points de vie alors que votre esprit des fournaises est convoqué, vous lancez 1d8 et ajoutez le résultat comme bonus à l’un des dégâts de feu ou soins associés au sort.
 
 De plus, lorsque vous lancez un sort dont la portée n’est pas personnelle, ce sort peut émaner de vous ou de votre esprit des fournaises.
+
+### Cautère spectral
+*Aptitude du Cercle des Fournaises de niveau 10*
+
+Vous recevez la capacité de convertir la mort en flammes magiques qui soignent ou incinèrent. Lorsqu’une créature de taille P ou supérieure meurt dans un rayon de 9 m de vous ou de votre esprit des fournaises, des flammes spectrales inoffensives jaillissent de l’espace de la créature morte pour y vaciller pendant 1 minute. Lorsqu’une créature que vous voyez entre dans ces flammes, vous pouvez utiliser votre réaction pour ordonner à ces flammes de soigner ou de brûler la créature (les soins ou dégâts égaux à 2d10 + votre modificateur de Sagesse). 
+
+Vous pouvez jouer cette réaction autant de fois que vous avez de bonus de maîtrise et récupérez ce quota en terminant un repos long.
+
+### Renaissance flamboyante
+*Aptitude du Cercle des Fournaises de niveau 14*
+
+Le lien que vous entretenez avec votre esprit des fournaises peut vous soustraire à la mort. Si votre esprit est dans un rayon de 36 m de vous lorsque vous tombez à 0 point de vie en vous retrouvant inconscient, vous pouvez faire tomber l’esprit à 0 point de vie. Vous regagnez alors la moitié de votre maximum de points de vie et vous retrouvez aussitôt sur pied.
+
+Une fois que vous avez utilisé cette aptitude, vous devez terminer un repos long pour pouvoir y recourir de nouveau.
+
+---
+
+## Cercle des Spores
+***Le Chaudron des Merveilles de Tasha***
+
+Les adeptes du Cercle des Spores savent apprécier la beauté de la décomposition. Quand ils observent de la moisissure ou des objets en train de se décomposer, ils voient la possibilité de transformer la matière inerte en forme de vie dansante, aussi étrange soit-elle. Pour ces druides, la vie et la mort font partie d’un grand cycle dans lequel l’une mène à l’autre et réciproquement. La mort ne signe pas la fin du vivant, mais annonce un changement par lequel la vie prépare une forme nouvelle.
+
+Ces druides entretiennent une relation complexe avec les morts-vivants. Contrairement à la plupart des autres, ils ne perçoivent rien de foncièrement mauvais dans la fausse vie, qui n’est selon eux que la compagnie de la vie et de la mort. Ils estiment toutefois que le cycle naturel demeurera plus sain lorsque ses étapes se montrent dynamiques et changeantes. Les morts-vivants qui cherchent à échapper à la vie par leur simulacre ou qui se soustraient au repos final ne font que violer le cycle ; il faut les en empêcher.
+
+### Sorts de cercle
+*Aptitude du Cercle des Spores de niveau 2*
+
+La symbiose dont vous jouissez avec les champignons et votre capacité à puiser dans le cycle de la vie et de la mort vous ouvrent la voie de certains sorts. Au niveau 2, vous apprenez le sort **contact glacial**.
+
+Aux niveaux 3, 5, 7 et 9, vous acquérez aussi les sorts indiqués dans le tableau Sorts du Cercle des Spores. Les fois où vous avez un sort de cercle, on considère qu’il est toujours préparé, sans qu’il soit décompté du nombre de sorts que vous pouvez préparer chaque jour. Si vous disposez d’un sort de cercle qui n’apparaît pas dans la liste des sorts de druide, on ne le considère pas comme un sort de druide dans votre cas.
+
+### Sorts du Cercle des Spores
+
+| Niveau de druide | Sorts                       |
+|------------------|-----------------------------|
+| 2                | contact glacial              |
+| 3                | cécité/surdité, doux repos   |
+| 5                | animation des morts, forme gazeuse |
+| 7                | confusion, flétrissement     |
+| 9                | brume mortelle, contagion    |
+
+---
+
+### Halo de spores
+*Aptitude du Cercle des Spores de niveau 2*
+
+Vos spores vous permettent de contaminer un cadavre pour l’animer. Quand une créature de taille P ou M meurt dans un rayon de 3 m de vous, vous pouvez utiliser votre réaction pour l’animer et la relever sous l’aspect d’un zombie (Monster Manual). Le zombie reste animé pendant 1 heure, après quoi il retombe inerte. Il obéit à vos ordres mentaux, sachant que l’attaque Attaquer inclut une seule attaque de corps à corps.
+
+### Symbiote
+*Aptitude du Cercle des Spores de niveau 2*
+
+Vous recevez la capacité de charger vos spores de magie. Au prix d’une action, vous pouvez dépenser une utilisation de l’aptitude Forme sauvage pour animer vos spores et les transformer en abri. Vous recevez alors 4 points de vie temporaires par niveau dans cette classe. Tant que cette vie temporaire est active, vous recevez les bénéfices suivants :
+
+- Lorsque vous infligez vos dégâts du Halo de spores, lancez le dé correspondant une deuxième fois et ajoutez-le au total.
+- Vos attaques d’armes de corps à corps infligent 1d6 dégâts nécrotiques supplémentaires à toute cible touchée.
+
+Ces bénéfices persistent 10 minutes, mais prennent également fin si vous perdez tous ces points de vie temporaires ou réutilisez votre Forme sauvage.
+
+### Animation fongique
+*Aptitude du Cercle des Spores de niveau 6*
+
+Vos spores vous permettent de contaminer un cadavre pour l’animer. Quand une bête ou un humanoïde de taille P ou M meurt dans un rayon de 3 mètres de vous, vous pouvez utiliser votre réaction pour l’animer et le relever sous l’aspect d’un zombie (**Monster Manual**) pendant 1 heure, après quoi il retombe inerte. Au combat, le zombie agit à la fin de chacun de vos tours. Il obéit à vos ordres mentaux, sachant que l’attaque **Attaquer** inclut une seule attaque (au corps à corps).
+
+Vous pouvez réutiliser cette aptitude autant de fois que votre modificateur de Sagesse (minimum une fois) et vous récupérez ce quota en terminant un repos long.
+
+### Dissemination de spores
+*Aptitude du Cercle des Spores de niveau 10*
+
+Vous recevez la capacité de semer vos spores sur une large zone. Au prix d’une action, vous pouvez créer un cube de 9 mètres de côté centré sur un point dans un rayon de 36 mètres de vous et qui reste en place pendant 1 minute. Les créatures que vous choisissez dans le cube doivent réussir un jet de sauvegarde de Constitution contre le DD de sauvegarde de vos sorts, sinon elles subissent les dégâts de votre **Halo de spores**. Ces dégâts ne s’appliquent qu’une fois par tour à chaque créature.
+
+Tant que le cube de spores persiste, vous ne pouvez pas réagir à l’action associée à votre **Halo de spores**.
+
+### Corps fongique
+*Aptitude du Cercle des Spores de niveau 14*
+
+Les spores que renferme votre corps finissent par vous transformer, vous immunisant contre les états suivants : assourdi, aveuglé, effrayé et empoisonné. De plus, les coups critiques sont traités contre vous comme des coups normaux, sauf si vous êtes neutralisé.
 
 ---
 
