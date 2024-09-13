@@ -424,10 +424,6 @@ Les spores que renferme votre corps finissent par vous transformer, vous immunis
 
 ---
 
-Voici la retranscription du texte de la photo :
-
----
-
 ## Cercle des rêves
 
 Les druides qui sont membres du cercle des rêves sont originaires de régions qui ont des liens étroits avec la Féerie et ses mystérieux royaumes, où le voile entre le rêve et le monde naturel est mince. Les druides ont des alliés naturels des fées et du monde onirique. Ces druides cherchent à remplir le monde de merveilles et de mystères. Leur magie guérit les blessés et égaye les cœurs abattus et les domaines qu'ils protègent sont des lieux brillants et agréables, où les créatures se reposent et où les personnes épuisées peuvent se reposer.
