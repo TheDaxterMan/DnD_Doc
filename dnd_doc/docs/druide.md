@@ -424,3 +424,304 @@ Les spores que renferme votre corps finissent par vous transformer, vous immunis
 
 ---
 
+Voici la retranscription du texte de la photo :
+
+---
+
+## Cercle des rêves
+
+Les druides qui sont membres du cercle des rêves sont originaires de régions qui ont des liens étroits avec la Féerie et ses mystérieux royaumes, où le voile entre le rêve et le monde naturel est mince. Les druides ont des alliés naturels des fées et du monde onirique. Ces druides cherchent à remplir le monde de merveilles et de mystères. Leur magie guérit les blessés et égaye les cœurs abattus et les domaines qu'ils protègent sont des lieux brillants et agréables, où les créatures se reposent et où les personnes épuisées peuvent se reposer.
+
+### Baume de la cour d'Été
+
+Au niveau 2, vous bénéficiez de la bénédiction de la cour d’Été. Vous devenez une source d’énergie pour apaiser et guérir les blessures, grâce au pouvoir des fées. Vous gagnez une réserve d’énergie féerique qui contient un nombre de d6 égal à 1 + votre niveau de druide. 
+
+Pour une action bonus, vous pouvez choisir une créature que vous voyez dans un rayon de 36 mètres et lui faire dépenser un certain nombre de dés de cette réserve. Lancez les dés dépensés. Ajoutez le résultat de chaque dé aux points de vie de la créature. Vous pouvez ajouter des dés de cette façon après avoir su si l’attaque touche ou si le jet de sauvegarde est un échec.
+
+Vous récupérez tous les dés dépensés ainsi après avoir terminé un repos long.
+
+### Foyer de l'ombre et du clair de lune
+
+Au niveau 6, vous vous sentez chez vous où que vous vous trouviez. Pendant un repos court ou long, vous pouvez invoquer le pouvoir de la cour Crépuscule pour vous faire un foyer de magie invisible. Au début de ce repos, il vous suffit de toucher un point dans l’espace et une sphère magique invisible d’un rayon de 9 mètres apparaît à cet endroit, dont le centre est le point que vous avez désigné. Cette sphère est bloquée par les autres créatures.
+
+Tant que vous restez dans cette sphère, vous et vos alliés bénéficiez d’un bonus de +5 aux tests de Dextérité (Discrétion) et de Sagesse (Perception), et toute lumière provenant de l’intérieur de la sphère n’est pas visible depuis l’extérieur (feu de camp, torches, etc.).
+
+La sphère disparaît à la fin du repos ou lorsque vous la quittez.
+
+### Chemins secrets
+
+À partir du niveau 10, vous pouvez utiliser les chemins secrets magiques que certaines fées utilisent pour voyager d’un endroit à un autre en un clin d’œil. Par une action bonus lors de votre tour, vous pouvez téléporter une créature consentante que vous touchez dans un rayon de 18 mètres jusqu’à un espace inoccupé que vous pouvez voir. Alternativement, vous pouvez utiliser votre action bonus pour téléporter une créature consentante que vous touchez.
+
+### Arpenteur des rêves
+
+Au niveau 14, la magie de la Féerie vous donne la possibilité de voyager mentalement ou physiquement à travers les rêves.
+
+Lorsque vous avez terminé un repos long, vous pouvez lancer un des sorts suivants sans dépenser un emplacement de sort ni utiliser de composantes matérielles : **songe** (vous êtes le messager), **scrutation**, ou **cercle de téléportation**.
+
+Cette utilisation du **cercle de téléportation** est spéciale. Plutôt que d’ouvrir un portail menant à un cercle de téléportation permanent, vous ouvrez un portail vers l’endroit où vous avez terminé un repos long sur le plan d’existence actuel. Si vous n’avez pas pris de repos long sur le plan sur lequel vous vous trouvez, le sort échoue.
+
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez plus l’utiliser jusqu’à ce que vous ayez terminé un repos long.
+
+---
+
+## Cercle du berger
+
+Les druides du cercle du berger communient avec les esprits de la nature, en particulier ceux des animaux. Ils considèrent que chaque animal, petit ou grand, est un être digne de respect. Ces druides agissent comme des protecteurs des animaux dans le monde naturel, mais tout particulièrement dans les zones où l’influence des humains et des autres races a perturbé l’équilibre naturel. Ces bergers passent souvent leur temps dans des communautés de fermiers et d’éleveurs, agissant comme les protecteurs des bêtes. Lorsqu’ils peuvent, ces druides communiquent également avec des créatures fabuleuses qui vivent dans les terres sauvages.
+
+Les membres de ce cercle deviennent des aventuriers lorsqu’ils sentent que leurs compagnons naturels leur sont en danger. Ils s’efforcent de rétablir l’équilibre entre la civilisation et les animaux. Ils prennent également soin des autres aventuriers en leur prodiguant des soins et des conseils.
+
+Les membres de ce cercle deviennent des aventuriers pour s’opposer aux forces qui menacent leurs protégés animaux. Ils partagent le savoir et le pouvoir qui les aideront à défendre les créatures. Partout où ces druides vont, les esprits des bêtes les accompagnent.
+
+### Langage de la forêt
+
+Au niveau 2, vous gagnez la capacité de converser avec les animaux et de nombreuses fées.
+
+Vous apprenez à parler, lire et écrire en sylvestre. En outre, vous gagnez la capacité de converser avec les bêtes et de les comprendre, que vous partagiez ou non une langue. La connaissance des animaux vous permet d’interpréter leurs bruits et leurs mouvements. Vous pouvez aussi comprendre les concepts sophistiqués que les animaux peuvent formuler, comme des intentions ou des besoins. Cette aptitude ne vous rend pas automatiquement ami avec eux, mais vous pouvez la combiner avec des offrandes afin de vous faire bien voir d’eux, comme vous le feriez avec un PNJ.
+
+### Totem spirituel
+
+À partir du niveau 2, vous pouvez faire appel aux esprits de la nature pour influencer le monde qui vous entoure. Par une action bonus, vous pouvez magiquement invoquer un esprit totem dans un rayon de 18 mètres de vous, que vous voyez dans un espace inoccupé de ce point. Cet esprit n’est pas une créature et ne peut être attaqué ou détruit. L’esprit prend une forme spectrale animale que vous choisissez : un ours, un faucon ou une licorne.
+
+L’aura de l’esprit totem a un rayon de 9 mètres, et il reste invocable pendant 1 minute. Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Sagesse (avec un minimum d’une fois). Vous récupérez toutes les utilisations après un repos long.
+
+- **Esprit de l’ours.** L’esprit de l’ours vous accorde, à vous et vos alliés, sa force et son endurance. Chaque créature de votre choix qui se trouve dans la zone d’effet de l’aura de l’ours gagne des points de vie temporaires égaux à 5 + votre niveau de druide. De plus, vous et vos alliés avez l’avantage aux tests de Force et aux jets de sauvegarde de Force tant que vous vous trouvez dans la zone d’effet de l’aura.
+- **Esprit du faucon.** L’esprit du faucon est un chasseur acéré qui vous confère, à vous et vos alliés, de sa vue perçante. Une fois par tour, lorsque vous ou un allié qui se trouve dans la zone d’effet de l’aura de l’esprit faites une attaque, vous pouvez relancer un jet d’attaque de cette attaque. De plus, vous et vos alliés devenez avantagés à vos tests de Sagesse (Perception) dans la zone d’effet de l’aura.
+- **Esprit de la licorne.** L’esprit de la licorne apporte sa protection à ceux qui se trouvent dans son aura. Vous et vos alliés devenez avantagés à tous les tests de caractéristiques pour détecter des créatures qui se trouvent dans la zone d’effet de l’aura. De plus, si vous utilisez un sort pour restaurer des points de vie à une créature située dans l’aura de la licorne, chaque créature de votre choix dans l’aura regagne un nombre de points de vie égal à votre niveau de druide.
+
+### Puissant invocateur 
+À partir du niveau 6, les animaux et les fées que vous invoquez gagnent en puissance si vous dépensez un emplacement de sort pour lancer un sort de niveau 4 ou plus. Tout animal ou fée que vous invoquez gagne l’un des bénéfices suivants :  
+
+- La créature invoquée possède plus de points de vie que la norme : 2 points de vie supplémentaires par dé de vie qu’elle possède.  
+- Les attaques de la créature infligent avec ses armes naturelles sont considérées comme magiques en ce qui concerne la réduction des dégâts.  
+- Si la créature inflige des dégâts avec une attaque, elle inflige des dégâts magiques supplémentaires égaux à votre modificateur de Sagesse (minimum de 1) pour chaque attaque qu’elle réussit.  
+
+### Esprit protecteur
+À partir du niveau 10, votre totem spirituel protège les animaux et les fées que vous invoquez avec une aura nourrissante. Quand un animal ou une fée que vous avez invoqué et qui se trouve dans votre aura termine son tour dans l’aura, cette créature récupère un nombre de points de vie égal à la moitié de votre niveau de druide.  
+
+### Invocations loyales
+À partir du niveau 14, les esprits de la nature avec qui vous interagissez dans vos invocations sont fidèles et inébranlables. Toute créature invoquée que vous possédez gagne l’effet suivant : si les points de vie de la créature tombent à 0, elle disparaît au lieu de mourir, à moins qu’elle ait subi des dégâts d’un coup critique.  
+
+---
+
+## Apprendre des formes animales 
+L’aptitude forme sauvage présente dans le *Player’s Handbook* vous permet de vous transformer en animal en dépensant une utilisation de cette capacité. Cette règle vous offre une grande flexibilité et vous permet d’accumuler un grand nombre de formes animales. Vous pouvez ainsi utiliser les tables des formes sauvages pour vous inspirer :
+
+### Aquatique
+
+| FP  | Animal                       | Vol/Nage  |  
+|-----|------------------------------|-----------|  
+| 0   | Piranha                      | Nage      |  
+| 1/4 | Serpent constricteur         | Nage      |  
+| 1/2 | Hippocampe géant             | Nage      |  
+| 1/2 | Requin des récifs            | Nage      |  
+| 1   | Dauphin                      | Nage      |  
+| 2   | Serpent constricteur géant   | Nage      |  
+| 2   | Requin-chasseur              | Nage      |  
+| 3   | Épaulard                     | Nage      |  
+| 5   | Requin géant                 | Nage      |  
+
+### Arctique  
+
+| FP  | Animal                       | Vol/Nage  |  
+|-----|------------------------------|-----------|  
+| 1/8 | Faucon de sang                | Vol       |  
+| 1/8 | Strige                        | Vol       |  
+| 1/4 | Ours brun                    |           |  
+| 1/2 | Chèvre géante                |           |  
+| 2   | Tigre à dents de sabre        |           |  
+| 6   | Mammouth                     |           |  
+
+### Collines 
+
+| FP  | Animal                        | Vol/Nage  |  
+|-----|-------------------------------|-----------|  
+| 0   | Babouin                       |           |  
+| 0   | Aigle                         | Vol       |  
+| 0   | Chèvre                        |           |  
+| 0   | Hyène                         |           |  
+| 0   | Corbeau                       | Vol       |  
+| 1/8 | Faucon de sang                | Vol       |  
+| 1/8 | Belette géante                |           |  
+| 1/8 | Molosse                       |           |  
+| 1/4 | Mule                          |           |  
+| 1/4 | Serpent venimeux              | Nage      |  
+| 1/4 | Autruche                      |           |  
+| 1/4 | Sanglier                      |           |  
+| 1/4 | Élan                          |           |  
+| 1/4 | Chouette géante               | Vol       |  
+| 1/4 | Araignée-loup géante          |           |  
+| 1/4 | Panthère (cougar)             |           |  
+| 1/4 | Loup                          |           |  
+| 1/2 | Chèvre géante                 |           |  
+| 1/2 | Ours brun                     |           |  
+| 1   | Hyène géante                  |           |  
+| 1   | Aigle géant                   | Vol       |  
+| 1   | Lion                          |           |  
+| 2   | Sanglier géant                |           |  
+| 2   | Élan géant                    |           |
+
+### Désert
+
+| FP  | Animal                      | Vol/Nage  |
+|-----|-----------------------------|-----------|
+| 0   | Chat                        | —         |
+| 0   | Hyène                       | —         |
+| 0   | Chacal                      | —         |
+| 0   | Scorpion                    | —         |
+| 0   | Vautour                     | Vol       |
+| 1/8 | Chameau                     | —         |
+| 1/8 | Serpent volant              | Vol       |
+| 1/8 | Mule                        | —         |
+| 1/8 | Serpent venimeux            | —         |
+| 1/8 | Strige                      | Vol       |
+| 1/8 | Serpent constricteur        | Nage      |
+| 1/4 | Lézard géant                | —         |
+| 1/4 | Serpent venimeux géant      | Nage      |
+| 1/4 | Hyène géante                | —         |
+| 1/4 | Araignée géante             | —         |
+| 1/4 | Crapaud géant               | Nage      |
+| 1   | Vautour géant               | Vol       |
+| 1   | Lion                        | —         |
+| 2   | Serpent constricteur géant  | Nage      |
+| 3   | Scorpion géant              | —         |
+
+### Forêt
+
+| FP  | Animal                      | Vol/Nage  |
+|-----|-----------------------------|-----------|
+| 0   | Babouin                     | —         |
+| 0   | Blaireau                    | —         |
+| 0   | Chat                        | —         |
+| 0   | Daim                        | —         |
+| 0   | Hyène                       | —         |
+| 0   | Chouette                    | Vol       |
+| 1/8 | Faucon de sang              | Vol       |
+| 1/8 | Serpent volant              | Vol       |
+| 1/8 | Rat géant                   | —         |
+| 1/8 | Belette géante              | —         |
+| 1/8 | Serpent venimeux            | Nage      |
+| 1/8 | Molosse                     | —         |
+| 1/8 | Strige                      | Vol       |
+| 1/4 | Sanglier                    | —         |
+| 1/4 | Serpent constricteur        | Nage      |
+| 1/4 | Élan                        | —         |
+| 1/4 | Blaireau géant              | —         |
+| 1/4 | Chauve-souris géante        | Vol       |
+| 1/4 | Grenouille géante           | Nage      |
+| 1/4 | Lézard géant                | —         |
+| 1/4 | Chouette géante             | Vol       |
+| 1/4 | Serpent venimeux géant      | Nage      |
+| 1/4 | Araignée-loup géante        | —         |
+| 1/4 | Panthère                    | —         |
+| 1   | Loup                        | —         |
+| 1/2 | Grand singe                 | —         |
+| 1/2 | Ours noir                   | —         |
+| 1   | Guêpe géante                | Vol       |
+| 1   | Ours brun                   | —         |
+| 1   | Loup sanguinaire            | —         |
+| 1   | Hyène géante                | —         |
+| 1   | Araignée géante             | —         |
+| 2   | Tigre                       | —         |
+| 2   | Sanglier géant              | —         |
+| 2   | Élan géant                  | —         |
+
+### Littoral
+
+| FP  | Animal                      | Vol/Nage  |
+|-----|-----------------------------|-----------|
+| 0   | Crabe                       | Nage      |
+| 0   | Aigle                       | Vol       |
+| 1/8 | Faucon de sang              | Vol       |
+| 1/8 | Crabe géant                 | Nage      |
+| 1/8 | Serpent venimeux            | —         |
+| 1/8 | Strige                      | Vol       |
+| 1/4 | Lézard géant                | —         |
+| 1/4 | Araignée-loup géante        | —         |
+| 1/4 | Ptéranodon                  | Vol       |
+| 1   | Aigle géant                 | Vol       |
+| 1   | Crapaud géant               | Nage      |
+| 2   | Plésiosaure                 | Nage      |
+
+### Marais
+
+| FP | Animal                        | Vol/Nage  |  
+|----|-------------------------------|-----------|  
+| 0  | Rat                           |           |  
+| 0  | Corbeau                       | Vol       |  
+| 1/8| Rat géant                     |           |  
+| 1/8| Serpent venimeux              | Nage      |  
+| 1/8| Strige                        | Vol       |  
+| 1/4| Serpent constricteur          |           |  
+| 1/4| Grenouille géante             | Nage      |  
+| 1/4| Lézard géant                  | Nage      |  
+| 1/4| Serpent venimeux géant        | Nage      |  
+| 1/2| Crocodile                     | Nage      |  
+| 1/2| Araignée géante               |           |  
+| 2  | Serpent constricteur géant    | Nage      |  
+| 5  | Crocodile géant               | Nage      |  
+
+### Montagne
+
+| FP  | Animal                       | Vol/Nage  |  
+|-----|------------------------------|-----------|  
+| 0   | Aigle                        | Vol       |  
+| 0   | Chèvre                       |           |  
+| 1/8 | Faucon de sang                | Vol       |  
+| 1/8 | Strige                        | Vol       |  
+| 1/4 | Chèvre géante                 |           |  
+| 1/4 | Aigle géant                   | Vol       |  
+| 1/2 | Élan géant                    |           |  
+
+### Plaine
+
+| FP  | Animal                       | Vol/Nage  |  
+|-----|------------------------------|-----------|  
+| 0   | Chat                         |           |  
+| 0   | Daim                         |           |  
+| 0   | Aigle                        | Vol       |  
+| 0   | Chèvre                       |           |  
+| 0   | Hyène                        |           |  
+| 0   | Chacal                       |           |  
+| 1/8 | Vautour                      | Vol       |  
+| 1/8 | Faucon de sang               | Vol       |  
+| 1/8 | Serpent volant               | Vol       |  
+| 1/8 | Belette géante               |           |  
+| 1/8 | Serpent venimeux             | Nage      |  
+| 1/4 | Strige                       | Vol       |  
+| 1/4 | Autruche                     |           |  
+| 1/4 | Sanglier                     |           |  
+| 1/4 | Élan                         |           |  
+| 1/4 | Araignée-loup géante         |           |  
+| 1/4 | Panthère (léopard)           |           |  
+| 1/4 | Ptéranodon                   | Vol       |  
+| 1/4 | Cheval de selle              |           |  
+| 1/4 | Loup                         |           |  
+| 1/2 | Chèvre géante                |           |  
+| 1/2 | Guêpe géante                 | Vol       |  
+| 1   | Aigle géant                  | Vol       |  
+| 1   | Hyène géante                 |           |  
+| 1   | Vautour géant                | Vol       |  
+| 1   | Lion                         |           |  
+| 1   | Tigre                        |           |  
+| 2   | Sanglier géant               |           |  
+| 2   | Élan géant                   |           |  
+| 2   | Rhinocéros                   |           |  
+| 3   | Ankylosaure                  |           |  
+| 4   | Éléphant                     |           |  
+| 5   | Tricératops                  |           |  
+
+### Outreterre
+
+| FP  | Animal                        | Vol/Nage  |  
+|-----|-------------------------------|-----------|  
+| 0   | Scarabée de feu géant         |           |  
+| 1/8 | Rat géant                     |           |  
+| 1/8 | Strige                        | Vol       |  
+| 1/4 | Chauve-souris géante          | Vol       |  
+| 1/4 | Mille-pattes géant            |           |  
+| 1/4 | Lézard géant                  |           |  
+| 1/4 | Serpent venimeux géant        | Nage      |  
+| 1/4 | Araignée géante               |           |  
+| 1/2 | Crapaud géant                 | Nage      |  
+| 2   | Serpent constricteur géant    | Nage      |  
+| 2   | Ours polaire (ours des cavernes) | Nage      |    
