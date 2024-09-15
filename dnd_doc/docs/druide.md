@@ -386,8 +386,6 @@ Aux niveaux 3, 5, 7 et 9, vous acquérez aussi les sorts indiqués dans le table
 | 7                | confusion, flétrissement     |
 | 9                | brume mortelle, contagion    |
 
----
-
 ### Halo de spores
 *Aptitude du Cercle des Spores de niveau 2*
 
@@ -425,6 +423,7 @@ Les spores que renferme votre corps finissent par vous transformer, vous immunis
 ---
 
 ## Cercle des rêves
+***Le guide complet de Xanathar***
 
 Les druides qui sont membres du cercle des rêves sont originaires de régions qui ont des liens étroits avec la Féerie et ses mystérieux royaumes, où le voile entre le rêve et le monde naturel est mince. Les druides ont des alliés naturels des fées et du monde onirique. Ces druides cherchent à remplir le monde de merveilles et de mystères. Leur magie guérit les blessés et égaye les cœurs abattus et les domaines qu'ils protègent sont des lieux brillants et agréables, où les créatures se reposent et où les personnes épuisées peuvent se reposer.
 
@@ -461,6 +460,7 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez plus l’utiliser
 ---
 
 ## Cercle du berger
+***Le guide complet de Xanathar***
 
 Les druides du cercle du berger communient avec les esprits de la nature, en particulier ceux des animaux. Ils considèrent que chaque animal, petit ou grand, est un être digne de respect. Ces druides agissent comme des protecteurs des animaux dans le monde naturel, mais tout particulièrement dans les zones où l’influence des humains et des autres races a perturbé l’équilibre naturel. Ces bergers passent souvent leur temps dans des communautés de fermiers et d’éleveurs, agissant comme les protecteurs des bêtes. Lorsqu’ils peuvent, ces druides communiquent également avec des créatures fabuleuses qui vivent dans les terres sauvages.
 
