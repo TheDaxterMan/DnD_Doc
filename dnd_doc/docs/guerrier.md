@@ -277,6 +277,8 @@ Au niveau 15, vous gagnez la capacité de vous téléporter jusqu'à 9 mètres d
 ---
 
 ## Archer arcanique
+***Le guide complet de Xanathar***
+
 Un archer arcanique étudie une méthode élitiste particulière de tir à l'arc qui lui permet d'imprégner ses attaques de magie afin de produire des effets surnaturels. Les archers arcaniques sont considérés par les elfes comme des guerriers d'élite. Ils montent la garde le long des frontières elfes, surveillant tout ce qui leur est hostile, et ils maîtrisent des flèches magiques qui leur permettent d'éliminer les envahisseurs avant qu'ils ne puissent menacer les cités de leurs bienveillants maîtres. Les méthodes des archers elfes ont été adoptées par certains membres d'autres races qui cherchent à combiner leurs talents d'archer avec une aptitude pour la magie.
 
 ### Connaissances de l'archer arcanique
@@ -328,8 +330,6 @@ Après que vous avez atteint le niveau 18 dans cette classe, la cible subit éga
 
 Votre magie d’enchantement se manifeste par l’envoi d’une flèche de cette école. La créature touchée par cette flèche subit 2d6 points de dégâts psychiques supplémentaires et est charmée par l’un de vos alliés se trouvant à 9 mètres ou moins d’elle. La cible doit réussir un jet de sauvegarde de Sagesse ou se trouver sous le charme de l’allié choisi jusqu’au début de votre prochain tour. Cet effet prend fin de manière anticipée si l’allié choisi attaque la créature charmée ou si cette créature subit des dégâts ou fait un jet de sauvegarde.
 
-Voici la transcription de la troisième image :
-
 #### **Flèche explosive**
 
 Vous imprégnez votre flèche de force tirée de l'école d'évocation. Cette énergie se déchaîne après votre attaque. Immédiatement après que la flèche touche sa cible, celle-ci et toutes les autres créatures dans un rayon de 3 mètres subissent 2d6 points de dégâts de force chacun. La quantité de dégâts de force passe à 4d6 lorsque vous atteignez le niveau 18 dans cette classe.
@@ -341,6 +341,7 @@ Vous utilisez la magie de transmutation pour donner à votre flèche une qualit�
 ---
 
 ## Chevalier
+***Le guide complet de Xanathar***
 
 Le chevalier classique excelle au combat monté. Il est généralement issu de la noblesse et a été élevé en tant que dirigeant. Il se trouve ainsi à l’aise à la tête d’une charge de cavalerie, en échangeant des plaisanteries avec ses pairs, ou en menant des affaires diplomatiques à la cour. Les chevaliers cherchent à gagner de prestige ou de renommée et souvent espèrent obtenir des titres, des terres ou d’autres récompenses matérielles. Il existe également de nombreux chevaliers itinérants, chevaliers sans terre qui errent pour gagner du prestige, et qui cherchent à mener une vie d’aventure.
 
@@ -375,6 +376,7 @@ Au niveau 10, vous excellez dans l’art d’immobiliser vos ennemis. Les créat
 ---
 
 ## Samouraï
+***Le guide complet de Xanathar***
 
 Le samouraï est un guerrier qui exploite son implacable combativité pour vaincre ses ennemis. La détermination dont fait preuve un samouraï est quasi inébranlable et les ennemis qui se trouvent sur son chemin ont un choix à faire : se soumettre ou le combattant.
 
@@ -406,6 +408,7 @@ Votre sang-froid vous permet également de maitriser vos jets de sauvegarde de S
 ---
 
 ### Chevalier runique
+***Le Chaudron des Merveilles de Tasha***
 
 Vous étudiez les arts des jadis et dessinez des runes. Autant dire que vous aimeriez être sorcier, non ?  
 — *Tasha*
@@ -473,6 +476,7 @@ Vous apprenez à amplifier votre transformation runique. En conséquence, les d�
 ---
 
 ### Soldat psi
+***Le Chaudron des Merveilles de Tasha***
 
 *La tête plutôt que les jambes ? L'esprit sur la matière ? (ces guerriers rusés répondent à juste titre : « les deux mon général ! »)*
 
