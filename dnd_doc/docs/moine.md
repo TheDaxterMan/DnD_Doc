@@ -200,6 +200,7 @@ Au niveau 17, vous pouvez exploiter l'inattention que vous porte une créature a
 ---
 
 ## Voie des quatre éléments
+
 Vous suivez une tradition monastique qui vous apprend à exploiter les éléments. Lorsque vous concentrez votre ki, vous pouvez entrer en connexion avec les forces créatrices et plier les quatre éléments à votre volonté, les maniant comme de véritables extensions de votre propre corps. Certains membres de cette tradition se consacrent à un seul élément, mais d'autres combinent les éléments ensembles. De nombreux moines de cette tradition tatouent leur corps avec des représentations de leurs pouvoirs ki, dont les plus communes sont des dragons enroulés, mais aussi des phénix, des poissons, des plantes, des montagnes et des vagues auréolées d'écume.
 
 ### Disciple des éléments
@@ -261,6 +262,8 @@ Les disciplines élémentaires sont présentées par ordre alphabétique. Si l'u
 ---
 
 ## Voie de l'âme solaire
+***Le guide complet de Xanathar***
+
 Les moines de la voie de l’âme solaire apprennent à canaliser leur énergie vitale pour créer des éclairs de lumière ardente. Selon eux, la méditation permet de trouver le chemin menant à la lumière irrésistible qui se dégage de l’âme de toutes les créatures vivantes et de la manipuler.
 
 ### Rayon de soleil radiant
@@ -290,6 +293,8 @@ Si une créature vous frappe avec une attaque de corps à corps pendant que cett
 ---
 
 ## Voie du Kenseï
+***Le guide complet de Xanathar***
+
 Les moines de la voie du kenseï s’entraînent sans relâche avec leurs armes, au point que celles-ci deviennent une extension de leur corps. Cette tradition, qui se base sur la formation du combat à l’épée, est devenue aussi répandue dans les briseuses armées que dans celles dénuées d’arme.
 
 Un kenseï a le même rapport avec son arme qu’un calligraphe avec son pinceau ou un peintre avec son encre. Quelle que soit l’arme que le kenseï choisit, elle est sa vie et son outil pour exprimer la beauté ultime dans les Arts Martiaux. Qu’une telle maîtrise fasse d’un kenseï un guerrier hors du commun est évident et cette voie est forgée dans le but de prouver la puissance et l’étude de sa voie.
@@ -316,6 +321,8 @@ Au niveau 17, vous obtenez une précision extraordinaire. Lors de votre tour, si
 ---
 
 ## Voie du maître ivre
+***Le guide complet de Xanathar***
+
 Ceux qui s'engagent dans la voie du maître ivre apprennent à se déplacer avec les mouvements saccadés et imprévisibles d’un ivrogne. Un maître ivre se balance, chancelle sur ses pieds instables, et donne l'impression d'être un combattant incompétent qui sera plus irritant qu’une véritable menace pour son adversaire. Cependant, derrière ces faux pas erratiques, le maître ivre mène une danse exécutée avec soin où ses attaques, il bloque, pare, avance, attaque et se retire.
 
 Un maître ivre n’utilise généralement pas à faire l’idiot pour faire sourire ou irriter ses adversaires, ou pour montrer qu’il est au-dessus de l’humilité. Cependant, un maître qui se trouve au sein d’une bataille révèle qu’être ivre est un adversaire aussi extraordinaire qu’irritant qui est exaspérant.
@@ -341,6 +348,8 @@ Au niveau 17, vous gagnez la capacité de porter un nombre étourdissant d’att
 ---
 
 ## Voie de l'Astre intérieur
+***Le Chaudron des Merveilles de Tasha***
+
 ***Note personnelle :** créer un sort permettant de mettre des torgnoles avec son propre fantôme. -TASHA*
 
 Les moines qui suivent cette voie sont convaincus que leur corps est une illusion. Ils perçoivent leur ki comme une énergie capable de transcender leur forme physique en un soi astral. Cette version d’eux-mêmes est manifestée sous la forme d’armes spectrales flottantes qui leur permettent de donner libre cours à leurs pulsions au service des puissants.
@@ -397,6 +406,7 @@ Tant que votre astre intérieur s'exprime sous cette forme, vous recevez les bé
 ---
 
 ## Voie de la Miséricorde
+***Le Chaudron des Merveilles de Tasha***
 
 Les moines de la Voie de la Miséricorde apprennent à manipuler la force vitale d'autrui pour porter assistance aux nécessiteux. Ils sont les médecins itinérants des pauvres et des accidentés. Et quand plus rien ne peut aider leurs sujets, ils peuvent abréger leurs souffrances.
 
