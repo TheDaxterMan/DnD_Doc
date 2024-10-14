@@ -363,4 +363,100 @@ Vous pouvez ouvrir magiquement des accès temporaires vers des destinations aqua
 
 Une fois que vous avez utilisé cette aptitude, vous devez terminer un repos court ou long pour pouvoir y recourir de nouveau.
 
-RAJOUTER CELLES DE XANATHAR
+---
+
+## Le céleste
+
+Votre patron est un puissant être des plans Supérieurs. Vous vous êtes lié à un vénérable empyréen, solar, kirin, ou licorne ou une autre entité résidant dans les plans de béatitude éternelle. Le pacte que vous avez passé avec votre patron céleste vous permet de ressentir le moindre contact avec la lumière sacrée qui illumine le multivers.
+
+Votre lien avec une telle puissance peut avoir une influence sur votre comportement en toutes choses. Vous pouvez ne pas tolérer de vous voir obligé d’anéantir des morts-vivants, de vaincre des fiélons ou de protéger des innocents. Il est possible que vous vous sentiez poussé à être bienveillant, ou rêver de rejoindre le royaume céleste de votre protecteur de votre vivant, ou de le servir dans votre dernière jour. Cependant, la durée de votre mission est pour l’instant d’aider les mortels en ce monde, et de faire de votre mieux pour leur apporter la lumière même dans les endroits les plus obscurs du monde.
+
+### Liste de sorts étendue du céleste
+
+Quand vous apprenez un sort d’occultiste, le céleste vous permet de choisir dans cette liste de sorts étendue. En ce qui vous concerne, les sorts suivants sont ajoutés à la liste des sorts que vous pouvez choisir.
+
+| Niveau de sort | Sorts                                                    |
+|----------------|----------------------------------------------------------|
+| 1              | *Rayon traçant*, *Soins*                                  |
+| 2              | *Restauration partielle*, *Sphère de feu*                 |
+| 3              | *Lumière du jour*, *Retour à la vie*                      |
+| 4              | *Gardien de la foi*, *Mur de feu*                         |
+| 5              | *Colonne de flammes*, *Restauration suprême*              |
+
+### Sorts mineurs supplémentaires
+
+Au niveau 1, vous apprenez les sorts mineurs *Lumière* et *Flamme sacrée*. En ce qui vous concerne, ils sont considérés comme des sorts mineurs d’occultiste, mais ils ne sont pas comptés dans le nombre de sorts mineurs que vous connaissez.
+
+### Lumière curative
+
+Au niveau 1, vous gagnez la capacité de canaliser l’énergie céleste pour soigner des blessures. Vous possédez une réserve de dés de d6 que vous dépensez pour alimenter cette guérison. Le nombre total de dés de cette réserve est égal à 1 + votre niveau d’occultiste.
+
+Par une action bonus, vous pouvez soigner une créature que vous touchez ou qui se trouve dans un rayon de 18 mètres en dépensant un ou plusieurs dés de cette réserve. Vous pouvez dépenser un nombre maximum de dés égal à votre modificateur de Charisme (avec un minimum d’un dé).
+
+### Âme radiante
+
+À partir du niveau 6, votre lien avec le céleste vous permet de vous nourrir de l’énergie radiante. Vous devenez résistant aux dégâts radiants et, quand vous lancez un sort qui inflige des dégâts radiants ou de feu, vous pouvez ajouter votre modificateur de Charisme à l’un des jets de dégâts radiants ou de feu causés par ce sort contre l’une des cibles.
+
+### Persévérance céleste
+
+À partir du niveau 10, vous gagnez des points de vie temporaires chaque fois que vous terminez un repos court ou long. Cette quantité de points de vie temporaires est égale à votre niveau d’occultiste + votre modificateur de Charisme. En outre, vous pouvez choisir jusqu’à cinq créatures que vous pouvez voir à la fin de votre repos. Ces créatures gagnent chacune une quantité de points de vie temporaires égale à la moitié de votre niveau d’occultiste + votre modificateur de Charisme.
+
+### Vengeance ardente
+
+À partir du niveau 14, l’énergie radiante que vous canalisez vous permet de punir ceux qui vous frappent à la mort. Lorsque vous êtes attaqué par une créature située dans un rayon de 18 mètres autour de vous, vous pouvez utiliser une réaction pour lui infliger des dégâts radiants égaux à 2d8 + votre modificateur de Charisme (avec un minimum de 1).
+
+---
+
+## Le magelame
+
+Vous avez passé un pacte avec une entité mystérieuse de Gisombre, une force qui se manifeste sous la forme d'armes magiques taillées dans la matière des ombres et du vice. De tous les pactes possibles, le pacte avec l'entité qui a façonné l'épée Noire Rasoir est le plus célèbre de ces armes, qui se sont répandues dans le multivers en quête d'âmes. La force ténébreuse qui est à l'origine de ces armes offre des pouvoirs aux occultistes qui acceptent de passer un pacte avec elle. Nombreux sont les occultistes magelames qui créent des armes qui ressemblent à celle de Gisombre, tandis que d'autres peuvent choisir de faire appel à des armes plus ordinaires.
+
+Il est notoire que la première de ces armes a été forgée par la Reine des Corbeaux, et de nombreux sages pensent donc qu'elle est l'entité à l'origine de ces autres armes et qu'elle utiliserait ces armes et les occultistes magelames pour influencer les évènements du plan Matériel à des fins mystérieuses.
+
+### Liste de sorts étendue du magelame
+
+Quand vous apprenez un sort d'occultiste, le magelame vous permet de choisir dans cette liste de sorts étendue. En ce qui vous concerne, les sorts suivants sont ajoutés à la liste des sorts que vous pouvez choisir.
+
+| Niveau de sort | Sorts                                                                 |
+|----------------|----------------------------------------------------------------------|
+| 1              | *Bouclier*, *Châtiment courroucé*                                     |
+| 2              | *Châtiment révélateur*, *Flou*                                        |
+| 3              | *Arme élémentaire*, *Clignotement*                                    |
+| 4              | *Assassinat imaginaire*, *Châtiment débilitant*                       |
+| 5              | *Châtiment du bannis*, *Cône de froid*                                |
+
+### Malédiction du magelame
+
+À partir du niveau 1, vous gagnez la capacité de placer une sinistre malédiction sur quelqu’un. Par une action bonus, vous pouvez maudire une créature que vous pouvez voir et qui se trouve à 9 mètres autour de vous. Cette malédiction dure 1 minute. La malédiction se termine de manière anticipée si la cible tombe à 0 point de vie, ou si vous tombez inconscient ou choisissez de révoquer la malédiction.
+
+- Vous gagnez un bonus à vos jets de dégâts contre la créature maudite. Ce bonus est égal à votre modificateur de Charisme (minimum +0).
+- Toute attaque de votre part contre la créature maudite est un coup critique sur un jet d’attaque de 19 ou 20.
+- Si la créature maudite meurt, vous regagnez des points de vie égaux à votre niveau d’occultiste + votre modificateur de Charisme (avec un minimum de 1).
+
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas l’utiliser tant que vous n’avez pas terminé un repos long.
+
+### Guerrier des maléfices
+
+Au niveau 1, vous acquérez les compétences nécessaires au combat. Vous gagnez la maîtrise des armures moyennes, des boucliers et des armes martiales.
+
+L’influence de votre protecteur vous permet également de canaliser magiquement votre volonté dans une arme de votre choix. Quand vous terminez un repos long, vous pouvez toucher une arme que vous maîtrisez et qui se trouve à portée de vous. Vous pouvez utiliser votre modificateur de Charisme en lieu et place de celui de Force ou de Dextérité pour les jets d’attaque et de dégâts avec cette arme. Cet avantage dure jusqu’à ce que vous terminiez un repos long.
+
+### Gelâme
+
+À partir du niveau 6, vous pouvez invoquer l’arme d’une entité ténébreuse pour un combat. En tant qu’action, vous invoquez cette arme de pacte dans une main libre, et elle reste dans votre main jusqu’à ce qu’elle soit renvoyée dans le plan ténébreux. Vous gagnez un bonus égal à votre modificateur de Charisme à vos jets de dégâts contre les créatures que vous blessez avec l’arme d’ombre invoquée.
+
+### Spectre maudit
+
+À partir du niveau 6, vous pouvez maudire l’âme d’une personne que vous tuez et la lier temporairement à votre service. Quand vous tuez un humanoïde, vous pouvez faire en sorte que son esprit quitte son cadavre sous la forme d’un spectre, dont vous trouverez les statistiques dans le *Monster Manual*. Lorsque ce spectre apparaît, il gagne une quantité de points de vie temporaires égale à la moitié de votre niveau d’occultiste + votre modificateur de Charisme (avec un minimum de 1). Le spectre est sous votre contrôle, et il prend son tour immédiatement après le vôtre. Il obéit à vos ordres mentaux.
+
+Le spectre reste à votre service jusqu’à la fin de votre prochain repos long, puis il se dissipe et passe dans l’au-delà.
+
+Une fois que vous avez utilisé cette aptitude pour lier un spectre, vous ne pouvez plus l’utiliser tant que vous n’avez pas terminé un repos long.
+
+### Armure de maléfices
+
+Au niveau 10, vos maléfices deviennent plus puissants. Si la cible de votre malédiction du magelame réussit un jet d’attaque contre vous, vous pouvez utiliser votre réaction pour lancer un d6. Sur 4 ou plus, l’attaque vous manque, quel que soit le résultat de son jet.
+
+### Maître des maléfices
+
+À partir du niveau 14, vous pouvez transférer la malédiction du magelame que vous aviez lancée sur une créature qui meurt à une autre créature. Lorsque la créature ciblée par votre malédiction du magelame meurt, vous pouvez transférer cette malédiction à une créature différente que vous pouvez voir dans un rayon de 9 mètres

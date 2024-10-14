@@ -247,7 +247,7 @@ Lorsque vous choisissez cet archétype au niveau 3, vous apprenez à porter un c
 
 Vous gagnez également un moyen supplémentaire d’utiliser votre attaque sournoise. Vous n’avez pas besoin d’obtenir l’avantage à votre jet d’attaque pour utiliser votre attaque sournoise contre une créature si vous vous trouvez à 1,50 mètre ou moins de celle-ci, et qu’aucun autre créature ne se trouve dans un rayon de 1,50 mètre de vous, et vous ne subissez pas de désavantage à votre jet d’attaque. Toutes les règles de l’attaque sournoise s’appliquent cependant.
 
-#### Panache
+### Panache
 Au niveau 9, votre charme fait de vous un être extrêmement séduisant. Par une action, vous pouvez faire un jet de Charisme (Persuasion) opposé à un jet de Sagesse (Intuition) d’une créature. La créature doit être capable de vous voir et vous entendre, et ce test doit se faire dans une langue que la créature comprend.
 
 Si vous réussissez ce jet contre une créature hostile, celle-ci n’a plus d’attaque d’opportunité contre vous, et cela dure pendant une minute. Tant qu’elle est charmée, elle souffre du désavantage sur ses jets d’attaque contre des cibles autres que vous et ne peut pas lancer de sort contre d’autres cibles que vous.
