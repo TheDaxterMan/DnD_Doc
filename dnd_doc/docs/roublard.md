@@ -261,3 +261,143 @@ Cet effet prend fin si vos compagnons lui portent atteinte d’une quelconque ma
 À partir du niveau 17, vous maîtrisez votre arme au point de pouvoir transformer un échec en succès critique. Si vous faites un 1 au dé d’attaque, vous pouvez relancer ce dé et devez prendre le résultat obtenu. Vous ne pouvez utiliser cette aptitude qu’une fois par tour, mais vous n’avez pas besoin d’avoir terminé un repos court ou long avant de pouvoir l’utiliser de nouveau.
 
 ---
+
+## Éclaireur
+
+Vous savez rester discret et survivre loin des villes et de leurs règles, ce qui vous permet de servir d'éclaireur lors de certaines expéditions en groupe. Les rôdeurs qui choisissent cet archétype se sentent à l'aise dans la nature et parmi les créatures qui y vivent, et on trouve ainsi de nombreux barbares et des rôdeurs, et ayant vu d'oreilles à des groupes de guerriers. Les éclaireurs peuvent parcourir le monde pour apprendre de nombreuses professions, comme par exemple brigand, espion ou encore chasseur de primes.
+
+### Escarmoucheur
+
+À partir du niveau 3, il est difficile de vous coincer pendant un combat. Par réaction, vous pouvez vous déplacer d'une distance maximum correspondant à la moitié de votre vitesse sans provoquer d'attaques d'opportunité quand un ennemi se trouve dans un rayon de 1,50 mètre de vous. Ce déplacement ne provoque pas d'attaque d'opportunité.
+
+### Survivaliste
+
+Lorsque vous choisissez cet archétype au niveau 3, vous gagnez des compétences supplémentaires en Nature et Survie si ce n'est pas déjà fait. De plus, vous doublez votre bonus de maîtrise quand vous faites un jet de compétence basé sur ces compétences.
+
+### Mobilité supérieure
+
+Au niveau 9, votre vitesse au sol augmente de 3 mètres. Si vous avez une vitesse d'escalade ou de nage, ces vitesses augmentent de la même distance.
+
+### Maître de l'embuscade
+
+À partir du niveau 13, vous excellez dans l'art de tendre des embuscades et d'être le premier à agir en cas de combat. Vous avez avantage aux jets d'initiative. De plus, la première créature que vous touchez lors du premier round de combat devient une cible facile pour vous et vos alliés et les jets d'attaque contre cette créature sont avantageux jusqu'au début de votre prochain tour.
+
+### Séquence fugace
+
+À partir du niveau 17, vous pouvez frapper avec une vitesse fulgurante. Si vous choisissez l'action attaquer lors de votre tour, vous pouvez porter une attaque supplémentaire comme action bonus. Vous pouvez utiliser cette attaque supplémentaire pour faire une attaque sournoise même si vous l'avez déjà utilisée ce tour-ci, mais vous ne pouvez pas utiliser cette aptitude contre la même cible plus d'une fois par tour.
+
+---
+
+## Enquêteur
+
+Tout comme le prototype de l'enquêteur, vous êtes passé maître dans l'art des énigmes et des déductions. De plus, vous percevez mieux les mensonges que les autres et savez reconnaître les manipulations, ce qui fait de vous un spécialiste dans l’art de démasquer vos ennemis. Les enquêteurs qui choisissent cet archétype sont des alliés précieuses pour tout groupe, apportant leur connaissance des comportements humains et leur capacité à découvrir des secrets et à éliminer les ennemis dans l'ombre.
+
+### Détecteur de mensonges
+
+Lorsque vous choisissez cet archétype au niveau 3, vous développez un véritable talent pour repérer les mensonges. À chaque fois que vous faites un test de Sagesse (Intuition) pour déterminer si une créature est en train de mentir, considérez tous les résultats de 7 ou moins sur le d20 comme un 8.
+
+### Œil perçant
+
+À partir du niveau 3, vous pouvez utiliser une action bonus pour faire un test de Sagesse (Perception) afin de repérer une créature ou un objet. Vous pouvez également faire un test d'Intelligence (Investigation) pour découvrir ou déchiffrer des indices.
+
+### Sagacité au combat
+
+Au niveau 3, vous gagnez la capacité de comprendre les tactiques d'un adversaire et de déterminer rapidement comment le défaire. Vous pouvez utiliser une action bonus pour faire un test de Sagesse (Intuition) contre une créature que vous pouvez voir à une distance maximale de 9 mètres. Ce test oppose votre Sagesse (Intuition) à son Charisme (Tromperie). Si vous réussissez, vous bénéficiez d'avantage à votre attaque sournoise contre elle jusqu'à la fin de votre tour. Cet effet dure 1 minute ou jusqu'à ce que vous utilisiez cette aptitude avec succès contre une créature différente.
+
+### Attentif
+
+À partir du niveau 9, vous êtes avantagé à tous vos tests de Sagesse (Perception) ou d'Intelligence (Investigation) si vous vous déplacez pas de plus de la moitié de votre vitesse pendant le même tour.
+
+### Vision infaillible
+
+À partir du niveau 13, vos sens sont presque impossibles à tromper. Par une action, vous pouvez sentir la présence d'illusions, de métamorphes qui ne sont pas sous leur vraie forme, ou de créatures cachées ou invisible dans un rayon de 9 mètres autour de vous. Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Sagesse (avec un minimum d'une fois), et vous récupérez tous les usages après avoir terminé un repos long.
+
+### Sens de la faiblesse
+
+Au niveau 17, vous apprenez à exploiter les faiblesses de vos ennemis. À chaque fois que vous touchez une créature avec une attaque sournoise au combat, la quantité de dégâts infligés par votre attaque sournoise contre cette créature augmente de 3d6.
+
+---
+<!-- A relire -->
+## Âme acérée
+
+La plupart des assassins frappent avec des armes physiques et nombreux sont les cambrioleurs et espions qui usent d’outils de voleur pour pénétrer où ils ne sont pas les bienvenus. De son côté, l’Âme acérée tue et infiltre par l’esprit, en pénétrant les barrières physiques ou psychiques. Ces roublards découvrent le pouvoir psionique qui est en eux et l’exploitent pour accomplir leurs méfaits. Les guildes de voleurs les accueillent volontiers dans leurs rangs, mais les roublards qui maîtrisent ce pouvoir sont souvent si discrets et méfiants que les guildes ont tendance à les regarder d’un œil suspicieux. Bien des dirigeants aimeraient pouvoir acheter les services d’espionnage d’un Âme acérée.
+
+### Pouvoir psionique
+Aptitude d'Âme acérée de niveau 3
+
+Vous recelez une source d'énergie psionique. Cette énergie est représentée par vos dés d’Énergie psionique, des d6. Vous en disposez d'autant que le bonus de maîtrise, ces dés alternant entre des effets spécifiques et des attaques, décrits ci-après.
+
+Certains de vos pouvoirs dépendent de vos dés d'Énergie psionique, et vous récupérez vos dés d'Énergie dépensés en terminant un repos long. Par ailleurs, par une action bonus, vous pouvez récupérer un dé d'Énergie psionique, mais seulement une fois entre deux repos longs.
+
+Lorsque vous atteignez certains niveaux de cette classe, votre dé d’Énergie psionique se renforce : il devient un d8 au niveau 5, un d10 au niveau 11 et un d12 au niveau 17.
+
+Les pouvoirs ci-après utilisent vos dés d’Énergie psionique.
+
+- **Murmures psychiques.** Vous pouvez établir une communication télépathique entre vous et autrui, idéal pour l’infiltration. Par une action, choisissez une ou plusieurs créatures que vous voyez, jusqu’à un maximum égal à votre bonus de maîtrise, puis dépensez un dé d’Énergie psionique. Pendant un nombre d’heures égal au résultat du dé, les créatures choisies peuvent communiquer par télépathie avec vous. Pour envoyer ou recevoir un message (pas d’action requise), chaque créature doit se trouver dans un rayon de 1,5 km l’une de l’autre. Pour pouvoir continuer la télépathie, chaque créature doit parler un langage que l’autre comprend.
+
+- **Savoir-faire psionique.** Lorsque vous faites un jet d'habilité ou d'attaque, vous pouvez lancer un dé d'Énergie psionique et ajouter le résultat à votre jet.
+
+### Lames psychiques
+Aptitude d'Âme acérée de niveau 3
+
+Vous pouvez manifester votre pouvoir psionique sous forme de lames chatoyantes d'énergie psionique. Chaque fois que vous entreprenez l’action Attaquer, vous pouvez manifester une lame psionique dans une de vos mains pour effectuer l’attaque avec cette arme. Cette lame magique constitue une arme courante de corps à corps dotée des propriétés finesse et légère. Sa portée normale est de 18 m et elle n’inflige pas de dégâts physiques, mais des dégâts psioniques égaux à 1d6 plus le modificateur de caractéristique employé pour le jet d’attaque. La lame disparaît aussitôt après avoir touché ou raté une cible. 
+
+Après avoir attaqué avec la lame, vous pouvez effectuer une attaque avec une seconde lame psionique, pour une action bonus.
+
+### Lames spirituelles
+Aptitude d'Âme acérée de niveau 9
+
+Vos Lames psychiques sont désormais l’expression de votre âme psionique, ce qui vous confère un pouvoir supplémentaire lorsqu’elles se manifestent :
+
+- **Lames chercheuses.** Si vous effectuez une attaque avec vos Lames psychiques et ratez la cible, vous pouvez lancer un dé d’Énergie psionique et ajouter le résultat au jet d’attaque. Si l'attaque touche par ce biais, vous dépensez le dé d’Énergie psionique.
+  
+- **Téléportation psychique.** Par une action bonus, vous manifestez l'une de vos Lames psychiques, dépensez un dé d’Énergie psionique et le lancez. Vous projetez la lame dans un espace inoccupé que vous pouvez voir dans un rayon de 3 m multiplié par le résultat du dé. Vous vous téléportez alors dans cet espace et la lame disparaît.
+
+### Voile psychique
+Aptitude d'Âme acérée de niveau 13
+
+Vous pouvez tisser un voile d’énergie psychique statique pour vous dissimuler. Par une action, vous pouvez devenir magiquement invisible ainsi que tout ce que vous portez pendant 1 heure, jusqu’à ce que vous révoquiez cet effet à tout moment (aucune action requise). Si vous infligez des dégâts à une créature ou que vous effectuez un jet de sauvegarde, cette invisibilité prend fin aussitôt après.
+
+Une fois cette aptitude utilisée, vous devez terminer un repos long, ou y consacrer un dé d’Énergie psionique, pour pouvoir y recourir de nouveau.
+
+### Rupture spirituelle
+Aptitude d'Âme acérée de niveau 17
+
+Vous pouvez directement trancher l’esprit de votre cible avec vos Lames psychiques. Lorsque vous recourez à vos Lames psychiques pour infliger des dégâts d’Attaque sournoise à une créature, vous pouvez forcer cette créature à effectuer un jet de sauvegarde de Sagesse (DD égal à 8 + votre bonus de maîtrise + votre modificateur de Dextérité). En cas d’échec, la cible est étourdie pendant 1 minute. La cible peut réitérer le jet de sauvegarde à la fin de chacun de ses tours et mettre un terme à l’effet sur elle-même en cas de réussite.
+
+Une fois cette aptitude utilisée, vous devez terminer un repos long, ou y consacrer un dé d’Énergie psionique, pour pouvoir y recourir de nouveau.
+
+---
+
+## Phantôme
+
+### Murmures des défunts
+Aptitude de Phantôme de niveau 3
+
+L'écho des morts résonne encore en vous. Chaque fois que vous terminez un repos court ou long, vous pouvez choisir une compétence ou un outil dans le tableau de maîtrise de votre classe ou d'une autre classe. Si vous ne possédez pas déjà cette maîtrise, une présence spectrale vient partager son savoir avec vous. Vous pouvez recourir à cette aptitude pour choisir une autre maîtrise qui vous fait défaut.
+
+### Toucher des morts
+Aptitude de Phantôme de niveau 3
+
+Vous pouvez causer des blessures mortelles avec un toucher spectral. Lorsque vous effectuez une attaque sournoise contre une créature, vous pouvez infliger des dégâts de nécrotique supplémentaires égaux à la moitié des dégâts d’attaque sournoise. Vous pouvez utiliser cette aptitude un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
+
+### Pas spectral
+Aptitude de Phantôme de niveau 9
+
+À partir du niveau 9, vous pouvez déplacer votre corps de façon éthérée. Par une action bonus, vous devenez intangible, ce qui vous permet de passer à travers des créatures et des objets comme si vous étiez un fantôme, pour un tour. Pendant ce tour, si vous terminez votre mouvement à l'intérieur d'un objet, vous êtes éjecté du plus près possible, subissant 1d10 dégâts de force pour chaque mètre que vous parcourez.
+
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
+
+### Faux des ombres
+Aptitude de Phantôme de niveau 13
+
+Vous pouvez appeler les esprits des morts pour absorber une partie des attaques destinées à vous blesser. Lorsque vous subissez des dégâts, vous pouvez utiliser votre réaction pour réduire les dégâts de 1d10 + votre bonus de maîtrise.
+
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
+
+### Véritable horreur
+Aptitude de Phantôme de niveau 17
+
+Les âmes des morts que vous avez côtoyées peuvent être libérées pour semer la terreur parmi vos ennemis. Par une action, vous invoquez un tourbillon d’âmes qui prennent la forme de spectres et hantent les ennemis autour de vous. Chaque créature hostile dans un rayon de 9 mètres autour de vous doit réussir un jet de sauvegarde de Sagesse (DD égal à 8 + votre bonus de maîtrise + votre modificateur de Charisme) sous peine de subir 4d10 dégâts psychiques et être effrayée pendant 1 minute. Une créature effrayée peut répéter le jet de sauvegarde à la fin de chacun de ses tours.
+
+Une fois cette aptitude utilisée, vous devez terminer un repos long pour pouvoir y recourir de nouveau.
