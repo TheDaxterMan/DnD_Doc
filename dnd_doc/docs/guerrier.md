@@ -407,7 +407,7 @@ Votre sang-froid vous permet également de maitriser vos jets de sauvegarde de S
 
 ---
 
-### Chevalier runique
+## Chevalier runique
 ***Le Chaudron des Merveilles de Tasha***
 
 Vous étudiez les arts des jadis et dessinez des runes. Autant dire que vous aimeriez être sorcier, non ?  
@@ -475,7 +475,7 @@ Vous apprenez à amplifier votre transformation runique. En conséquence, les d�
 
 ---
 
-### Soldat psi
+## Soldat psi
 ***Le Chaudron des Merveilles de Tasha***
 
 *La tête plutôt que les jambes ? L'esprit sur la matière ? (ces guerriers rusés répondent à juste titre : « les deux mon général ! »)*

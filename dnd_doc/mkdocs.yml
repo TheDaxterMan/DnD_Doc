@@ -44,64 +44,6 @@ theme:
         icon: material/weather-night
         name: Switch to system preference
 
-# plugins:
-#   - minify
-#   - section-index
-#   - search
-#   - navincluder
-#   - git-revision-date-localized
-#   - include-markdown
-#   - glightbox:
-#     effect: zoom
-#     slide_effect: slide
-#     width: auto
-#     height: 40vw
-#     zoomable: true
-#     skip_classes:
-#       - custom-skip-class-name
-#     auto_caption: false
-#     caption_position: bottom
-#     background: white
-
-# markdown_extensions:
-#   - markdown_include.include
-#   - toc:
-#     permalink: "#"
-#     baselevel: 1
-#     separator: "_"
-#   - admonition
-#   - def_list
-#   - pymdownx.details
-#   - attr_list
-#   - md_in_html
-#   - tables
-#   - pymdownx.tasklist:
-#     custom_checkbox: true
-#   - pymdownx.superfences:
-#     custom_fences:
-#       - name: mermaid
-#         class: mermaid
-#         format: !!python/name:pymdownx.superfences.fence_code_format
-#   - pymdownx.superfences
-#   - pymdownx.inlinehilite
-#   - pymdownx.snippets
-#   - pymdownx.critic
-#   - pymdownx.caret
-#   - pymdownx.keys
-#   - pymdownx.mark
-#   - pymdownx.tilde
-#   - pymdownx.highlight:
-#     anchor_linenums: true
-#     line_spans: __span
-#     pygments_lang_class: true
-#   - pymdownx.tabbed:
-#     alternate_style: true
-#   - pymdownx.emoji:
-#     emoji_index: !!python/name:materialx.emoji.twemoji
-#     emoji_generator: !!python/name:materialx.emoji.to_svg
-#   - attr_list
-#   - md_in_html
-
 nav:
   - Home: index.md
   - Artificier: artificier.md
@@ -117,3 +59,4 @@ nav:
   - Paladin: paladin.md
   - Rodeur: rodeur.md
   - Roublard: roublard.md
+  - Multiclassage: multiclassage.md
