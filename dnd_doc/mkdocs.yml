@@ -46,17 +46,21 @@ theme:
 
 nav:
   - Home: index.md
-  - Artificier: artificier.md
-  - Barbare: barbare.md
-  - Barde: barde.md
-  - Clerc: clerc.md
-  - Druide: druide.md
-  - Ensorceleur: ensorceleur.md
-  - Guerrier: guerrier.md
-  - Magicien: magicien.md
-  - Moine: moine.md
-  - Occultiste: occultiste.md
-  - Paladin: paladin.md
-  - Rodeur: rodeur.md
-  - Roublard: roublard.md
-  - Multiclassage: multiclassage.md
+  - Classes: 
+    - Artificier: classes/artificier.md
+    - Barbare: classes/barbare.md
+    - Barde: classes/barde.md
+    - Clerc: classes/clerc.md
+    - Druide: classes/druide.md
+    - Ensorceleur: classes/ensorceleur.md
+    - Guerrier: classes/guerrier.md
+    - Magicien: classes/magicien.md
+    - Moine: classes/moine.md
+    - Occultiste: classes/occultiste.md
+    - Paladin: classes/paladin.md
+    - Rodeur: classes/rodeur.md
+    - Roublard: classes/roublard.md
+    - Multiclassage: classes/multiclassage.md
+  - Races: 
+    - Elfes: races/elfe.md
+    - Changelin: races/changelin.md
