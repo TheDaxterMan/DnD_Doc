@@ -1,0 +1,2502 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../rodeur/">
+      
+      
+        <link rel="next" href="../multiclassage/">
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.2.7">
+    
+    
+      
+        <title>Roublard - DnD Doc</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.046329b4.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.85d0ee34.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,700,700i%7CRubik+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Rubik";--md-code-font:"Rubik Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="light-blue" data-md-color-accent="indigo">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#roublard" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="DnD Doc" class="md-header__button md-logo" aria-label="DnD Doc" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            DnD Doc
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Roublard
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme)" data-md-color-scheme="default" data-md-color-primary="light-blue" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_3" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m14.3 16-.7-2h-3.2l-.7 2H7.8L11 7h2l3.2 9h-1.9M20 8.69V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69m-9.15 3.96h2.3L12 9l-1.15 3.65Z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="teal" data-md-color-primary="deep-purple" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_2">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5c-.84 0-1.65.15-2.39.42L12 2M3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29L3.34 7m.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14L3.36 17M20.65 7l-1.77 3.79a7.023 7.023 0 0 0-2.38-4.15l4.15.36m-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29L20.64 17M12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44L12 22Z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="deep-purple" data-md-color-accent="indigo"  aria-label="Switch to system preference"  type="radio" name="__palette" id="__palette_3">
+    
+      <label class="md-header__button md-icon" title="Switch to system preference" for="__palette_2" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3 3.19.09m3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95 2.06.05m-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31Z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="DnD Doc" class="md-nav__button md-logo" aria-label="DnD Doc" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    DnD Doc
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Classes
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Classes
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../artificier/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artificier
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../barbare/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Barbare
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../barde/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Barde
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../clerc/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Clerc
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../druide/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Druide
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../ensorceleur/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ensorceleur
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../guerrier/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Guerrier
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../magicien/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Magicien
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../moine/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Moine
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../occultiste/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Occultiste
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../paladin/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Paladin
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rodeur/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rodeur
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Roublard
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Roublard
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#talent-et-precision" class="md-nav__link">
+    Talent et précision
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#un-mode-de-vie-suspect" class="md-nav__link">
+    Un mode de vie suspect
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#creer-un-roublard" class="md-nav__link">
+    Créer un roublard
+  </a>
+  
+    <nav class="md-nav" aria-label="Créer un roublard">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#creation-rapide" class="md-nav__link">
+    Création rapide
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#capacites-de-classe" class="md-nav__link">
+    Capacités de classe
+  </a>
+  
+    <nav class="md-nav" aria-label="Capacités de classe">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#points-de-vie" class="md-nav__link">
+    Points de vie
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#maitrises" class="md-nav__link">
+    Maîtrises
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#equipement" class="md-nav__link">
+    Équipement
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#expertise" class="md-nav__link">
+    Expertise
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#attaque-sournoise" class="md-nav__link">
+    Attaque sournoise
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#jargon-des-voleurs" class="md-nav__link">
+    Jargon des voleurs
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ruse" class="md-nav__link">
+    Ruse
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#archetype-de-roublard" class="md-nav__link">
+    Archétype de roublard
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#amelioration-de-caracteristiques" class="md-nav__link">
+    Amélioration de caractéristiques
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#esquive-instinctive" class="md-nav__link">
+    Esquive instinctive
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#esquive-totale" class="md-nav__link">
+    Esquive totale
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#savoir-faire" class="md-nav__link">
+    Savoir-faire
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#perception-aveugle" class="md-nav__link">
+    Perception aveugle
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#esprit-fuyant" class="md-nav__link">
+    Esprit fuyant
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#insaisissable" class="md-nav__link">
+    Insaisissable
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#coup-de-chance" class="md-nav__link">
+    Coup de chance
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#archetypes-de-roublard" class="md-nav__link">
+    ==Archétypes de roublard==
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#assassin" class="md-nav__link">
+    Assassin
+  </a>
+  
+    <nav class="md-nav" aria-label="Assassin">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#maitrises-supplementaires" class="md-nav__link">
+    Maîtrises supplémentaires
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#assassinat" class="md-nav__link">
+    Assassinat
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#expert-en-infiltration" class="md-nav__link">
+    Expert en infiltration
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#imposteur" class="md-nav__link">
+    Imposteur
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#frappe-meurtriere" class="md-nav__link">
+    Frappe meurtrière
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#voleur" class="md-nav__link">
+    Voleur
+  </a>
+  
+    <nav class="md-nav" aria-label="Voleur">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#mains-lestes" class="md-nav__link">
+    Mains lestes
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#monte-en-lair" class="md-nav__link">
+    Monte-en-l'air
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#discretion-supreme" class="md-nav__link">
+    Discrétion suprême
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#utilisation-dobjets-magiques" class="md-nav__link">
+    Utilisation d'objets magiques
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#reflexes-de-voleur" class="md-nav__link">
+    Réflexes de voleur
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#escroc-arcanique" class="md-nav__link">
+    Escroc arcanique
+  </a>
+  
+    <nav class="md-nav" aria-label="Escroc arcanique">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#incantation" class="md-nav__link">
+    Incantation
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#escamotage-et-main-de-mage" class="md-nav__link">
+    Escamotage et main de mage
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#embuscade-magique" class="md-nav__link">
+    Embuscade magique
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#escroc-polyvalent" class="md-nav__link">
+    Escroc polyvalent
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#voleur-de-sort" class="md-nav__link">
+    Voleur de sort
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#conspirateur" class="md-nav__link">
+    Conspirateur
+  </a>
+  
+    <nav class="md-nav" aria-label="Conspirateur">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#maitre-des-intrigues" class="md-nav__link">
+    Maître des intrigues
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#maitre-des-tactiques" class="md-nav__link">
+    Maître des tactiques
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#manipulateur-perspicace" class="md-nav__link">
+    Manipulateur perspicace
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#redirection" class="md-nav__link">
+    Redirection
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ame-de-trompeur" class="md-nav__link">
+    Âme de trompeur
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bretteur" class="md-nav__link">
+    Bretteur
+  </a>
+  
+    <nav class="md-nav" aria-label="Bretteur">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#jeu-de-jambes-sophistique" class="md-nav__link">
+    Jeu de jambes sophistiqué
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#audace-desinvolte" class="md-nav__link">
+    Audace désinvolte
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#panache" class="md-nav__link">
+    Panache
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#manuvre-elegante" class="md-nav__link">
+    Manœuvre élégante
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#maitre-duelliste" class="md-nav__link">
+    Maître duelliste
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#eclaireur" class="md-nav__link">
+    Éclaireur
+  </a>
+  
+    <nav class="md-nav" aria-label="Éclaireur">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#escarmoucheur" class="md-nav__link">
+    Escarmoucheur
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#survivaliste" class="md-nav__link">
+    Survivaliste
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mobilite-superieure" class="md-nav__link">
+    Mobilité supérieure
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#maitre-de-lembuscade" class="md-nav__link">
+    Maître de l'embuscade
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sequence-fugace" class="md-nav__link">
+    Séquence fugace
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#enqueteur" class="md-nav__link">
+    Enquêteur
+  </a>
+  
+    <nav class="md-nav" aria-label="Enquêteur">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#detecteur-de-mensonges" class="md-nav__link">
+    Détecteur de mensonges
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#il-percant" class="md-nav__link">
+    Œil perçant
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sagacite-au-combat" class="md-nav__link">
+    Sagacité au combat
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#attentif" class="md-nav__link">
+    Attentif
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#vision-infaillible" class="md-nav__link">
+    Vision infaillible
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sens-de-la-faiblesse" class="md-nav__link">
+    Sens de la faiblesse
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ame-aceree" class="md-nav__link">
+    Âme acérée
+  </a>
+  
+    <nav class="md-nav" aria-label="Âme acérée">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#pouvoir-psionique" class="md-nav__link">
+    Pouvoir psionique
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lames-psychiques" class="md-nav__link">
+    Lames psychiques
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lames-spirituelles" class="md-nav__link">
+    Lames spirituelles
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#voile-psychique" class="md-nav__link">
+    Voile psychique
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rupture-spirituelle" class="md-nav__link">
+    Rupture spirituelle
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#phantome" class="md-nav__link">
+    Phantôme
+  </a>
+  
+    <nav class="md-nav" aria-label="Phantôme">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#murmures-des-defunts" class="md-nav__link">
+    Murmures des défunts
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#toucher-des-morts" class="md-nav__link">
+    Toucher des morts
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pas-spectral" class="md-nav__link">
+    Pas spectral
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#faux-des-ombres" class="md-nav__link">
+    Faux des ombres
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#veritable-horreur" class="md-nav__link">
+    Véritable horreur
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../multiclassage/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Multiclassage
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Races
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Races
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../races/elfe/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Elfes
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../races/changelin/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Changelin
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#talent-et-precision" class="md-nav__link">
+    Talent et précision
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#un-mode-de-vie-suspect" class="md-nav__link">
+    Un mode de vie suspect
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#creer-un-roublard" class="md-nav__link">
+    Créer un roublard
+  </a>
+  
+    <nav class="md-nav" aria-label="Créer un roublard">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#creation-rapide" class="md-nav__link">
+    Création rapide
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#capacites-de-classe" class="md-nav__link">
+    Capacités de classe
+  </a>
+  
+    <nav class="md-nav" aria-label="Capacités de classe">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#points-de-vie" class="md-nav__link">
+    Points de vie
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#maitrises" class="md-nav__link">
+    Maîtrises
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#equipement" class="md-nav__link">
+    Équipement
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#expertise" class="md-nav__link">
+    Expertise
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#attaque-sournoise" class="md-nav__link">
+    Attaque sournoise
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#jargon-des-voleurs" class="md-nav__link">
+    Jargon des voleurs
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ruse" class="md-nav__link">
+    Ruse
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#archetype-de-roublard" class="md-nav__link">
+    Archétype de roublard
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#amelioration-de-caracteristiques" class="md-nav__link">
+    Amélioration de caractéristiques
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#esquive-instinctive" class="md-nav__link">
+    Esquive instinctive
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#esquive-totale" class="md-nav__link">
+    Esquive totale
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#savoir-faire" class="md-nav__link">
+    Savoir-faire
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#perception-aveugle" class="md-nav__link">
+    Perception aveugle
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#esprit-fuyant" class="md-nav__link">
+    Esprit fuyant
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#insaisissable" class="md-nav__link">
+    Insaisissable
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#coup-de-chance" class="md-nav__link">
+    Coup de chance
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#archetypes-de-roublard" class="md-nav__link">
+    ==Archétypes de roublard==
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#assassin" class="md-nav__link">
+    Assassin
+  </a>
+  
+    <nav class="md-nav" aria-label="Assassin">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#maitrises-supplementaires" class="md-nav__link">
+    Maîtrises supplémentaires
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#assassinat" class="md-nav__link">
+    Assassinat
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#expert-en-infiltration" class="md-nav__link">
+    Expert en infiltration
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#imposteur" class="md-nav__link">
+    Imposteur
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#frappe-meurtriere" class="md-nav__link">
+    Frappe meurtrière
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#voleur" class="md-nav__link">
+    Voleur
+  </a>
+  
+    <nav class="md-nav" aria-label="Voleur">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#mains-lestes" class="md-nav__link">
+    Mains lestes
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#monte-en-lair" class="md-nav__link">
+    Monte-en-l'air
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#discretion-supreme" class="md-nav__link">
+    Discrétion suprême
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#utilisation-dobjets-magiques" class="md-nav__link">
+    Utilisation d'objets magiques
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#reflexes-de-voleur" class="md-nav__link">
+    Réflexes de voleur
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#escroc-arcanique" class="md-nav__link">
+    Escroc arcanique
+  </a>
+  
+    <nav class="md-nav" aria-label="Escroc arcanique">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#incantation" class="md-nav__link">
+    Incantation
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#escamotage-et-main-de-mage" class="md-nav__link">
+    Escamotage et main de mage
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#embuscade-magique" class="md-nav__link">
+    Embuscade magique
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#escroc-polyvalent" class="md-nav__link">
+    Escroc polyvalent
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#voleur-de-sort" class="md-nav__link">
+    Voleur de sort
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#conspirateur" class="md-nav__link">
+    Conspirateur
+  </a>
+  
+    <nav class="md-nav" aria-label="Conspirateur">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#maitre-des-intrigues" class="md-nav__link">
+    Maître des intrigues
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#maitre-des-tactiques" class="md-nav__link">
+    Maître des tactiques
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#manipulateur-perspicace" class="md-nav__link">
+    Manipulateur perspicace
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#redirection" class="md-nav__link">
+    Redirection
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ame-de-trompeur" class="md-nav__link">
+    Âme de trompeur
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bretteur" class="md-nav__link">
+    Bretteur
+  </a>
+  
+    <nav class="md-nav" aria-label="Bretteur">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#jeu-de-jambes-sophistique" class="md-nav__link">
+    Jeu de jambes sophistiqué
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#audace-desinvolte" class="md-nav__link">
+    Audace désinvolte
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#panache" class="md-nav__link">
+    Panache
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#manuvre-elegante" class="md-nav__link">
+    Manœuvre élégante
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#maitre-duelliste" class="md-nav__link">
+    Maître duelliste
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#eclaireur" class="md-nav__link">
+    Éclaireur
+  </a>
+  
+    <nav class="md-nav" aria-label="Éclaireur">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#escarmoucheur" class="md-nav__link">
+    Escarmoucheur
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#survivaliste" class="md-nav__link">
+    Survivaliste
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mobilite-superieure" class="md-nav__link">
+    Mobilité supérieure
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#maitre-de-lembuscade" class="md-nav__link">
+    Maître de l'embuscade
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sequence-fugace" class="md-nav__link">
+    Séquence fugace
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#enqueteur" class="md-nav__link">
+    Enquêteur
+  </a>
+  
+    <nav class="md-nav" aria-label="Enquêteur">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#detecteur-de-mensonges" class="md-nav__link">
+    Détecteur de mensonges
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#il-percant" class="md-nav__link">
+    Œil perçant
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sagacite-au-combat" class="md-nav__link">
+    Sagacité au combat
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#attentif" class="md-nav__link">
+    Attentif
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#vision-infaillible" class="md-nav__link">
+    Vision infaillible
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sens-de-la-faiblesse" class="md-nav__link">
+    Sens de la faiblesse
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ame-aceree" class="md-nav__link">
+    Âme acérée
+  </a>
+  
+    <nav class="md-nav" aria-label="Âme acérée">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#pouvoir-psionique" class="md-nav__link">
+    Pouvoir psionique
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lames-psychiques" class="md-nav__link">
+    Lames psychiques
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lames-spirituelles" class="md-nav__link">
+    Lames spirituelles
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#voile-psychique" class="md-nav__link">
+    Voile psychique
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rupture-spirituelle" class="md-nav__link">
+    Rupture spirituelle
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#phantome" class="md-nav__link">
+    Phantôme
+  </a>
+  
+    <nav class="md-nav" aria-label="Phantôme">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#murmures-des-defunts" class="md-nav__link">
+    Murmures des défunts
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#toucher-des-morts" class="md-nav__link">
+    Toucher des morts
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pas-spectral" class="md-nav__link">
+    Pas spectral
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#faux-des-ombres" class="md-nav__link">
+    Faux des ombres
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#veritable-horreur" class="md-nav__link">
+    Véritable horreur
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<h1 id="roublard">Roublard</h1>
+<p>Signifiant à ses compagnons d'attendre, un halfelin avance lentement dans la salle du donjon. Il colle son oreille à la porte, puis sort un jeu d'outils et crochète la serrure en un clin d'œil. Il disparaît ensuite dans l'ombre, lorsque son ami guerrier avance pour frapper la porte ouverte. Un humain se cache dans l'ombre d'une ruelle tandis que son complice se prépare pour l'embuscade. Quand leur cible, un esclavagiste notoire, passe en face de la ruelle, le complice crie, l'esclavagiste vient voir ce qui se passe, et la lame de l'assassin lui coupe la gorge avant qu'il ne puisse faire le moindre bruit. Une gnome agite ses doigts et soulève par magie le trousseau de clés à la ceinture du garde. En un instant, les clés sont dans sa main, la porte de la cellule est ouverte, et elle et ses compagnons sont libres de prendre la fuite.</p>
+<p>Les roublards s'appuient sur ​​la compétence, la discrétion et les faiblesses de leurs ennemis pour prendre la main dans n'importe quelle situation. Ils ont le don de trouver la solution à n'importe quel problème, démontrant une ingéniosité et une polyvalence qui est la pierre angulaire de toute aventure réussie.</p>
+<h2 id="talent-et-precision">Talent et précision</h2>
+<p>Les roublards consacrent autant d'effort à la maîtrise d'une variété de compétences qu'au perfectionnement de leurs capacités de combat, ce qui leur donne une large expertise à laquelle peu d'autres personnages peuvent prétendre. Beaucoup de roublards se concentrent sur la ruse et la tromperie, tandis que d'autres affinent les compétences qui les aident dans un environnement de type donjon, comme l'escalade, la recherche et le désamorçage des pièges et le crochetage. Lorsqu'il s'agit du combat, les roublards préfèrent la ruse à la force brute. Un roublard préférera donner un seul coup précis, le plaçant exactement à l'endroit qui blessera le plus la cible, plutôt qu'user son adversaire avec une série d'attaques. Les roublards ont un don presque surnaturel pour éviter le danger et quelques-uns apprennent des tours de magie pour compléter leurs autres capacités.</p>
+<h2 id="un-mode-de-vie-suspect">Un mode de vie suspect</h2>
+<p>Chaque ville et cité possède ses roublards. La plupart d'entre eux vivent en accord avec les pires stéréotypes de la classe, gagnant leur vie comme cambrioleurs, assassins, coupeurs de bourses et escrocs. Souvent, ces canailles sont organisées en guildes de voleurs ou en familles du crime. Beaucoup de roublards opèrent indépendamment, même s'ils recrutent parfois des apprentis pour les aider dans leurs escroqueries et cambriolages. Quelques roublards mènent une vie honnête comme serruriers, enquêteurs ou dératiseurs, qui peut être un travail dangereux dans un monde où des rats géants et autres rats-garous hantent les égouts. Comme aventuriers, les roublards peuvent être des deux côtés de la loi. Certains sont des criminels endurcis qui décident de chercher fortune en pillant des trésors, tandis que d'autres choisissent une vie d'aventure pour échapper à la loi. Certains ont appris et ont perfectionné leurs compétences avec le but explicite d'infiltrer des ruines antiques et des cryptes secrètes à la recherche de trésors.</p>
+<h2 id="creer-un-roublard">Créer un roublard</h2>
+<p>Lorsque vous créez votre roublard, pensez à la relation du personnage avec la loi. Avez-vous un passé... ou un présent... criminel ? Êtes-vous en fuite, recherché par les autorités ou par le maître d'une guilde de voleurs en colère ? Ou avez-vous quitté votre guilde à la recherche de plus grands risques et de récompenses plus importantes ? Est-ce la cupidité qui vous pousse dans vos aventures, ou bien un désir ou un idéal ? Quel a été le déclic qui vous a éloigné de votre précédente vie ? Peut-être avez-vous été chanceux et un vol réussi vous a donné les moyens dont vous aviez besoin pour échapper à la misère de votre vie. Ou l'envie de voyager vous a menée à quitter votre domicile ? Peut-être vous êtes-vous trouvé tout à coup coupé de votre famille ou de votre mentor, et il vous a alors fallu trouver de nouveaux moyens de soutien. Ou peut-être vous êtes-vous fait un nouvel ami qui vous a montré de nouvelles possibilités pour gagner sa vie en employant vos talents particuliers.</p>
+<h3 id="creation-rapide">Création rapide</h3>
+<p>Vous pouvez concevoir rapidement un roublard en suivant ces quelques suggestions. En premier lieu, la Dextérité devrait être votre plus haute valeur de caractéristique. Votre deuxième plus grande valeur de caractéristique devrait être l'Intelligence si vous voulez exceller en Investigation, ou le Charisme si vous préférez vous spécialiser en duperies et interactions sociales. Ensuite, choisissez l'historique criminel.</p>
+<h2 id="capacites-de-classe">Capacités de classe</h2>
+<h3 id="points-de-vie">Points de vie</h3>
+<ul>
+<li>DV : 1d8 par niveau de roublard</li>
+<li>pv au niveau 1 : 8 + votre modificateur de Constitution</li>
+<li>pv aux niveaux suivants : 1d8 (ou 5) + votre modificateur de Constitution</li>
+</ul>
+<h3 id="maitrises">Maîtrises</h3>
+<ul>
+<li>Armures : armures légères</li>
+<li>Armes : armes courantes, arbalète de poing, épée courte, épée longue, rapière</li>
+<li>Outils : outils de voleur</li>
+<li>Jets de sauvegarde : Dextérité, Intelligence</li>
+<li>Compétences : choisissez quatre compétences parmi Acrobaties, Athlétisme, Discrétion, Escamotage, Intimidation, Intuition, Investigation, Perception, Persuasion, Représentation et Tromperie</li>
+</ul>
+<h3 id="equipement">Équipement</h3>
+<p>Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par votre historique :</p>
+<ul>
+<li>(a) une rapière ou (b) une épée courte</li>
+<li>(a) un arc court et un carquois de 20 flèches ou (b) une épée courte</li>
+<li>(a) un sac de cambrioleur, (b) un sac d'exploration souterraine ou (c) un sac d'explorateur</li>
+<li>une armure de cuir, deux dagues et des outils de voleur</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Niv</th>
+<th>Bonus de maîtrise</th>
+<th>Attaque sournoise</th>
+<th>Capacités</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>+2</td>
+<td>1d6</td>
+<td>Expertise, Attaque sournoise, Jargon des voleurs</td>
+</tr>
+<tr>
+<td>2</td>
+<td>+2</td>
+<td>1d6</td>
+<td>Ruse</td>
+</tr>
+<tr>
+<td>3</td>
+<td>+2</td>
+<td>2d6</td>
+<td>Archétype de roublard</td>
+</tr>
+<tr>
+<td>4</td>
+<td>+2</td>
+<td>2d6</td>
+<td>Amélioration de caractéristiques</td>
+</tr>
+<tr>
+<td>5</td>
+<td>+3</td>
+<td>3d6</td>
+<td>Esquive instinctive</td>
+</tr>
+<tr>
+<td>6</td>
+<td>+3</td>
+<td>3d6</td>
+<td>Expertise</td>
+</tr>
+<tr>
+<td>7</td>
+<td>+3</td>
+<td>4d6</td>
+<td>Esquive totale</td>
+</tr>
+<tr>
+<td>8</td>
+<td>+3</td>
+<td>4d6</td>
+<td>Amélioration de caractéristiques</td>
+</tr>
+<tr>
+<td>9</td>
+<td>+4</td>
+<td>5d6</td>
+<td>Capacité de l'archétype de roublard</td>
+</tr>
+<tr>
+<td>10</td>
+<td>+4</td>
+<td>5d6</td>
+<td>Amélioration de caractéristiques</td>
+</tr>
+<tr>
+<td>11</td>
+<td>+4</td>
+<td>6d6</td>
+<td>Savoir-faire</td>
+</tr>
+<tr>
+<td>12</td>
+<td>+4</td>
+<td>6d6</td>
+<td>Amélioration de caractéristiques</td>
+</tr>
+<tr>
+<td>13</td>
+<td>+5</td>
+<td>7d6</td>
+<td>Capacité de l'archétype de roublard</td>
+</tr>
+<tr>
+<td>14</td>
+<td>+5</td>
+<td>7d6</td>
+<td>Perception aveugle</td>
+</tr>
+<tr>
+<td>15</td>
+<td>+5</td>
+<td>8d6</td>
+<td>Esprit fuyant</td>
+</tr>
+<tr>
+<td>16</td>
+<td>+5</td>
+<td>8d6</td>
+<td>Amélioration de caractéristiques</td>
+</tr>
+<tr>
+<td>17</td>
+<td>+6</td>
+<td>9d6</td>
+<td>Capacité de l'archétype de roublard</td>
+</tr>
+<tr>
+<td>18</td>
+<td>+6</td>
+<td>9d6</td>
+<td>Insaisissable</td>
+</tr>
+<tr>
+<td>19</td>
+<td>+6</td>
+<td>10d6</td>
+<td>Amélioration de caractéristiques</td>
+</tr>
+<tr>
+<td>20</td>
+<td>+6</td>
+<td>10d6</td>
+<td>Coup de chance</td>
+</tr>
+</tbody>
+</table>
+<h2 id="expertise">Expertise</h2>
+<p>Au niveau 1, choisissez deux des compétences que vous maîtrisez, ou l'une d'elles et votre maîtrise des outils de voleur. Votre bonus de maîtrise est doublé pour tout jet de caractéristique que vous réalisez et qui utilise l'une des compétences choisies.</p>
+<p>Au niveau 6, vous pouvez choisir deux maîtrises supplémentaires (compétences ou outils de voleur) et obtenir le même avantage.</p>
+<h2 id="attaque-sournoise">Attaque sournoise</h2>
+<p>À partir du niveau 1, vous savez comment trouver et exploiter subtilement la distraction d'un ennemi. Une fois par tour, vous pouvez infliger 1d6 points de dégâts supplémentaires à une créature que vous réussissez à toucher si vous avez un avantage au jet d'attaque. L'attaque doit utiliser une arme de finesse ou une arme à distance. Vous n'avez pas besoin d'avoir un avantage au jet d'attaque si un autre ennemi de la cible est à 1,50 mètre ou moins de celle-ci, que cet ennemi n'est pas incapable d'agir, et que vous n'avez pas un désavantage au jet d'attaque. Le nombre de dégâts supplémentaires augmente à mesure que vous gagnez des niveaux dans cette classe, comme indiqué dans la colonne Attaque sournoise de la table ci-dessus.</p>
+<h2 id="jargon-des-voleurs">Jargon des voleurs</h2>
+<p>Au cours de votre formation de roublard, vous avez appris le jargon des voleurs, un mélange secret de dialecte, de jargon et de codes, qui vous permet de cacher des messages dans une conversation apparemment normale. Seule une autre créature qui connaît le jargon des voleurs comprend ces messages. Il faut quatre fois plus de temps pour transmettre un tel message qu'il ne le faudrait pour transmettre la même idée clairement.</p>
+<p>En outre, vous comprenez un ensemble de signes et de symboles secrets utilisés pour transmettre des messages courts et simples, comme pour indiquer qu'une zone est dangereuse ou qu'elle fait partie du territoire d'une guilde des voleurs, qu'un butin est à proximité, ou que les gens d'une région sont des proies faciles ou qu'ils fourniront une maison sûre pour des voleurs en fuite.</p>
+<h2 id="ruse">Ruse</h2>
+<p>À partir du niveau 2, votre vivacité d'esprit et votre agilité vous permettent de vous déplacer et d'agir rapidement. Vous pouvez effectuer une action bonus à chacun de vos tours en combat. Cette action ne peut être utilisée que pour Se désengager, Se cacher ou Foncer.</p>
+<h2 id="archetype-de-roublard">Archétype de roublard</h2>
+<p>Au niveau 3, choisissez un archétype que vous émulez dans l'exercice de vos capacités de roublard. Votre archétype vous accorde des capacités spéciales au niveau 3 puis de nouvelles aux niveaux 9, 13 et 17. Voir Archétypes de roublard ci-dessous.</p>
+<h2 id="amelioration-de-caracteristiques">Amélioration de caractéristiques</h2>
+<p>Au niveau 4, puis par la suite aux niveaux 8, 10, 12, 16 et 19, vous pouvez augmenter une valeur de caractéristique de votre choix de +2, ou bien augmenter deux valeurs de caractéristique de votre choix de +1. Vous ne pouvez cependant pas augmenter une caractéristique au-delà de 20 par ce biais.</p>
+<h2 id="esquive-instinctive">Esquive instinctive</h2>
+<p>À partir du niveau 5, quand un attaquant que vous pouvez voir vous touche avec une attaque, vous pouvez utiliser votre réaction pour réduire de moitié les dégâts de l'attaque contre vous.</p>
+<h2 id="esquive-totale">Esquive totale</h2>
+<p>À partir du niveau 7, vous pouvez esquiver certains effets de zone, tels le souffle ardent d'un dragon rouge ou un sort de tempête de glace. Lorsque vous êtes sujet à un effet qui vous permet de faire un jet de sauvegarde de Dextérité pour ne prendre que la moitié des dégâts, vous ne prenez aucun dégât si vous réussissez le jet de sauvegarde, et seulement la moitié des dégâts si vous échouez.</p>
+<h2 id="savoir-faire">Savoir-faire</h2>
+<p>À partir du niveau 11, les compétences que vous avez choisies sont si affinées qu'elles approchent la perfection. Chaque fois que vous faites un jet de caractéristique qui vous permet d'ajouter votre bonus de maîtrise, vous pouvez traiter un résultat au dé de 9 ou moins comme un 10.</p>
+<h2 id="perception-aveugle">Perception aveugle</h2>
+<p>À partir du niveau 14, si vous êtes capable d'entendre, vous pouvez assumer l'emplacement de n'importe quelle créature cachée ou invisible à 3 mètres ou moins de vous.</p>
+<h2 id="esprit-fuyant">Esprit fuyant</h2>
+<p>À partir du niveau 15, vous avez acquis une plus grande force mentale. Vous gagnez la maîtrise aux jets de sauvegarde de Sagesse.</p>
+<h2 id="insaisissable">Insaisissable</h2>
+<p>À partir du niveau 18, les attaquants gagnent rarement le dessus sur vous. Aucun jet d'attaque n'a un avantage contre vous tant que vous n'êtes pas incapable d'agir.</p>
+<h2 id="coup-de-chance">Coup de chance</h2>
+<p>Au niveau 20, vous avez un talent surnaturel pour réussir quand vous en avez besoin. Si votre attaque échoue contre une cible à portée, vous pouvez transformer l'échec en succès. Ou bien si vous échouez à un jet de caractéristique, vous pouvez traiter le résultat du d20 comme un 20. Une fois cette capacité utilisée, vous devez terminer un repos court ou long pour pouvoir l'utiliser de nouveau.</p>
+<hr />
+<h2 id="archetypes-de-roublard">==Archétypes de roublard==</h2>
+<p>Tous les roublards ont de nombreuses caractéristiques en commun, comme l'accent qu'ils mettent sur le fait de perfectionner leurs compétences, leur approche précise et mortelle du combat et leurs réflexes toujours plus rapides. Mais des roublards différents orientent ces talents dans diverses directions, lesquelles sont incarnées par les archétypes de roublard. Votre choix de l'archétype est le reflet de votre attention. Ce n'est pas nécessairement une indication de votre profession, mais plutôt une description de vos techniques préférées.</p>
+<h2 id="assassin">Assassin</h2>
+<p>Vous focalisez votre entrainement sur l'art de l'assassinat. Divers personnages choisissent cet archétype : tueurs sous contrat, espions, chasseurs de primes, et même certains religieux entraînés à cela pour exterminer les ennemis de leur divinité. Discrétion, poisons et déguisements vous aident à éliminer vos cibles avec une efficacité meurtrière.</p>
+<h3 id="maitrises-supplementaires">Maîtrises supplémentaires</h3>
+<p>Lorsque vous choisissez cet archétype au niveau 3, vous gagnez la maîtrise du kit de déguisement et du kit d'empoisonneur.</p>
+<h3 id="assassinat">Assassinat</h3>
+<p>À partir du niveau 3, vous êtes au summum de votre art lorsque vous prenez votre adversaire au dépourvu. Vous avez un avantage à vos jets d'attaque contre toute créature qui n'a pas encore joué son tour durant le combat. En outre, si vous attaquez et touchez une créature surprise, cette attaque est considérée comme un coup critique.</p>
+<h3 id="expert-en-infiltration">Expert en infiltration</h3>
+<p>À partir du niveau 9, vous pouvez créer de fausses identités pour vous-même. Vous devez passer une semaine et dépenser 25 po pour établir l'histoire, la profession et les affiliations d'une identité. Cependant, vous ne pouvez pas établir une identité qui appartient déjà à une personne existante. Par exemple, vous devriez vous procurer les vêtements adéquats, des lettres d'introduction et une certification paraissant officielle pour vous faire passer pour le membre d'une guilde d'une ville lointaine et ainsi vous infiltrer dans un cercle de marchands. Par la suite, si vous adoptez une nouvelle identité avec un déguisement, les autres créatures croiront que vous êtes cette personne jusqu'à ce qu'elles aient une bonne raison pour penser le contraire.</p>
+<h3 id="imposteur">Imposteur</h3>
+<p>À partir du niveau 13, vous gagnez la capacité d'imiter le discours, l'écriture et le comportement d'une autre personne avec une précision extraordinaire. Vous devez étudier pendant au moins trois heures ces trois aspects (écouter parler la personne, examiner son écriture ou observer ses manières). Votre ruse est indiscernable pour un observateur occasionnel. Si une créature suspecte que quelque chose ne va pas, vous avez un avantage à tous les jets de Charisme (Tromperie) que vous réalisez pour éviter d'être détecté.</p>
+<h3 id="frappe-meurtriere">Frappe meurtrière</h3>
+<p>À partir du niveau 17, vous êtes un maître de la mort instantanée. Quand vous attaquez et touchez une créature qui est surprise, celle-ci doit réussir un jet de sauvegarde de Constitution DD 8 + votre modificateur de Dextérité + votre bonus de maîtrise. En cas d'échec, doublez les dégâts de l'attaque contre cette créature.</p>
+<hr />
+<h2 id="voleur">Voleur</h2>
+<p>Vous perfectionnez vos compétences dans les arts du larcin. Cambrioleurs, bandits, coupe-bourses et autres criminels suivent généralement cet archétype, de même que les roublards qui se considèrent eux-mêmes comme des chercheurs de trésors professionnels, des explorateurs ou des investigateurs. En plus d'améliorer votre agilité et votre furtivité, vous apprenez des compétences utiles pour pénétrer dans des ruines antiques, lire des langues inconnues ou utiliser des objets magiques que vous ne pourriez normalement pas employer.</p>
+<h3 id="mains-lestes">Mains lestes</h3>
+<p>À partir du niveau 3, vous pouvez utiliser l'action bonus accordée par votre Ruse pour réaliser un jet de Dextérité (Escamotage), utiliser vos outils de voleur pour désarmer un piège ou ouvrir une serrure, ou prendre l'action Utiliser un objet.</p>
+<h3 id="monte-en-lair">Monte-en-l'air</h3>
+<p>À partir du niveau 3, vous gagnez la possibilité d'escalader plus vite que la normale ; escalader ne vous coûte aucun mouvement supplémentaire. En outre, lorsque vous effectuez un saut en longueur, la distance que vous pouvez couvrir augmente d'une distance égale à votre modificateur de Dextérité x 30 cm.</p>
+<h3 id="discretion-supreme">Discrétion suprême</h3>
+<p>À partir du niveau 9, vous avez un avantage à tous vos jets de Dextérité (Discrétion) si vous ne vous déplacez pas de plus de la moitié de votre vitesse durant le même tour.</p>
+<h3 id="utilisation-dobjets-magiques">Utilisation d'objets magiques</h3>
+<p>À partir du niveau 13, vous en savez assez sur le fonctionnement de la magie pour pouvoir utiliser des objets même s'ils ne vous sont pas destinés. Ignorez toutes les exigences de classe, de race et de niveau pour l'utilisation d'objets magiques.</p>
+<h3 id="reflexes-de-voleur">Réflexes de voleur</h3>
+<p>À partir du niveau 17, vous pouvez jouer deux tours lors du premier round d'un combat. Vous prenez votre premier tour suivant votre initiative normale et votre deuxième tour à votre initiative moins 10. Vous ne pouvez pas utiliser cette capacité si vous êtes surpris.</p>
+<hr />
+<h2 id="escroc-arcanique">Escroc arcanique</h2>
+<p>Quelques roublards améliorent leurs compétences aiguisées en furtivité et agilité avec la magie, apprenant des tours d'enchantement et d'illusion. On trouve parmi eux des voleurs à la tire et des cambrioleurs, mais aussi des farceurs, des fauteurs de troubles et un nombre important d'aventuriers.</p>
+<h3 id="incantation">Incantation</h3>
+<p>Lorsque vous atteignez le niveau 3, vous gagnez la possibilité de lancer des sorts.</p>
+<ul>
+<li>
+<p><strong>Sorts mineurs.</strong> Vous apprenez trois sorts mineurs : main de mage et deux autres sorts mineurs de votre choix dans la liste de sorts de magicien. Vous apprenez un autre sort mineur de votre choix au niveau 10.</p>
+</li>
+<li>
+<p><strong>Emplacements de sorts.</strong> La table ci-dessous montre de combien d'emplacements de sorts vous disposez pour lancer vos sorts de magicien de niveau 1 et supérieur. Pour lancer un de ces sorts, vous devez dépenser un emplacement du niveau du sort ou supérieur. Vous regagnez tous les emplacements de sorts dépensés lorsque vous terminez un repos long. Par exemple, si vous connaissez le sort de niveau 1 charme-personne et qu'il vous reste un emplacement de niveau 1 et un emplacement de niveau 2, vous pouvez jeter deux fois ce sort.</p>
+</li>
+<li>
+<p><strong>Sorts connus du niveau 1 et supérieur.</strong> Vous connaissez trois sorts de magicien de niveau 1 de votre choix, dont deux que vous devez choisir dans les écoles d’enchantement ou d'illusion. La colonne Sorts connus indique à quel niveau vous apprenez plus de sorts de magicien de niveau 1 ou plus élevé. Chacun de ces sorts doit être de l’école d’enchantement ou d'illusion, au choix, et doit être d'un niveau pour lequel vous avez des emplacements de sorts. Par exemple, lorsque vous atteignez le niveau 7 dans cette classe, vous pouvez apprendre un nouveau sort de niveau 1 ou 2. Les sorts que vous apprenez aux niveaux 8, 14 et 20 peuvent appartenir à n'importe école de magie. Chaque fois que vous gagnez un niveau dans cette classe, vous pouvez choisir un sort de magicien que vous connaissez et le remplacer par un autre sort choisi dans la liste de sorts de magicien. Le nouveau sort doit être également d'un niveau pour lequel vous possédez des emplacements de sorts, et appartenir à l’école d’enchantement ou d'illusion, à moins que vous ne remplaciez le sort que vous avez acquis au niveau 3, 8, 14 ou 20 de n'importe quelle école de magie.</p>
+</li>
+<li>
+<p><strong>Caractéristique d'incantation.</strong> L’Intelligence est votre caractéristique d'incantation pour vos sorts de magicien, car vous apprenez vos sorts à travers l'étude et la mémorisation. Vous utilisez votre Intelligence chaque fois qu'un sort se réfère à votre capacité de lancer des sorts. En outre, vous utilisez votre modificateur d'Intelligence pour définir le DD du jet de sauvegarde d'un sort de magicien que vous lancez, ou pour le jet d'attaque de celui-ci.</p>
+</li>
+<li>
+<p><strong>DD de sauvegarde des sorts</strong> = 8 + votre bonus de maîtrise + votre modificateur d'Intelligence</p>
+</li>
+<li><strong>Modificateur aux attaques avec un sort</strong> = votre bonus de maîtrise + votre modificateur d'Intelligence</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Niv</th>
+<th>Sorts mineurs connus</th>
+<th>Sorts connus</th>
+<th>- Emplacements de sorts -</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>4</td>
+<td>3</td>
+<td>4</td>
+<td>3</td>
+</tr>
+<tr>
+<td>5</td>
+<td>3</td>
+<td>4</td>
+<td>3</td>
+</tr>
+<tr>
+<td>6</td>
+<td>3</td>
+<td>4</td>
+<td>3</td>
+</tr>
+<tr>
+<td>7</td>
+<td>3</td>
+<td>5</td>
+<td>4</td>
+</tr>
+<tr>
+<td>8</td>
+<td>3</td>
+<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>9</td>
+<td>3</td>
+<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>10</td>
+<td>4</td>
+<td>7</td>
+<td>4</td>
+</tr>
+<tr>
+<td>11</td>
+<td>4</td>
+<td>8</td>
+<td>4</td>
+</tr>
+<tr>
+<td>12</td>
+<td>4</td>
+<td>8</td>
+<td>4</td>
+</tr>
+<tr>
+<td>13</td>
+<td>4</td>
+<td>9</td>
+<td>4</td>
+</tr>
+<tr>
+<td>14</td>
+<td>4</td>
+<td>10</td>
+<td>4</td>
+</tr>
+<tr>
+<td>15</td>
+<td>4</td>
+<td>10</td>
+<td>4</td>
+</tr>
+<tr>
+<td>16</td>
+<td>4</td>
+<td>11</td>
+<td>4</td>
+</tr>
+<tr>
+<td>17</td>
+<td>4</td>
+<td>11</td>
+<td>4</td>
+</tr>
+<tr>
+<td>18</td>
+<td>4</td>
+<td>11</td>
+<td>4</td>
+</tr>
+<tr>
+<td>19</td>
+<td>4</td>
+<td>12</td>
+<td>4</td>
+</tr>
+<tr>
+<td>20</td>
+<td>4</td>
+<td>13</td>
+<td>4</td>
+</tr>
+</tbody>
+</table>
+<h3 id="escamotage-et-main-de-mage">Escamotage et main de mage</h3>
+<p>À partir du niveau 3, lorsque vous lancez main de mage, vous pouvez rendre la main spectrale invisible, et vous pouvez effectuer les tâches supplémentaires suivantes avec celle-ci :</p>
+<ul>
+<li>Vous pouvez ranger un objet que la main tient dans un contenant, porté ou transporté par une autre créature.</li>
+<li>Vous pouvez récupérer un objet dans un contenant, porté ou transporté par une autre créature.</li>
+<li>Vous pouvez utiliser des outils de voleur pour crocheter les serrures et pour désarmer les pièges à distance.</li>
+<li>Vous pouvez effectuer une de ces tâches sans vous faire remarquer par une créature si vous réussissez un jet de Dextérité (Escamotage) opposé à un jet de Sagesse (Perception) de la créature. En outre, vous pouvez utiliser l'action bonus accordé par votre Ruse pour contrôler la main.</li>
+</ul>
+<h3 id="embuscade-magique">Embuscade magique</h3>
+<p>À partir du niveau 9, si vous êtes caché d'une créature quand vous lui lancez un sort, la créature a un désavantage à tous les jets de sauvegarde contre ce sort pendant ce tour.</p>
+<h3 id="escroc-polyvalent">Escroc polyvalent</h3>
+<p>Au niveau 13, vous obtenez la possibilité de distraire les cibles avec la main de main de mage. Par une action bonus à votre tour, vous pouvez désigner une créature dans un rayon de 1,50 mètre autour de la main spectrale créé par le sort. Le faire vous donne un avantage aux jets d’attaque contre cette créature jusqu'à la fin du tour.</p>
+<h3 id="voleur-de-sort">Voleur de sort</h3>
+<p>Au niveau 17, vous gagnez la capacité de voler magiquement à un lanceur de sorts sa connaissance pour lancer un sort. Immédiatement après qu’une créature jette un sort qui vous cible ou vous inclut dans sa zone d'effet, vous pouvez utiliser votre réaction pour forcer la créature à faire un jet de sauvegarde avec le modificateur de sa caractéristique d'incantation. Le DD est égal à votre sort DD de sauvegarde contre les sorts. En cas d'échec, vous niez l'effet du sort contre vous, et vous volez la connaissance du sort s’il est au moins de niveau 1 et d'un niveau que vous pouvez lancer (le sort ne doit pas forcément être un sort de magicien). Pour les prochaines 8 heures, vous connaissez le sort et pouvez le lancer à l'aide de vos emplacements de sorts. La créature ne peut plus lancer ce sort jusqu'à ce que les 8 heures soient passées. Une fois que vous utilisez cette capacité, vous ne pouvez pas l'utiliser de nouveau jusqu'à ce que vous finissiez un repos long.</p>
+<hr />
+<h2 id="conspirateur">Conspirateur</h2>
+<p>Vous mettez l'accent sur les personnes et sur l'influence et les secrets qu'ils ont. Beaucoup d'espions, de courtisans et de conspirateurs suivent cet archétype, menant une vie d'intrigues. Les mots sont aussi souvent vos armes que les poignards ou le poison, et les secrets et les faveurs sont parmi vos trésors préférés.</p>
+<h3 id="maitre-des-intrigues">Maître des intrigues</h3>
+<p>Lorsque vous choisissez cet archétype au niveau 3, vous gagnez la maîtrise du kit de déguisement, du kit de contrefaçon et d'un type de jeu de votre choix. Vous apprenez également deux langues de votre choix. En outre, vous pouvez infailliblement imiter la tonalité de voix et l'accent d'une créature que vous entendez parler pendant au moins 1 minute, vous permettant de vous faire passer pour un locuteur natif d'une terre particulière, à condition de connaitre la langue.</p>
+<h3 id="maitre-des-tactiques">Maître des tactiques</h3>
+<p>À partir du niveau 3, vous pouvez utiliser l'action Aider en tant qu'action bonus. En outre, lorsque vous utilisez l'action Aider pour aider un allié à attaquer une créature, la cible de cette attaque peut être dans un rayon de 9 mètres autour de vous, au lieu de 1,50 mètre, si la cible peut vous voir ou vous entendre.</p>
+<h3 id="manipulateur-perspicace">Manipulateur perspicace</h3>
+<p>À partir du niveau 9, si vous passez au moins 1 minute à observer ou interagir avec une autre créature en dehors d'une situation de combat, vous pouvez apprendre certaines informations sur ses capacités par rapport aux vôtres. Le MD vous indique si la créature est votre égal, supérieur ou inférieur par rapport à deux des caractéristiques suivantes de votre choix :</p>
+<ul>
+<li>Valeur d'Intelligence</li>
+<li>Valeur de Sagesse</li>
+<li>Valeur de Charisme</li>
+<li>Niveau de classe (le cas échéant)</li>
+</ul>
+<p>À la discrétion du MD, vous pouvez aussi réaliser que vous connaissez une part de l'histoire de la créature ou l'un de ses traits de personnalité, si elle en possède.</p>
+<h3 id="redirection">Redirection</h3>
+<p>À partir du niveau 13, vous pouvez parfois faire qu'une créature finisse par être la cible d'une attaque qui vous visait. Lorsque vous êtes ciblé par une attaque alors qu'une créature dans un rayon de 1,50 mètre autour de vous vous offre un abri contre cette attaque, vous pouvez utiliser votre réaction pour que la cible de l'attaque soit cette créature, à votre place.</p>
+<h3 id="ame-de-trompeur">Âme de trompeur</h3>
+<p>À partir du niveau 17, vos pensées ne peuvent être lues par télépathie ou par d'autres moyens, sauf si vous le permettez. Vous pouvez présenter de fausses pensées en faisant un jet de Charisme (Tromperie) opposé à un jet de Sagesse (Intuition) du lecteur de votre esprit. En outre, peu importe ce que vous dites, la magie qui permettrait de déterminer si vous dites la vérité indique que vous ne mentez pas, si vous le souhaitez, et vous ne pouvez pas être obligé de dire la vérité par magie.</p>
+<hr />
+<h2 id="bretteur">Bretteur</h2>
+<p>Votre entraînement à l’art de l’escrime se concentre à parts égales sur la vitesse, l’élégance et la maîtrise. Si certains guerriers ne sont guère plus que des brutes en armure, pour vous, le combat est autant un sport qu’un art à la recherche de la performance. Cet archétype est généralement adopté par les duellistes et les pirates.</p>
+<p>À mesure que vous progressez, vous apprenez à manier une arme avec dextérité. Il est nécessaire d’être rapide et de se battre avec deux armes tout en sachant bondir hors de portée de votre adversaire.</p>
+<h3 id="jeu-de-jambes-sophistique">Jeu de jambes sophistiqué</h3>
+<p>Lorsque vous choisissez cet archétype au niveau 3, vous apprenez à porter un coup puis vous retirer sans risquer de représailles. Pendant votre tour, si vous portez une attaque de corps à corps contre une créature, celle-ci ne peut faire d’attaque d’opportunité contre vous pour le reste de votre tour.</p>
+<h3 id="audace-desinvolte">Audace désinvolte</h3>
+<p>À partir du niveau 3, vous vous battez avec confiance. Vous pouvez ainsi vous accorder un bonus d’initiative égal à votre modificateur de Charisme.</p>
+<p>Vous gagnez également un moyen supplémentaire d’utiliser votre attaque sournoise. Vous n’avez pas besoin d’obtenir l’avantage à votre jet d’attaque pour utiliser votre attaque sournoise contre une créature si vous vous trouvez à 1,50 mètre ou moins de celle-ci, et qu’aucun autre créature ne se trouve dans un rayon de 1,50 mètre de vous, et vous ne subissez pas de désavantage à votre jet d’attaque. Toutes les règles de l’attaque sournoise s’appliquent cependant.</p>
+<h3 id="panache">Panache</h3>
+<p>Au niveau 9, votre charme fait de vous un être extrêmement séduisant. Par une action, vous pouvez faire un jet de Charisme (Persuasion) opposé à un jet de Sagesse (Intuition) d’une créature. La créature doit être capable de vous voir et vous entendre, et ce test doit se faire dans une langue que la créature comprend.</p>
+<p>Si vous réussissez ce jet contre une créature hostile, celle-ci n’a plus d’attaque d’opportunité contre vous, et cela dure pendant une minute. Tant qu’elle est charmée, elle souffre du désavantage sur ses jets d’attaque contre des cibles autres que vous et ne peut pas lancer de sort contre d’autres cibles que vous.</p>
+<p>Cet effet prend fin si vos compagnons lui portent atteinte d’une quelconque manière.</p>
+<h3 id="manuvre-elegante">Manœuvre élégante</h3>
+<p>À partir du niveau 13, lors de votre tour, vous pouvez utiliser une action bonus pour avoir l’avantage au prochain test de Dextérité (Acrobatie) ou de Force (Athlétisme) que vous effectuez au cours du même tour.</p>
+<h3 id="maitre-duelliste">Maître duelliste</h3>
+<p>À partir du niveau 17, vous maîtrisez votre arme au point de pouvoir transformer un échec en succès critique. Si vous faites un 1 au dé d’attaque, vous pouvez relancer ce dé et devez prendre le résultat obtenu. Vous ne pouvez utiliser cette aptitude qu’une fois par tour, mais vous n’avez pas besoin d’avoir terminé un repos court ou long avant de pouvoir l’utiliser de nouveau.</p>
+<hr />
+<h2 id="eclaireur">Éclaireur</h2>
+<p>Vous savez rester discret et survivre loin des villes et de leurs règles, ce qui vous permet de servir d'éclaireur lors de certaines expéditions en groupe. Les rôdeurs qui choisissent cet archétype se sentent à l'aise dans la nature et parmi les créatures qui y vivent, et on trouve ainsi de nombreux barbares et des rôdeurs, et ayant vu d'oreilles à des groupes de guerriers. Les éclaireurs peuvent parcourir le monde pour apprendre de nombreuses professions, comme par exemple brigand, espion ou encore chasseur de primes.</p>
+<h3 id="escarmoucheur">Escarmoucheur</h3>
+<p>À partir du niveau 3, il est difficile de vous coincer pendant un combat. Par réaction, vous pouvez vous déplacer d'une distance maximum correspondant à la moitié de votre vitesse sans provoquer d'attaques d'opportunité quand un ennemi se trouve dans un rayon de 1,50 mètre de vous. Ce déplacement ne provoque pas d'attaque d'opportunité.</p>
+<h3 id="survivaliste">Survivaliste</h3>
+<p>Lorsque vous choisissez cet archétype au niveau 3, vous gagnez des compétences supplémentaires en Nature et Survie si ce n'est pas déjà fait. De plus, vous doublez votre bonus de maîtrise quand vous faites un jet de compétence basé sur ces compétences.</p>
+<h3 id="mobilite-superieure">Mobilité supérieure</h3>
+<p>Au niveau 9, votre vitesse au sol augmente de 3 mètres. Si vous avez une vitesse d'escalade ou de nage, ces vitesses augmentent de la même distance.</p>
+<h3 id="maitre-de-lembuscade">Maître de l'embuscade</h3>
+<p>À partir du niveau 13, vous excellez dans l'art de tendre des embuscades et d'être le premier à agir en cas de combat. Vous avez avantage aux jets d'initiative. De plus, la première créature que vous touchez lors du premier round de combat devient une cible facile pour vous et vos alliés et les jets d'attaque contre cette créature sont avantageux jusqu'au début de votre prochain tour.</p>
+<h3 id="sequence-fugace">Séquence fugace</h3>
+<p>À partir du niveau 17, vous pouvez frapper avec une vitesse fulgurante. Si vous choisissez l'action attaquer lors de votre tour, vous pouvez porter une attaque supplémentaire comme action bonus. Vous pouvez utiliser cette attaque supplémentaire pour faire une attaque sournoise même si vous l'avez déjà utilisée ce tour-ci, mais vous ne pouvez pas utiliser cette aptitude contre la même cible plus d'une fois par tour.</p>
+<hr />
+<h2 id="enqueteur">Enquêteur</h2>
+<p>Tout comme le prototype de l'enquêteur, vous êtes passé maître dans l'art des énigmes et des déductions. De plus, vous percevez mieux les mensonges que les autres et savez reconnaître les manipulations, ce qui fait de vous un spécialiste dans l’art de démasquer vos ennemis. Les enquêteurs qui choisissent cet archétype sont des alliés précieuses pour tout groupe, apportant leur connaissance des comportements humains et leur capacité à découvrir des secrets et à éliminer les ennemis dans l'ombre.</p>
+<h3 id="detecteur-de-mensonges">Détecteur de mensonges</h3>
+<p>Lorsque vous choisissez cet archétype au niveau 3, vous développez un véritable talent pour repérer les mensonges. À chaque fois que vous faites un test de Sagesse (Intuition) pour déterminer si une créature est en train de mentir, considérez tous les résultats de 7 ou moins sur le d20 comme un 8.</p>
+<h3 id="il-percant">Œil perçant</h3>
+<p>À partir du niveau 3, vous pouvez utiliser une action bonus pour faire un test de Sagesse (Perception) afin de repérer une créature ou un objet. Vous pouvez également faire un test d'Intelligence (Investigation) pour découvrir ou déchiffrer des indices.</p>
+<h3 id="sagacite-au-combat">Sagacité au combat</h3>
+<p>Au niveau 3, vous gagnez la capacité de comprendre les tactiques d'un adversaire et de déterminer rapidement comment le défaire. Vous pouvez utiliser une action bonus pour faire un test de Sagesse (Intuition) contre une créature que vous pouvez voir à une distance maximale de 9 mètres. Ce test oppose votre Sagesse (Intuition) à son Charisme (Tromperie). Si vous réussissez, vous bénéficiez d'avantage à votre attaque sournoise contre elle jusqu'à la fin de votre tour. Cet effet dure 1 minute ou jusqu'à ce que vous utilisiez cette aptitude avec succès contre une créature différente.</p>
+<h3 id="attentif">Attentif</h3>
+<p>À partir du niveau 9, vous êtes avantagé à tous vos tests de Sagesse (Perception) ou d'Intelligence (Investigation) si vous vous déplacez pas de plus de la moitié de votre vitesse pendant le même tour.</p>
+<h3 id="vision-infaillible">Vision infaillible</h3>
+<p>À partir du niveau 13, vos sens sont presque impossibles à tromper. Par une action, vous pouvez sentir la présence d'illusions, de métamorphes qui ne sont pas sous leur vraie forme, ou de créatures cachées ou invisible dans un rayon de 9 mètres autour de vous. Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Sagesse (avec un minimum d'une fois), et vous récupérez tous les usages après avoir terminé un repos long.</p>
+<h3 id="sens-de-la-faiblesse">Sens de la faiblesse</h3>
+<p>Au niveau 17, vous apprenez à exploiter les faiblesses de vos ennemis. À chaque fois que vous touchez une créature avec une attaque sournoise au combat, la quantité de dégâts infligés par votre attaque sournoise contre cette créature augmente de 3d6.</p>
+<hr />
+<!-- A relire -->
+<h2 id="ame-aceree">Âme acérée</h2>
+<p>La plupart des assassins frappent avec des armes physiques et nombreux sont les cambrioleurs et espions qui usent d’outils de voleur pour pénétrer où ils ne sont pas les bienvenus. De son côté, l’Âme acérée tue et infiltre par l’esprit, en pénétrant les barrières physiques ou psychiques. Ces roublards découvrent le pouvoir psionique qui est en eux et l’exploitent pour accomplir leurs méfaits. Les guildes de voleurs les accueillent volontiers dans leurs rangs, mais les roublards qui maîtrisent ce pouvoir sont souvent si discrets et méfiants que les guildes ont tendance à les regarder d’un œil suspicieux. Bien des dirigeants aimeraient pouvoir acheter les services d’espionnage d’un Âme acérée.</p>
+<h3 id="pouvoir-psionique">Pouvoir psionique</h3>
+<p>Aptitude d'Âme acérée de niveau 3</p>
+<p>Vous recelez une source d'énergie psionique. Cette énergie est représentée par vos dés d’Énergie psionique, des d6. Vous en disposez d'autant que le bonus de maîtrise, ces dés alternant entre des effets spécifiques et des attaques, décrits ci-après.</p>
+<p>Certains de vos pouvoirs dépendent de vos dés d'Énergie psionique, et vous récupérez vos dés d'Énergie dépensés en terminant un repos long. Par ailleurs, par une action bonus, vous pouvez récupérer un dé d'Énergie psionique, mais seulement une fois entre deux repos longs.</p>
+<p>Lorsque vous atteignez certains niveaux de cette classe, votre dé d’Énergie psionique se renforce : il devient un d8 au niveau 5, un d10 au niveau 11 et un d12 au niveau 17.</p>
+<p>Les pouvoirs ci-après utilisent vos dés d’Énergie psionique.</p>
+<ul>
+<li>
+<p><strong>Murmures psychiques.</strong> Vous pouvez établir une communication télépathique entre vous et autrui, idéal pour l’infiltration. Par une action, choisissez une ou plusieurs créatures que vous voyez, jusqu’à un maximum égal à votre bonus de maîtrise, puis dépensez un dé d’Énergie psionique. Pendant un nombre d’heures égal au résultat du dé, les créatures choisies peuvent communiquer par télépathie avec vous. Pour envoyer ou recevoir un message (pas d’action requise), chaque créature doit se trouver dans un rayon de 1,5 km l’une de l’autre. Pour pouvoir continuer la télépathie, chaque créature doit parler un langage que l’autre comprend.</p>
+</li>
+<li>
+<p><strong>Savoir-faire psionique.</strong> Lorsque vous faites un jet d'habilité ou d'attaque, vous pouvez lancer un dé d'Énergie psionique et ajouter le résultat à votre jet.</p>
+</li>
+</ul>
+<h3 id="lames-psychiques">Lames psychiques</h3>
+<p>Aptitude d'Âme acérée de niveau 3</p>
+<p>Vous pouvez manifester votre pouvoir psionique sous forme de lames chatoyantes d'énergie psionique. Chaque fois que vous entreprenez l’action Attaquer, vous pouvez manifester une lame psionique dans une de vos mains pour effectuer l’attaque avec cette arme. Cette lame magique constitue une arme courante de corps à corps dotée des propriétés finesse et légère. Sa portée normale est de 18 m et elle n’inflige pas de dégâts physiques, mais des dégâts psioniques égaux à 1d6 plus le modificateur de caractéristique employé pour le jet d’attaque. La lame disparaît aussitôt après avoir touché ou raté une cible. </p>
+<p>Après avoir attaqué avec la lame, vous pouvez effectuer une attaque avec une seconde lame psionique, pour une action bonus.</p>
+<h3 id="lames-spirituelles">Lames spirituelles</h3>
+<p>Aptitude d'Âme acérée de niveau 9</p>
+<p>Vos Lames psychiques sont désormais l’expression de votre âme psionique, ce qui vous confère un pouvoir supplémentaire lorsqu’elles se manifestent :</p>
+<ul>
+<li>
+<p><strong>Lames chercheuses.</strong> Si vous effectuez une attaque avec vos Lames psychiques et ratez la cible, vous pouvez lancer un dé d’Énergie psionique et ajouter le résultat au jet d’attaque. Si l'attaque touche par ce biais, vous dépensez le dé d’Énergie psionique.</p>
+</li>
+<li>
+<p><strong>Téléportation psychique.</strong> Par une action bonus, vous manifestez l'une de vos Lames psychiques, dépensez un dé d’Énergie psionique et le lancez. Vous projetez la lame dans un espace inoccupé que vous pouvez voir dans un rayon de 3 m multiplié par le résultat du dé. Vous vous téléportez alors dans cet espace et la lame disparaît.</p>
+</li>
+</ul>
+<h3 id="voile-psychique">Voile psychique</h3>
+<p>Aptitude d'Âme acérée de niveau 13</p>
+<p>Vous pouvez tisser un voile d’énergie psychique statique pour vous dissimuler. Par une action, vous pouvez devenir magiquement invisible ainsi que tout ce que vous portez pendant 1 heure, jusqu’à ce que vous révoquiez cet effet à tout moment (aucune action requise). Si vous infligez des dégâts à une créature ou que vous effectuez un jet de sauvegarde, cette invisibilité prend fin aussitôt après.</p>
+<p>Une fois cette aptitude utilisée, vous devez terminer un repos long, ou y consacrer un dé d’Énergie psionique, pour pouvoir y recourir de nouveau.</p>
+<h3 id="rupture-spirituelle">Rupture spirituelle</h3>
+<p>Aptitude d'Âme acérée de niveau 17</p>
+<p>Vous pouvez directement trancher l’esprit de votre cible avec vos Lames psychiques. Lorsque vous recourez à vos Lames psychiques pour infliger des dégâts d’Attaque sournoise à une créature, vous pouvez forcer cette créature à effectuer un jet de sauvegarde de Sagesse (DD égal à 8 + votre bonus de maîtrise + votre modificateur de Dextérité). En cas d’échec, la cible est étourdie pendant 1 minute. La cible peut réitérer le jet de sauvegarde à la fin de chacun de ses tours et mettre un terme à l’effet sur elle-même en cas de réussite.</p>
+<p>Une fois cette aptitude utilisée, vous devez terminer un repos long, ou y consacrer un dé d’Énergie psionique, pour pouvoir y recourir de nouveau.</p>
+<hr />
+<h2 id="phantome">Phantôme</h2>
+<h3 id="murmures-des-defunts">Murmures des défunts</h3>
+<p>Aptitude de Phantôme de niveau 3</p>
+<p>L'écho des morts résonne encore en vous. Chaque fois que vous terminez un repos court ou long, vous pouvez choisir une compétence ou un outil dans le tableau de maîtrise de votre classe ou d'une autre classe. Si vous ne possédez pas déjà cette maîtrise, une présence spectrale vient partager son savoir avec vous. Vous pouvez recourir à cette aptitude pour choisir une autre maîtrise qui vous fait défaut.</p>
+<h3 id="toucher-des-morts">Toucher des morts</h3>
+<p>Aptitude de Phantôme de niveau 3</p>
+<p>Vous pouvez causer des blessures mortelles avec un toucher spectral. Lorsque vous effectuez une attaque sournoise contre une créature, vous pouvez infliger des dégâts de nécrotique supplémentaires égaux à la moitié des dégâts d’attaque sournoise. Vous pouvez utiliser cette aptitude un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.</p>
+<h3 id="pas-spectral">Pas spectral</h3>
+<p>Aptitude de Phantôme de niveau 9</p>
+<p>À partir du niveau 9, vous pouvez déplacer votre corps de façon éthérée. Par une action bonus, vous devenez intangible, ce qui vous permet de passer à travers des créatures et des objets comme si vous étiez un fantôme, pour un tour. Pendant ce tour, si vous terminez votre mouvement à l'intérieur d'un objet, vous êtes éjecté du plus près possible, subissant 1d10 dégâts de force pour chaque mètre que vous parcourez.</p>
+<p>Vous pouvez utiliser cette aptitude un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.</p>
+<h3 id="faux-des-ombres">Faux des ombres</h3>
+<p>Aptitude de Phantôme de niveau 13</p>
+<p>Vous pouvez appeler les esprits des morts pour absorber une partie des attaques destinées à vous blesser. Lorsque vous subissez des dégâts, vous pouvez utiliser votre réaction pour réduire les dégâts de 1d10 + votre bonus de maîtrise.</p>
+<p>Vous pouvez utiliser cette aptitude un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.</p>
+<h3 id="veritable-horreur">Véritable horreur</h3>
+<p>Aptitude de Phantôme de niveau 17</p>
+<p>Les âmes des morts que vous avez côtoyées peuvent être libérées pour semer la terreur parmi vos ennemis. Par une action, vous invoquez un tourbillon d’âmes qui prennent la forme de spectres et hantent les ennemis autour de vous. Chaque créature hostile dans un rayon de 9 mètres autour de vous doit réussir un jet de sauvegarde de Sagesse (DD égal à 8 + votre bonus de maîtrise + votre modificateur de Charisme) sous peine de subir 4d10 dégâts psychiques et être effrayée pendant 1 minute. Une créature effrayée peut répéter le jet de sauvegarde à la fin de chacun de ses tours.</p>
+<p>Une fois cette aptitude utilisée, vous devez terminer un repos long pour pouvoir y recourir de nouveau.</p>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.dfff1995.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.dff1b7c8.min.js"></script>
+      
+    
+  </body>
+</html>
