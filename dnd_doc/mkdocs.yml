@@ -62,5 +62,16 @@ nav:
     - Roublard: classes/roublard.md
     - Multiclassage: classes/multiclassage.md
   - Races: 
-    - Elfes: races/elfe.md
-    - Changelin: races/changelin.md
+    - Core: 
+      - Demi-elfes: races/core/demi-elfe.md
+      - Demi-orc: races/core/demi-orc.md
+      - Drakeide: races/core/drakeide.md
+      - Elfes: races/core/elfe.md
+      - Gnome: races/core/gnome.md
+      - Halfelins: races/core/halfelin.md
+      - Humain: races/core/humain.md
+      - Nains: races/core/nain.md
+      - Tieffelin: races/core/tieffelin.md
+    - Monstres du Multivers:
+      - Changelin: races/monstres_multivers/changelin.md
+      - Duergar: races/monstres_multivers/duergar.md

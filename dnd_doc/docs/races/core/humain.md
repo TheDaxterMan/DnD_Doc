@@ -67,7 +67,7 @@ Noms de famille : Chergoba, Dyernina, Iltazyara, Murnyethara, Stayanoga, Ulmokin
 ### Shou
 Les Shous forment l’ethnie la plus nombreuse et la plus puissante du continent de Kara-Tur, situé loin à l’est de Faerûn. Ils ont une couleur de peau qui tire sur le jaune et le bronze, avec des cheveux noirs et des yeux noirs. Les noms de famille shous sont normalement placés avant les prénoms.
 
--**Prénoms shous masculins :** An, Chen, Chi, Fai, Jiang, Jun, Lian, Long, Meng, On, Shan, Shui, Wen.
+- **Prénoms shous masculins :** An, Chen, Chi, Fai, Jiang, Jun, Lian, Long, Meng, On, Shan, Shui, Wen.
 - **Prénoms shous féminins :** Bai, Chao, Jia, Lei, Mei, Qiao, Shui, Tai.
 Noms de famille : Chien, Huang, Kao, Kung, Lao, Ling, Mei, Pin, Shin, Sum, Tan, Wan.
 
