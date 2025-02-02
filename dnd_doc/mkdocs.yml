@@ -73,5 +73,33 @@ nav:
       - Nains: races/core/nain.md
       - Tieffelin: races/core/tieffelin.md
     - Monstres du Multivers:
+      - Aarakocre: races/monstres_multivers/aarakocre.md
+      - Aasimar: races/monstres_multivers/aasimar.md
+      - Centaure: races/monstres_multivers/centaure.md
       - Changelin: races/monstres_multivers/changelin.md
+      - Conil: races/monstres_multivers/conil.md
       - Duergar: races/monstres_multivers/duergar.md
+      - Eladrin: races/monstres_multivers/eladrin.md
+      - Elfe des mers: races/monstres_multivers/elfe_des_mers.md
+      - Fadette: races/monstres_multivers/fadette.md
+      - Féral: races/monstres_multivers/feral.md
+      - Firbolg: races/monstres_multivers/firbolg.md
+      - Genasi: races/monstres_multivers/genasi.md
+      - Githyanki: races/monstres_multivers/githyanki.md
+      - Githzeraï: races/monstres_multivers/githzerai.md
+      - Gnome des profondeurs: races/monstres_multivers/gnome_des_profondeurs.md
+      - Gobelin: races/monstres_multivers/gobelin.md
+      - Gobelours: races/monstres_multivers/gobelours.md
+      - Goliath: races/monstres_multivers/goliath.md
+      - Hobgobelin: races/monstres_multivers/hobgobelin.md
+      - Kenku: races/monstres_multivers/kenku.md
+      - Kobold: races/monstres_multivers/kobold.md
+      - Minotaure: races/monstres_multivers/minotaure.md
+      - Orc: races/monstres_multivers/orc.md
+      - Satyre: races/monstres_multivers/satyre.md
+      - Saurial: races/monstres_multivers/saurial.md
+      - Shadar-Kaï: races/monstres_multivers/shadar_kai.md
+      - Tabaxi: races/monstres_multivers/tabaxi.md
+      - Torte: races/monstres_multivers/torte.md
+      - Triton: races/monstres_multivers/triton.md
+      - Yuan-ti: races/monstres_multivers/yuan_ti.md
