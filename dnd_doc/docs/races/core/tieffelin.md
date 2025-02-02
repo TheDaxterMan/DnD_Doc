@@ -40,8 +40,8 @@ Les tieflings liés à Nessus maîtrisent le pouvoir du feu et des ténèbres, g
 
 ## Mordenkainen's Tome of Foes :
 
-### Lignée de Baalzebul
-Le royaume en ruine de Maladomini est gouverné par Baalzebul, qui excelle à corrompre ceux dont les péchés mineurs peuvent être transformés en actes de damnation. Les Tieflings liés à cet archidémon peuvent corrompre les autres à la fois physiquement et psychiquement.
+### Lignée de Belzébuth
+Le royaume en ruine de Maladomini est gouverné par Belzébuth, qui excelle à corrompre ceux dont les péchés mineurs peuvent être transformés en actes de damnation. Les Tieflings liés à cet archidémon peuvent corrompre les autres à la fois physiquement et psychiquement.
 
 - **Augmentation de caractéristiques.** Votre Intelligence augmente de 1.
 - **Legs de Maladomini.** Vous connaissez le sort mineur thaumaturgie. Quand vous atteignez le niveau 3, vous pouvez lancer le sort Rayon empoisonné une fois comme un sort de 2e niveau. Lorsque vous atteignez le 5e niveau, vous pouvez également lancer le sort Couronne du dément une fois. Vous devez terminer un repos long pour lancer à nouveau ces sorts avec ce trait. Le charisme est votre capacité de lanceur de sorts pour ces sorts.
@@ -53,7 +53,7 @@ La grande cité de Dis occupe la majeure partie de la deuxième couche de l'enfe
 - **Héritage de Dis.** Vous connaissez le sort mineur thaumaturgie. Quand vous atteignez le niveau 3, vous pouvez lancer le sort Déguisement une fois comme un sort de 2e niveau. Lorsque vous atteignez le 5e niveau, vous pouvez également lancer le sort Détection des pensées une fois. Vous devez terminer un repos long pour lancer à nouveau ces sorts avec ce trait. Le charisme est votre capacité de lanceur de sorts pour ces sorts.
 
 ### Lignée de Fierna
-Maître de la manipulation, Fierna accorde aux tieflings des liens avec ses personnalités fortes.
+Maîtresse de la manipulation, Fierna accorde aux tieflings des liens avec ses personnalités fortes.
 
 - **Augmentation de caractéristiques.** Votre Sagesse augmente de 1.
 - **Legs de Phlegethos.** Vous connaissez le sort mineur Amis. Une fois que vous atteignez le 3e niveau, vous pouvez lancer le sort Charme-personne une fois comme un sort de 2e niveau. Lorsque vous atteignez le 5e niveau, vous pouvez également lancer le sort Suggestion une fois. Vous devez terminer un repos long pour lancer à nouveau ces sorts avec ce trait. Le charisme est votre capacité de lanceur de sorts pour ces sorts.
@@ -80,7 +80,7 @@ Le grand avare Mammon aime par-dessus tout les pièces de monnaie. Les meutes qu
 Dans le royaume gelé de Cania, Méphistophélès offre des pouvoirs arcaniques à ceux qui l'implorent. Les Tieflings qui lui sont liés maîtrisent la magie des arcanes.
 
 - **Augmentation de caractéristiques.** Votre Intelligence augmente de 1.
-- **Héritage de Minauros.** Vous connaissez le sort mineur Main de mage. Lorsque vous atteignez le 3e niveau, vous pouvez lancer le sort Mains brûlantes une fois comme un sort de 2e niveau. Lorsque vous atteignez le 5e niveau, vous pouvez également lancer le sort Lame de feu une fois comme un sort de 3e niveau. Vous devez terminer un repos long pour lancer à nouveau ces sorts avec ce trait. Le charisme est votre capacité de lanceur de sorts pour ces sorts.
+- **Héritage de Cania.** Vous connaissez le sort mineur Main de mage. Lorsque vous atteignez le 3e niveau, vous pouvez lancer le sort Mains brûlantes une fois comme un sort de 2e niveau. Lorsque vous atteignez le 5e niveau, vous pouvez également lancer le sort Lame de feu une fois comme un sort de 3e niveau. Vous devez terminer un repos long pour lancer à nouveau ces sorts avec ce trait. Le charisme est votre capacité de lanceur de sorts pour ces sorts.
 
 ### Lignée de Zariel
 Les tieflings ayant un lien de sang avec Zariel sont plus forts que les tieflings typiques et reçoivent des capacités magiques qui les aident au combat.
