@@ -15,3 +15,5 @@ Aarakocre, vous présentez les traits raciaux suivants.
     - L'intelligence, la Sagesse ou le Charisme est votre caractéristique d'incantation pour lancer bourrasque (décidez laquelle au moment de choisir cette race).
 - **Serres.** Vos serres vous permettent d'effectuer des attaques a mains nues. Si vous touchez avec une telle attaque, vous infligez des dégâts tranchants égaux à 1d6 + votre modificateur de Force, au lieu des dégâts contondants normalement associés aux attaques à mains nues.
 - **Vol.** Grâce à vos ailes, vous disposez d'une vitesse de vol égale à votre vitesse au sol. Vous ne pouvez pas profiter ou intermédiaire de cette vitesse de vol si vous portez une armure lourde
+
+![Aarakocre](../../media/images/aarakocre.jpg "Aarakocre")

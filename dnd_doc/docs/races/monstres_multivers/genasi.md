@@ -75,3 +75,5 @@ Genasi de terre, vous présentez les traits raciaux suivants.
 - **Vision dans le noir.** Dans un rayon de 18 m, vous voyez en conditions de lumière faible comme si la lumière était vive, et dans les ténèbres comme sous une lumière faible.
   Dans les ténebres, vous discernez les couleurs comme des
   nuances de gris.
+
+![Génasis](../../media/images/genasis.jpg "Génasis")

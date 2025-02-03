@@ -18,3 +18,5 @@ Minotaure, vous présentez les traits raciaux suivants.
 - **Encornade.** Aussitôt après avoir entrepris l'action
   Foncer à votre tour et vous être déplacé d'au moins 6 m. vous pouvez effectuer une attaque de corps à corps avec vos Cornes par une action bonus.
 - **Mémoire des labyrinthes.** Vous savez toujours où se trouve le nord et êtes avantagé à tout test de Sagesse (Survie) visant à vous orienter ou à suivre des traces.
+
+![Le Minotaure ASMR](../../media/images/minotaure.jpg "Le Minotaure ASMR")

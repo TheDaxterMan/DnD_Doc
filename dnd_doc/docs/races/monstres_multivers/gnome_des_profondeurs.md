@@ -17,3 +17,5 @@ Gnome des profondeurs, vous présentez les traits raciaux suivants.
 - **Résistance gnome à la magie.** Vous êtes avantagé aux jets de sauvegarde d'Intelligence, Sagesse et Charisme contre les sorts.
 - **Vision dans le noir.** Dans un rayon de 36 m, vous voyez en conditions de lumière faible comme si la lumière était vive, et dans les ténèbres comme sous une lumière faible.
   Dans les ténèbres, vous discernez les couleurs comme des nuances de gris.
+
+![Gnome des profondeurs](../../media/images/gnome-profondeurs.jpg "Gnome des profondeurs")

@@ -22,3 +22,5 @@ Changelin, vous présentez les traits raciaux suivants.
   Vous pouvez vous faire passer pour un membre d'une autre race, mais cela n'influe pas sur votre profil de jeu.
   Vous ne pouvez pas reproduire l'aspect d'une personne que vous n'avez jamais vue et l'anatomie adoptée doit grossièrement correspondre à la vôtre, notamment la répartition des membres. Vos vêtements et votre équipement ne sont pas modifiés par ce trait.
   Vous conservez eette nouvelle forme jusqu'à ce que vous repreniez votre forme véritable au prix d'une action ou que vous mourriez.
+
+![Changelin](../../media/images/changelin.png "Changelin")
