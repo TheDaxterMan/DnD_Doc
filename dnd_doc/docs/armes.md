@@ -88,3 +88,32 @@ Les armes avec des règles spéciales sont décrites ici.
 
 - **Filet.** Une créature de taille G ou plus petite qui est touchée par un filet est entravée jusqu'à ce qu'elle soit libérée. Un filet n'a aucun effet sur les créatures sans forme ou de taille supérieure à G. Une créature peut utiliser son action pour effectuer un jet de Force DD 10 afin de se libérer ou de libérer une autre créature à sa portée en cas de succès. Infliger 5 points de dégâts tranchants à un filet (CA 10) permet également de libérer une créature sans la blesser, mettant fin à l'effet tout en détruisant le filet. Lorsque vous utilisez une action, une action bonus ou une réaction pour attaquer avec un filet, vous ne pouvez effectuer qu'une seule attaque, et ce quel que soit le nombre d'attaques que vous pouvez normalement réaliser.
 - **Lance d'arçon.** Vous avez un désavantage lorsque vous utilisez une lance d'arçon pour attaquer une cible à 1,50 mètre ou moins de vous. En outre, une lance d'arçon requiert deux mains pour être maniée lorsque vous n'êtes pas sur une monture.
+
+| Nom                       | Coût   | Dégâts         | Poids  | Propriétés                                                                                |
+| ------------------------- | ------ | -------------- | ------ | ----------------------------------------------------------------------------------------- |
+| **Armes à feu courantes** |        |                |        |                                                                                           |
+| Fusil à canon scié        | 35 po  | 1d6 perforant  | 3 kg   | Munitions (chevrotine, portée 6 m), Enrayage (2), Rechargement (2)                        |
+| Pistolet de paume         | 15 po  | 1d4 perforant  | 500 g  | Munitions (balle, portée 4,50/18 m), Enrayage (1), Rechargement (1)                       |
+| Revolver                  | 30 po  | 1d6 perforant  | 1 kg   | Munitions (balle, portée 24/96 m), Enrayage (1), Rechargement (6)                         |
+| **Armes à feu de guerre** |        |                |        |                                                                                           |
+| Carabine à levier         | 150 po | 1d8 perforant  | 3,5 kg | À deux mains, Munitions (balle, portée 45/180 m), Enrayage (2), Rechargement (5)          |
+| Fusil à pompe             | 250 po | 1d8 perforant  | 3,5 kg | À deux mains, Munitions (chevrotine, portée 12 m), Enrayage (2), Rechargement (6)         |
+| Fusil à double canon      | 350 po | 2d8 perforant  | 3,5 kg | Lourde, À deux mains, Munitions (chevrotine, portée 15 m), Enrayage (2), Rechargement (2) |
+| Fusil de précision        | 400 po | 4d12 perforant | 10 kg  | Lourde, À deux mains, Spécial, Enrayage (1), Rechargement (4)                             |
+| Mousquet                  | 50 po  | 1d10 perforant | 2 kg   | À deux mains, Munitions (balle, portée 30/120 m), Enrayage (1), Rechargement (1)          |
+| **Munitions**             |        |                |        |                                                                                           |
+| Balle                     | 1 po   | —              | 10g    | —                                                                                         |
+| Chevrotine                | 3 po   | —              | 20g    | —                                                                                         |
+
+## Propriétés des armes à feu
+
+Les armes à feu possèdent des propriétés additionnelles qui n’existent pas dans Dungeons & Dragons 5ème Édition.
+
+- **Enrayage.** Les armes à feu peuvent s’enrayer. Lorsque résultat du d20 lors d’un jet d’attaque avec une arme à feu est inférieur ou égal à la valeur d’enrayage de l’arme (entre parenthèses dans le tableau ci-dessus), alors l’arme s’enraye. Une arme enrayée ne peut plus tirer, jusqu’à ce que le tireur utilise une action et ses outils de bricoleur pour réparer son arme. Un jet de Dextérité DD 15 suffit pour réparer une arme. Il est impossible de réparer une arme sans posséder ou maîtriser les outils de bricoleur.
+- **Munitions.** Les munitions des armes à feu sont les suivantes : les balles, les chevrotines, et les munitions spéciales. Les balles fonctionnent de la même manière que les flèches ou les carreaux. Les chevrotines infligent des dégâts dans un cône d’une taille correspondant à la portée indiquée. Les munitions spéciales sont des munitions nécessaires pour recharget et utiliser les armes à feu spéciales.
+- **Rechargement.** Les armes à feu doivent souvent être rechargées. Lorsque votre nombre d’attaques avec une arme à feu atteint la valeur de rechargement de l’arme (entre parenthèses dans le tableau ci-dessus), vous devez utiliser une action pour recharger votre arme ; à moins qu’une action bonus ne vous permette de le faire.
+
+## Armes spéciales
+
+**Fusil de précision.** Le fusil de précision a une portée normale de 300 mètres, une portée critique de 1,2 kilomètres, mais également une portée minimale de 30 mètres. Une attaque contre une créature située à moins de 30 mètres subit un désavantage. Si le tireur a bougé
+lors de son tour, le tir au fusil de précision subit également un désavantage. Tirer au fusil de précision nécessite une action.
