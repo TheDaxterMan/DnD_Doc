@@ -46,6 +46,8 @@ theme:
 
 nav:
   - Home: index.md
+  - Armes: armes.md
+  - Armures: armures.md
   - Classes: 
     - Artificier: classes/artificier.md
     - Barbare: classes/barbare.md
