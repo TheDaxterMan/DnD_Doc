@@ -44,61 +44,55 @@ Noms d’adulte féminins : Adrie, Althaea, Anastrianna, Andraste, Antinua, Beth
 **Noms de famille (traduction en commun) :** Amakiir (Fleur de gemme), Amastacia (Fleur d’étoile), Galanodel (Murmure de lune), Holimion (Rosée de diamant), Ilphelkiir (Bourgeon de gemme), Liadon (Feuille argentée), Melianne (Talon de chêne), Naïlo (Brise nocturne), Siannodel (Ruisseau de lune), Xiloscient (Pétale d’or).
 
 ## Traits
+
 Votre personnage elfe possède un ensemble de capacités naturelles qui sont le fruit de millénaires de raffinement elfiques.
 
 - **Augmentation de caractéristiques.** Votre Dextérité augmente de 2.
-
 - **Âge.** Bien que les elfes atteignent la maturité physique à peu près au même âge que les humains, pour les elfes la définition de l'âge adulte dépend plus de l'expérience que l'on peut avoir du monde que de la croissance physique. Un elfe prétend généralement à l'âge adulte et à un nom d'adulte aux alentours de ses 100 ans et peut vivre jusqu'à 750 ans.
-
 - **Taille.** Les elfes mesurent entre 1,50 m et 1,80 m et sont élancés. Votre taille est Moyenne (M).
-
 - **Vitesse.** Votre vitesse de base est de 9 mètres.
-
 - **Vision dans le noir.** Vous pouvez voir à 18 mètres dans une lumière faible comme vous verriez avec une lumière vive, et dans le noir comme vous verriez avec une lumière faible. Dans le noir, vous ne discernez pas les couleurs, uniquement des nuances de gris.
-
 - **Sens aiguisés.** Vous maîtrisez la compétence Perception.
-
 - **Ascendance féerique.** Vous avez un avantage aux jets de sauvegarde contre les effets de charme et la magie ne peut pas vous endormir.
-
 - **Transe.** Les elfes n'ont pas besoin de dormir. Au lieu de cela, ils méditent profondément, restant à demi conscients, 4 heures par jour (le mot commun pour désigner cette méditation est « transe »). En méditant, vous pouvez rêver, tant bien que mal ; ces rêves sont en fait des exercices mentaux qui deviennent un réflexe après des années de pratique. Après un repos de ce type, vous obtenez les mêmes avantages qu'un humain après 8 heures de sommeil.
-
 - **Langues.** Vous pouvez parler, lire et écrire le commun et l'elfique. L'elfique est fluide, possède de subtiles intonations et une grammaire complexe. La littérature elfe est riche et variée, et leurs chansons et poèmes sont célèbres parmi les autres races. Beaucoup de bardes apprennent cette langue afin de pouvoir ajouter des ballades elfiques à leur répertoire.
-
 - **Sous-race.** D'anciens clivages du peuple elfique ont abouti à trois sous-races principales : les haut-elfes, les elfes des bois et les elfes noirs, plus communément appelés drows. Dans certains mondes, ces sous-races sont elles-mêmes subdivisées (comme les elfes solaires et les elfes lunaires des Royaumes Oubliés), et vous pouvez si vous le souhaitez choisir une de ces subdivisions.
 
 ## Haut-elfe
+
 En tant que haut-elfe, vous avez l'esprit vif et connaissez les rudiments de la magie. Notez qu'il existe deux sortes de hauts-elfes. Les premiers (les elfes du soleil) sont hautains et solitaires, se pensant supérieurs aux non-elfes et même aux autres elfes. Les seconds (les elfes de la lune), plus communs et plus conviviaux, sont souvent rencontrés chez les humains et les autres races. Les elfes du soleil ont la peau de couleur bronze et les cheveux de couleur cuivre, noir ou or. Leurs yeux sont de couleur or, d'argent ou noir. Les elfes de la lune sont beaucoup plus pâles. Ils ont souvent les cheveux blanc-argenté, noir ou bleu, mais diverses nuances de blond, brun et roux ne ​​sont pas rares. Leurs yeux sont bleus ou verts et mouchetés d'or.
 
 - **Augmentation de caractéristiques.** Votre Intelligence augmente de 1.
-
 - **Entraînement aux armes elfiques.** Vous obtenez la maîtrise des épées (longues et courtes) et des arcs (longs et courts).
-
 - **Sort mineur.** Vous connaissez un sort mineur de votre choix parmi la liste des sorts mineurs de magicien. L'Intelligence est votre caractéristique d'incantation pour ce sort.
-
 - **Langue supplémentaire.** Vous parlez, lisez et écrivez une langue supplémentaire de votre choix.
 
 ## Elfe des bois
+
 ElfeEn tant qu'elfe des bois, vous avez des sens aiguisés et une forte intuition. Vous vous déplacez rapidement et discrètement dans vos forêts. Les elfes des bois (également appelés elfes sauvages, elfes verts ou elfes des forêts) sont reclus et méfiants envers les non-elfes. La peau des elfes des bois tend à être cuivrée, parfois avec des traces de vert. Leurs cheveux tendent vers le brun et le noir, mais peuvent parfois aussi être blonds ou cuivrés. Leurs yeux sont verts, bruns ou noisette.
 
 - **Augmentation de caractéristiques.** Votre Sagesse augmente de 1.
-
 - **Entraînement aux armes elfiques.** Vous obtenez la maîtrise des épées (longues et courtes) et des arcs (longs et courts).
-
 - **Foulée légère.** Votre vitesse de base passe à 10,50 mètres.
-
 - **Cachette naturelle.** Vous pouvez tenter de vous cacher dans une zone à visibilité réduite, comme en présence de branchages, de forte pluie, de neige qui tombe, de brume ou autre phénomène naturel.
 
 ## Elfe noir (drow)
+
 En tant que drow, vous êtes imprégné par la magie de l'Outreterre, un royaume souterrain fait de merveilles et d'horreurs que l'on voit rarement à la surface. Vous êtes chez vous dans les ombres et, grâce à votre magie innée, vous pouvez invoquer à la fois la lumière et les ténèbres. Les vôtres ont tendance à avoir les cheveux blancs et la peau grisâtre.
 
 Le culte de la déesse Lolth, la Reine des araignées, a corrompu certaines des plus anciennes cités drows, en particulier dans l'univers de Greyhawk et sur Toril. Eberron, Krynn et d'autres mondes échappent à l'influence du culte... pour l'instant. Mais partout où le culte est une menace, des héros drows se dressent contre lui, cherchant à briser la toile tentaculaire de Lolth.
 
 - **Augmentation de caractéristiques.** Votre Charisme augmente de 1.
-
 - **Vision dans le noir supérieure.** Votre vision dans le noir est étendue à 36 mètres.
-
 - **Sensibilité au soleil.** Vous avez un désavantage aux jets d'attaque et aux jets de Sagesse (Perception) basés sur ​​la vue quand vous, la cible de l'attaque ou ce que vous essayez de détecter est exposé à la lumière du soleil.
-
 - **Magie drow.** Vous connaissez le sort mineur lumières dansantes. Lorsque vous atteignez le niveau 3, vous pouvez lancer le sort lueurs féeriques une fois avec ce trait et regagnez cette capacité lorsque vous terminez un repos long. Lorsque vous atteignez le niveau 5, vous pouvez lancer le sort ténèbres une fois avec ce trait et regagnez cette capacité lorsque vous terminez un repos long. Le Charisme est votre caractéristique d'incantation pour ces sorts.
-
 - **Entraînement aux armes drows.** Vous obtenez la maîtrise des rapières, des épées courtes et des arbalètes de poing.
+
+## Elfe pâle
+
+**_Explorer's Guide to Wildemount_**
+Les elfes blafards sont un peuple mystique et perspicace à la peau aussi pâle que la surface de la plus grande lune d'Exandria. Ils ont émergé du bosquet pâle au cours de ce siècle et parcourent le monde avec une curiosité enfantine.
+
+- **Augmentation de caractéristiques.** Votre Sagesse augmente de 1.
+- **Sens incisif.** Vous avez l'avantage sur les tests d'investigation et d'intuition.
+- **Bénédiction du Tisseur de Lune.** Vous connaissez le sort mineur Lumière. Au 3e niveau, vous pouvez lancer Sommeil une fois et le recharger après un long repos. Au 5e niveau, vous pouvez lancer Invisibilité (Sur vous uniquement) une fois et le recharger après un long repos. Vous n'avez pas besoin des composants matériels requis pour ces sorts. La Sagesse est votre capacité de lanceur de sorts pour ces sorts.

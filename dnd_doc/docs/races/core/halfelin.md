@@ -76,3 +76,25 @@ En tant que halfelin robuste, vous êtes plus costaud que la moyenne et posséde
 - **Augmentation de caractéristiques.** Votre Constitution augmente de 1.
 
 - **Résistance des robustes.** Vous obtenez un avantage aux jets de sauvegarde contre le poison et la résistance contre les dégâts de poison.
+
+## Halfelin sagespectre
+***Sword Coast Adventurer's Guide***
+
+Les Halfelin sagespectre remontent à une guerre entre tribus de halfelins qui a poussé leurs ancêtres à fuir Luiren. Les halfelins sagespectre sont les plus rares, on ne les trouve que dans le bois de Chondal et quelques autres forêts isolées, regroupés en clans très unis.
+
+De nombreux clans de sagespectre choisissent un point de repère naturel comme centre de leur territoire, et leurs membres portent toujours sur eux un morceau de ce point de repère. Les guerriers des clans connus sous le nom de nightgliders se lient avec des hiboux géants qu'ils utilisent comme montures.
+
+En raison de leur caractère clanique et de leur méfiance à l'égard des étrangers, les aventuriers halfelins sagespectre sont rares. Demandez à votre MD si vous pouvez jouer un membre de cette sous-race, qui possède les traits des halfelins du Manuel du Joueur, plus les traits de la sous-race ci-dessous.
+
+- **Augmentation de caractéristiques.** Votre Sagesse augmente de 1.
+- **Parole silencieuse.** Vous pouvez parler par télépathie à toute créature située à moins de 9 mètres de vous. La créature ne vous comprend que si vous partagez une langue commune. Vous ne pouvez parler télépathiquement de cette façon qu'à une seule créature à la fois.
+
+
+## Halfelin de Lotusden 
+***Explorer's Guide to Wildemount***
+
+Liés depuis longtemps au cœur naturel du bois de Lotusden, ces halfelins se sont adaptés pour vivre en synergie avec les lois chaotiques de la nature.
+
+- **Augmentation de caractéristiques.** Votre Sagesse augmente de 1.
+- **Enfants des bois.** Vous connaissez le sort mineur Druidisme. Au 3ème niveau, vous pouvez lancer le sort Enchevêtrement une fois par repos long. Au 5e niveau, vous pouvez lancer le sort Croissance d'épines une fois par repos long. Ces sorts ne nécessitent pas les composants matériels normalement requis. La Sagesse est votre capacité de lanceur de sorts pour ces sorts.
+- **Marche dans les bois.** Les tests d'aptitude effectués pour vous suivre sont désavantagés et vous pouvez vous déplacer sur des terrains difficiles composés de plantes non magiques et de broussailles sans dépenser de mouvement supplémentaire.
