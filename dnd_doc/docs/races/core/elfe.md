@@ -91,6 +91,7 @@ Le culte de la déesse Lolth, la Reine des araignées, a corrompu certaines des 
 ## Elfe pâle
 
 **_Explorer's Guide to Wildemount_**
+
 Les elfes blafards sont un peuple mystique et perspicace à la peau aussi pâle que la surface de la plus grande lune d'Exandria. Ils ont émergé du bosquet pâle au cours de ce siècle et parcourent le monde avec une curiosité enfantine.
 
 - **Augmentation de caractéristiques.** Votre Sagesse augmente de 1.
