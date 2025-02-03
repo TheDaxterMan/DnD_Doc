@@ -241,11 +241,14 @@ d’audace. Si vous avez un avantage au jet d’attaque, il ne s’applique que 
 ## Ballade du Spécialiste en armes
 
 Les Spécialistes en armes sont des bricoleurs hors-pair ou des ingénieurs mécaniques invétérés. Ils sont des professionnels de l’armement, en particulier lorsque l’armement en question utilise de la poudre. Plus que de simples tireurs, il savent comment fonctionne une arme à feu, et connaissent les leurs sur le bout des doigts. Les Spécialistes en armes sont souvent perçus comme des intellectuels, à l’instar des magiciens – à la différence près qu’une balle touche sa cible bien plus vite qu’un projectile magique ou une boule de feu.
+
 ### Nouvelles compétences maîtrisées
+
 Au niveau 3, vous gagnez la maîtrise des armures intermédiaires et de toutes les armes de guerre.
 Vous gagnez également la maîtrise de deux outils d’artisan de votre choix.
 
 ### Armurier talentueux
+
 Également au niveau 3, vous pouvez choisir un certain nombre de personnalisations que vous pouvez fabriquer et fixer sur vos armes à feu pour étendre votre éventail de possibilités au combat. Le nombre de personnalisations que vous pouvez choisir équivaut à votre modificateur d’Intelligence.
 Une seule personnalisation à la fois peut être appliquée sur une même arme à feu. Au niveau 11, ce chiffre passe à 2 ; au niveau 17, ce chiffre passe à 3.
 Vous pouvez changer vos personnalisations en passant une heure à bricoler une arme.
@@ -260,26 +263,36 @@ Certains gadgets requièrent que vos cibles effectuent un jet de sauvegarde. Le 
 - **Lunette :** vous gagnez un avantage aux jets de Sagesse (Perception) à très longue distance basée sur la vue. Vous gagnez un bonus de +1 (cumulable avec d’autres effets) aux jets d’attaque avec cette arme contre les cibles situées au delà de la portée normale de votre arme.
 - **Silencieux :** les créatures dont la Perception passive est inférieure au DD de vos outils de Spécialiste en armes n’entendent pas vos tirs tant que vous n’êtes pas détecté. Une créature qui tente de vous localiser doit réussir un jet de Sagesse (Perception) contre le DD de vos outils de Spécialiste en armes.
 - **Trépied (arme à feu à deux mains uniquement) :** vous pouvez fixer un trépied sous le canon de votre arme à feu. Lorsque vous tirez alors que votre trépied est déployé, vous ne subissez pas de désavantage si vous êtes à terre, et gagnez un bonus de +1 (cumulable
-avec d’autres effets) aux jets d’attaque avec cette arme.
+  avec d’autres effets) aux jets d’attaque avec cette arme.
+
 ### Pro de la ballistique
+
 Au niveau 6, vous commencez à fabriquer vos propres balles. À chaque fois que vous terminez un repos court ou long, jetez un dé d’audace et vous gagnez un nombre de points correspondant au résultat. Vous pouvez fabriquer un nombre de balles améliorées décrites ci-
 après en dépensant vos points. Vous pouvez continuer à jeter des dés d’audace, mais chaque dé jeté après le premier vous coûtera un point d’audace. Les points non utilisés sont immédiatement perdus.
+
 - **Balle à arc (coûte 2 points) :** ces balles fonctionnent par paires. Tirez une balle à arc sur une créature, puis une autre balle à arc sur une autre créature pour créer un éclair qui prend la forme d’une ligne tracée entre les deux cibles. Les deux cibles et chaque créature située sur la ligne effectue un jet de sauvegarde de Dextérité et subit des dégâts de foudre correspondant à deux dés d’audace en cas d’échec, ou la moitié de ces dégâts en cas de réussite. Si deux balles à arc touchent une même cible, la créature subit un désavantage à son jet de sauvegarde.
 - **Balle chemisée :** une balle chemisée ignore la résistance aux dégâts perforants.
 - **Balle explosive :** chaque créature située à moins de 3 mètres du point d’impact (y compris la cible) effectue un jet de sauvegarde de Dextérité et subit des dégâts de feu équivalent à un dé d’audace en cas d’échec, ou la moitié de ces dégâts en cas de réussite.
 - **Balle incendiaire :** Les dégâts sont inchangés mais votre bonus de dégâts correspondant à votre modificateur de Dextérité inflige des dégâts de feu.
 - **Balle traçante :** Pendant une minute, une lumière vive sur 3 mètres est émise du point d’impact, et une
-lumière faible est émise sur 3 mètres supplémentaires. Une créature invisible ne l’est plus.
+  lumière faible est émise sur 3 mètres supplémentaires. Une créature invisible ne l’est plus.
 - **Munition spéciale (coûte 3 points) :** vous fabriquez une munition utilisable avec une arme spéciale.
+
 ### Balles magiques
+
 Au niveau 11, vos attaques avec des balles créées par votre capacité Pro de la ballistique sont des balles magiques, que votre arme à feu soit magique ou non.
+
 ### Ingénieur de combat
+
 Également au niveau 11, il vous suffit d’une action bonus pour réparer une arme enrayée.
+
 ### Spécialiste vétéran
+
 Au niveau 17, vous êtes la quintessence de l’ingénierie en armement. Votre maîtrise des outils de bricoleur devient une expertise. De plus, vous gagnez l’avantage aux jets d’investigations effectués pour étudier, reconnaître, comprendre ou utiliser n’importe quelle
 arme ou n’importe quel système mécanique.
 
 ## Ballade du Chasseur de sang
+
 Les Chasseurs de sang sont des aventuriers liés à un indéfectible serment, auquel ils ont tous prêté allégeance sans exception : la Chasse. Ce serment est inviolable, et il est impossible de s’en défaire, et charge ceux qui ont pactisé à traquer et à détruire ceux qui
 constituent des menaces à la civilisation, et dont les sombres desseins ne projettent que mort et désolation.
 Bien que les Chasseurs de sang soient tout à fait équipés pour affronter n’importe quoi, ils sont des spécialistes lorsqu’il s’agit d’affronter trois types d’ennemis bien distincts : les bêtes et monstruosités cruelles qui sévissent dans le Plan Matériel, et les
@@ -287,50 +300,58 @@ horreurs et aberrations occultes originaires du Royaume Lointain.
 Pour les Chasseurs de sang, la Chasse est une responsabilité éternelle, et seule la mort peut les en séparer. Et, même dans la mort, certains servent toujours. Le rituel qui permet à un mortel d’être poussé à son plein potentiel pour devenir un Chasseur de sang
 se nomme la Transfusion dont les détails sont un secret bien gardé. Cela n’est pas un simple rite de passage, mais un rituel arcanique capable de transcender un être par le pouvoir de la magie de sang.
 Les Chasseurs de sang ont accès à un vaste éventail d’outils et d’armes, perfectionnés par de multiples générations de guerriers qui ont servi avant eux.
+
 ### Nouvelles compétences maîtrisées
+
 En choisissant cette Ballade au niveau 3, vous gagnez la maîtrise de deux des compétences suivantes :
 Acrobaties, Arcanes, Intuition, Investigation, Médecine, Nature, Perception, Religion, Survie.
 Vous gagnez également la maîtrise du matériel d’alchimiste. Si vous la possédez déjà, elle devient une expertise.
 Enfin, vous gagnez la maîtrise de toutes les armes de guerre au corps à corps.
 
 ### Outils de Chasseur de sang
+
 Un Chasseur de sang doit se préparer à tout affronter lors de sa traque, qu’il s’agisse d’un terrible monstre,d’un Chasseur de sang qui a succombé à la folie, d’une aberration cosmique défiant les lois de la réalité... ou pire. À chaque fois que vous terminez un repos court ou long, jetez 2 dés d’audace. Vous pouvez fabriquer un nombre d’outils de Chasseur de sang décrits ci-après correspondant au résultat. Vous pouvez continuer à jeter des dés d’audace, mais chaque dé jeté après les deux premiers vous coûtera un point d’audace.
+
 - **Fiole de sang :** Une petite bouteille de verre, remplie d’un liquide rouge opaque. Vous récupérez des points
-de vie équivalents à un dé d’audace + votre bonus de maîtrise lorsque vous buvez cette potion. Les Fioles de sang ne soignent que les créatures qui ont complété la Transfusion.
+  de vie équivalents à un dé d’audace + votre bonus de maîtrise lorsque vous buvez cette potion. Les Fioles de sang ne soignent que les créatures qui ont complété la Transfusion.
 - **Balle en argent :** Une munition argentée, qui brille particulièrement à la lumière de la lune. Lorsque vous faîtes un jet d’attaque à distance avec une arme à feu, vous pouvez insérer une Balle en argent dans votre arme avant d’attaquer. Charger une balle de cette
-manière fait partie de votre attaque. Si l’attaque touche, vous infligez un dé d’audace supplémentaire aux dégâts.
-Cette munition est en argent et l’attaque est magique pour ce qui est d’outrepasser la résistance ou l’immunité aux attaques non-magiques ou des armes qui ne sont pas en argent.
-Certains de vos outils de Chasseur de sang forceront vos cibles à faire un jet de sauvegarde. Le DD de sauvegarde de vos outils est le suivant :
+  manière fait partie de votre attaque. Si l’attaque touche, vous infligez un dé d’audace supplémentaire aux dégâts.
+  Cette munition est en argent et l’attaque est magique pour ce qui est d’outrepasser la résistance ou l’immunité aux attaques non-magiques ou des armes qui ne sont pas en argent.
+  Certains de vos outils de Chasseur de sang forceront vos cibles à faire un jet de sauvegarde. Le DD de sauvegarde de vos outils est le suivant :
 
 **DD de sauvegarde des outils de Chasseur de sang** = 8 + votre modificateur d’Intelligence + votre bonus de maîtrise.
 
 Les outils de chasseurs non-utilisés disparaissent si vous terminez un nouveau repos long.
 
 ### Que la Chasse commence
+
 La Transfusion est complète, vous voilà désormais un véritable Chasseur de sang. Votre traque ne fait que commencer : elle est à la fois votre unique but et votre seule raison de vivre. Au niveau 3, vous bénéficiez des avantages suivants :
 Si une créature hostile vous a infligé des dégâts depuis la fin de votre dernier tour, chaque attaque au corps à corps avec une arme réussie contre elle vous permet de regagner en points de vie la moitié des dégâts infligés arrondis à l’inférieur (minimum 1
 point de vie). Vous ne pouvez regagner à chaque tour un nombre de points de vie équivalent au double de votre niveau de Chasseur de sang. Cette capacité ne fonctionne pas sur les créatures qui ne saignent pas.
 Vous avez un avantage aux jets de Sagesse (Survie) pour traquer et pister les créatures de type Bête, Monstruosité et Aberration. Vous avez également l’avantage aux jets d’Intelligence pour vous rappeler d’informations les concernant.
+
 ### Incantation
+
 La Transfusion vous permet d’ajouter la magie à votre arsenal. Les arcanes vous accompagnent dans votre Chasse. Lorsque vous atteignez le niveau 3, vous augmentez vos compétences de Chasseur de sang avec la possibilité de lancer des sorts.
+
 - **Sorts mineurs.** Vous apprenez deux sorts mineurs de votre choix dans la liste de sorts de Chasseur de sang. Vous apprenez un autre sort mineur de votre choix au niveau 11.
 - **Emplacements de sorts.** La table ci-dessous montre de combien d’emplacements de sorts vous disposez pour lancer vos sorts de Chasseur de sang de niveau 1 et supérieur. Pour lancer un de ces sorts, vous devez dépenser un emplacement du niveau du sort ou supérieur. Vous regagnez tous les emplacements de sorts dépensés lorsque vous terminez un repos long.
 - **Sorts connus de niveau 1 et supérieur.** Vous connaissez trois sorts de Chasseur de sang de niveau 1 de votre choix. La colonne Sorts connus indique à quel niveau vous apprenez plus de sorts de Chasseur de sang de niveau 1 ou supérieur. Chacun de ces sorts doit être
-d’un niveau pour lequel vous avez des emplacements de sorts. Chaque fois que vous gagnez un niveau dans cette classe, vous pouvez choisir un sort de Chasseur de sang que vous connaissez et le remplacer par un autre sort choisi dans la liste de sorts de Chasseur de sang. Le
-nouveau sort doit être également d’un niveau pour lequel vous possédez des emplacements de sorts.
+  d’un niveau pour lequel vous avez des emplacements de sorts. Chaque fois que vous gagnez un niveau dans cette classe, vous pouvez choisir un sort de Chasseur de sang que vous connaissez et le remplacer par un autre sort choisi dans la liste de sorts de Chasseur de sang. Le
+  nouveau sort doit être également d’un niveau pour lequel vous possédez des emplacements de sorts.
 - **Caractéristique d’incantation.** L’Intelligence est votre caractéristique d’incantation, car vous apprenez vos sorts à travers l’étude et la mémorisation des arcanes, ainsi que par l’analyse approfondie des monstruosités qui vous servent de proies. Vous utilisez votre Intelligence chaque fois qu’un sort se réfère à votre capacité de lancer des sorts. En outre, vous utilisez votre modificateur d’Intelligence pour définir le DD du jet de sauvegarde d’un sort de magicien que vous lancez, ou pour le jet d’attaque de celui-ci.
 
 **DD de sauvegarde des sorts de Chasseur de sang** = 8 + votre modificateur d’Intelligence + votre bonus de maîtrise.
 
 **Bonus d’attaque avec un sort de Chasseur de sang** = votre modificateur d’Intelligence + votre bonus de maîtrise.
 
-| Niveau de sort | Sorts |
-|---------------|------------------------------------------------|
-| Sorts mineurs | Contact glacial, Embrasement, Lame aux flammes vertes, Lame retentissante, Pierre magique |
-| 1er niveau   | Orbe chromatique, Projectile magique, Soins, Tentacules de Hadar, Vague tonnante |
-| 2ème niveau  | Arme magique, Flou, Foulée brumeuse, Localisation d’objet, Restauration partielle, Voir l’invisible |
-| 3ème niveau  | Appel de la foudre, Contresort, Délivrance des malédictions, Éclair, Hâte, Malédiction |
-| 4ème niveau  | Domination de bête, Localisation de créature, Porte dimensionnelle, Protection contre la mort, Tentacules noirs d’Evard |
+| Niveau de sort | Sorts                                                                                                                   |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Sorts mineurs  | Contact glacial, Embrasement, Lame aux flammes vertes, Lame retentissante, Pierre magique                               |
+| 1er niveau     | Orbe chromatique, Projectile magique, Soins, Tentacules de Hadar, Vague tonnante                                        |
+| 2ème niveau    | Arme magique, Flou, Foulée brumeuse, Localisation d’objet, Restauration partielle, Voir l’invisible                     |
+| 3ème niveau    | Appel de la foudre, Contresort, Délivrance des malédictions, Éclair, Hâte, Malédiction                                  |
+| 4ème niveau    | Domination de bête, Localisation de créature, Porte dimensionnelle, Protection contre la mort, Tentacules noirs d’Evard |
 
 Emplacements de sorts de Chasseur de
 sang
@@ -358,23 +379,29 @@ sang
 | 20                         | 3                    | 13           | 4                    | 3   | 3   | 1   |
 
 ### Parade-riposte
+
 Au niveau 6, lorsque vous êtes pris pour cible par une attaque au corps à corps avec une arme d’une créature hostile, vous pouvez ajouter votre bonus de maîtrise à votre CA pour parer l’attaque. Si l’attaque ennemie échoue, vous pouvez contre-attaquer en chargeant une Balle en argent dans votre arme et en effectuant une attaque avec une arme à feu sur l’attaquant. La contre-attaque fait partie de votre réaction, et la proximité de votre ennemi ne vous inflige pas de désavantage au jet d’attaque à distance. Vous ne pouvez contre-attaquer
 que si vous possédez au moins une Balle en argent.
 Si votre contre-attaque réussit, vous pouvez dépenser un point d’audace pour jeter un dé d’audace et ajouter le résultat aux dégâts.
+
 ### Amélioration des outils de Chasseur de sang
+
 Au niveau 6, vos outils et équipements se diversifient.
 Vous bénéficiez des avantages suivants :
+
 - vos Balles en argent deviennent des Balles en argent +1.
 - vous pouvez utiliser une action bonus pour sacrifier un Dé de vie et lancer un dé d’audace pour fabriquer un nombre de Balles en argent correspondant au résultat.
 - lorsque vous buvez une Fiole de sang, vous pouvez relancer votre dé d’audace si le résultat est un 1 ou
-un 2. Vous devez prendre le nouveau résultat.
--Vous ajoutez également un nouvel outil de Chasseur de sang à votre arsenal, que vous pouvez fabriquer lorsque vous terminez un repos court ou long : le Cocktail molotov.
+  un 2. Vous devez prendre le nouveau résultat.
+  -Vous ajoutez également un nouvel outil de Chasseur de sang à votre arsenal, que vous pouvez fabriquer lorsque vous terminez un repos court ou long : le Cocktail molotov.
 
 **Cocktail molotov :** Une bouteille de verre remplie à moitié d’éthanol, avec un chiffon imbibé qui dépasse.
 Par une action, vous enflammez le chiffon puis jetez la bouteille à un point que vous pouvez voir à 9 mètres.
 Chaque créature à moins de 3 mètres du point d’impact effectue un jet de sauvegarde de Dextérité. Une créature
 subit des dégâts de feu équivalents à deux dés d’audace + votre bonus de maîtrise en cas d’échec, ou la moitié de ces dégâts en cas de réussite.
+
 ### Rêve du Chasseur de sang
+
 Les Chasseurs de sang servent une cause éternelle.
 Certaines de leurs proies peuvent vivre pendant des millénaires, et mettre fin à leurs jours et ne résulte pas toujours en leur mort définitive. Au fur et à mesure que leur traque progresse, les Chasseurs de sang apprennent à créer leur propre abri, à l’écart des
 menaces extérieures, à la frontière entre les rêves et la réalité. Au niveau 11, vous pouvez lancer le sort Demi-plan une fois par jour. Le sort subit les variations suivantes :
@@ -388,7 +415,9 @@ menaces extérieures, à la frontière entre les rêves et la réalité. Au nive
 Vous devez terminer un repos long dans votre demi-plan pour pouvoir le lancer à nouveau.
 
 ### Traqueur transplanaire
+
 Au niveau 17, rien ne saurait vous stopper dans votre Chasse. Aucun détail ni aucun ennemi ne vous échappe, et votre puissance rivalise avec celles des Premiers Chasseurs. Votre étude des monstruosités et aberrations extra-planaire, et votre expérience de Chasseur vous procure les avantages suivants :
+
 - vous gagnez la vision véritable à 18 mètres.
 - vous pouvez lire, parler et entendre le Profond.
 - lorsque vous mourez, votre corps et votre âme sont transportés dans votre Rêve du Chasseur de sang. À la discrétion de votre MD, vous pourriez avoir perdu de l’équipement. Si vous êtes réduits à 0 point de vie après être mort une première fois et avant d’avoir terminé un repos long, vous êtes tué sur le coup. Seul un sort de souhait peut vous ramener à la vie.
