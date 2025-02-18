@@ -362,3 +362,32 @@ Bien que vous n'ayez aucune connaissance de ce secret, la cible est convaincue q
 Lorsque l'effet prend fin, la créature ne comprend pas pourquoi elle vous a inspiré une telle crainte.
 
 Une fois que vous avez utilisé cette caractéristique, vous ne pouvez plus l'utiliser avant d'avoir terminé un long repos.
+
+---
+
+---
+
+## Collèges bardiques 2024
+
+## Collège de la danse
+
+Les bardes du Collège de la danse savent que les mots de la création ne peuvent être contenus dans un discours ou même un chant ; ils sont prononcés par les mouvements des corps célestes et s'écoulent à travers les mouvements des plus petites créatures. Pour ces bardes, la danse est un art libéré des contraintes d'un point unique dans l'espace et le temps ; c'est un sens qui n'est pas limité par les définitions étroites des mots et les structures de la grammaire. Le Collège de danse pratique une façon d'être en harmonie avec le cosmos toujours tourbillonnant, en mettant l'accent sur l'agilité, la vitesse et la grâce.
+
+### Niveau 3 : Jeu de jambes éblouissant
+Votre pratique de la danse vous permet d'esquiver avec grâce et de frapper avec agilité. Tant que vous ne portez pas d'armure ou de bouclier, vous bénéficiez des avantages suivants :
+
+- **Virtuose de la danse.** Vous avez l'avantage sur tous les tests de Charisme (Performance) que vous faites et qui impliquent que vous dansiez.
+- **Défense sans armure.** Votre classe d'armure de base est égale à 10 + votre modificateur de Dextérité + votre modificateur de Charisme.
+- **Frappe agile.** Lorsque vous dépensez une utilisation de votre inspiration bardique dans le cadre d'une action, d'une action bonus ou d'une réaction, vous pouvez porter un coup sans arme dans le cadre de cette action, action bonus ou réaction.
+- **Dégâts bardiques.** Vous pouvez utiliser la Dextérité au lieu de la Force pour les jets d'attaque de vos frappes à mains nues, et lorsque vous infligez des dégâts avec une frappe à mains nues, vous pouvez infliger des dégâts de contondant égaux à un jet de votre dé d'inspiration bardique plus votre modificateur de Dextérité. Ce jet ne dépense pas le dé.
+
+### Niveau 6 : Mouvement inspiré
+Lorsqu'un ennemi que vous pouvez voir termine son tour à moins de 1,5m d'un de vos alliés qui se trouve à moins de 18m de vous, vous pouvez utiliser votre Réaction et dépenser une utilisation de votre Inspiration Bardique pour vous déplacer jusqu'à la moitié de votre Vitesse. Lancez ensuite votre dé d'inspiration bardique, et l'allié peut se déplacer d'un nombre de pieds égal à 5 fois le nombre obtenu. Aucun mouvement de cette caractéristique ne provoque d'attaque d'opportunité.
+
+### Niveau 6 : Jeu de jambes en tandem
+Lorsque vous effectuez un jet d'initiative, vous pouvez dépenser une utilisation de votre Inspiration Bardique si vous n'avez pas la condition d'Incapacité. Pour ce faire, lancez votre dé d'inspiration bardique et choisissez un nombre de créatures dans un rayon de 18m autour de vous (vous pouvez vous choisir vous-même), jusqu'à un nombre égal à votre modificateur de Charisme (minimum d'une créature). Chacune d'entre elles bénéficie d'un bonus à l'Initiative égal au nombre obtenu.
+
+### Niveau 14 : Évasion de la tête
+Lorsque vous subissez un effet qui vous permet de faire un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, vous ne subissez aucun dégât si vous réussissez le jet de sauvegarde, et vous ne subissez que la moitié des dégâts si vous échouez. Si des créatures situées à moins de 1,5m de vous font le même jet de sauvegarde de Dextérité, vous pouvez partager cet avantage avec elles pour cette sauvegarde.
+
+Vous ne pouvez pas utiliser cette caractéristique si vous êtes en état d'incapacité.
