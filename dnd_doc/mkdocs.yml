@@ -106,3 +106,11 @@ nav:
       - Torte: races/monstres_multivers/torte.md
       - Triton: races/monstres_multivers/triton.md
       - Yuan-ti: races/monstres_multivers/yuan_ti.md
+    - Eberron:
+      - Forgelier: races/eberron/forgelier.md
+    - Ravenloft:
+      - Dhampire: races/ravenloft/dhampire.md
+      - Ressucité: races/ravenloft/ressucite.md
+      - Sang Maudit: races/ravenloft/sang_maudit.md
+    - Strixhaven:
+      - Hiboulin: races/strixhaven/hiboulin.md
