@@ -430,13 +430,13 @@ Chaque modèle comprend une arme spéciale. Lorsque vous attaquez avec cette arm
 Vous pouvez changer de modèle d'armure à la fin d'un repos court ou long, à condition d'avoir des outils de forgeron en main.
 
 - **Gardien.** Vous avez conçu votre armure pour qu'elle soit en première ligne lors d'un conflit. Elle possède les caractéristiques suivantes :
+    - **Gantelets de tonnerre.** Chaque gantelet de l'armure compte comme une arme de mêlée simple tant que vous ne tenez rien dedans, et inflige 1d8 points de dégâts de tonnerre sur un coup. Une créature touchée par le gantelet a un désavantage aux jets d'attaque contre des cibles autres que vous jusqu'au début de votre prochain tour, comme l'indique l'image du gantelet.
+    - **Champ défensif.** En tant qu'action bonus, vous pouvez gagner un nombre de points de vie temporaires égal à votre niveau dans cette classe, remplaçant les points de vie temporaires que vous avez déjà. Vous perdez ces points de vie temporaires si vous enlevez l'armure. Vous pouvez utiliser cette action bonus un nombre de fois égal à votre bonus de compétence, et vous regagnez toutes les utilisations dépensées à la fin d'un long repos.
 
-- **Gantelets de tonnerre.** Chaque gantelet de l'armure compte comme une arme de mêlée simple tant que vous ne tenez rien dedans, et inflige 1d8 points de dégâts de tonnerre sur un coup. Une créature touchée par le gantelet a un désavantage aux jets d'attaque contre des cibles autres que vous jusqu'au début de votre prochain tour, comme l'indique l'image du gantelet.
-
-- **Lanceur de foudre.** Un nœud en forme de gemme apparaît sur l'un de vos poings en armure ou sur votre poitrine (au choix). Il compte comme une arme à distance simple, avec une portée normale de 90 pieds et une portée longue de 300 pieds, et il inflige 1d6 points de dégâts de foudre sur un coup. Une fois à chacun de vos tours, lorsque vous touchez une créature avec cette arme, vous pouvez lui infliger 1d6 points de dégâts de foudre supplémentaires.
-
-- **Marche rapide.** Votre vitesse de marche augmente de 5 pieds.
-Champ d'amortissement. Vous avez l'avantage sur les tests de Dextérité (furtivité). Si l'armure impose normalement un désavantage à ces tests, l'avantage et le désavantage s'annulent, comme d'habitude.
+- **Infiltrateur.** Vous personnalisez votre armure pour des entreprises subtiles. Elle possède les caractéristiques suivantes :
+    - **Lanceur de foudre.** Un nœud en forme de gemme apparaît sur l'un de vos poings en armure ou sur votre poitrine (au choix). Il compte comme une arme à distance simple, avec une portée normale de 90 pieds et une portée longue de 300 pieds, et il inflige 1d6 points de dégâts de foudre sur un coup. Une fois à chacun de vos tours, lorsque vous touchez une créature avec cette arme, vous pouvez lui infliger 1d6 points de dégâts de foudre supplémentaires.
+    - **Marche rapide.** Votre vitesse de marche augmente de 5 pieds.
+    Champ d'amortissement. Vous avez l'avantage sur les tests de Dextérité (furtivité). Si l'armure impose normalement un désavantage à ces tests, l'avantage et le désavantage s'annulent, comme d'habitude.
 
 ### Attaque supplémentaire
 A partir du 5ème niveau, vous pouvez attaquer deux fois au lieu d'une, lorsque vous effectuez l'action Attaque à votre tour.
