@@ -45,29 +45,29 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 - (a) un sac d'exploration souterraine ou (b) un sac d'explorateur
 - deux dagues
 
- 	 	 	 	Sorts	 	 
- 	Bonus de	Points de	 	mineurs	Sorts	- Emplacements de sorts -
-Niv	maîtrise	sorcellerie	Capacités	connus	connus	1	2	3	4	5	6	7	8	9
-1	+2	-	Incantation, Origine magique	4	2	2	-	-	-	-	-	-	-	-
-2	+2	2	Source de magie	4	3	3	-	-	-	-	-	-	-	-
-3	+2	3	Métamagie	4	4	4	2	-	-	-	-	-	-	-
-4	+2	4	Amélioration de caractéristiques	5	5	4	3	-	-	-	-	-	-	-
-5	+3	5	-	5	6	4	3	2	-	-	-	-	-	-
-6	+3	6	Capacité de l'origine magique	5	7	4	3	3	-	-	-	-	-	-
-7	+3	7	-	5	8	4	3	3	1	-	-	-	-	-
-8	+3	8	Amélioration de caractéristiques	5	9	4	3	3	2	-	-	-	-	-
-9	+4	9	-	5	10	4	3	3	3	1	-	-	-	-
-10	+4	10	Métamagie	6	11	4	3	3	3	2	-	-	-	-
-11	+4	11	-	6	12	4	3	3	3	2	1	-	-	-
-12	+4	12	Amélioration de caractéristiques	6	12	4	3	3	3	2	1	-	-	-
-13	+5	13	-	6	13	4	3	3	3	2	1	1	-	-
-14	+5	14	Capacité de l'origine magique	6	13	4	3	3	3	2	1	1	-	-
-15	+5	15	-	6	14	4	3	3	3	2	1	1	1	-
-16	+5	16	Amélioration de caractéristiques	6	14	4	3	3	3	2	1	1	1	-
-17	+6	17	Métamagie	6	15	4	3	3	3	2	1	1	1	1
-18	+6	18	Capacité de l'origine magique	6	15	4	3	3	3	3	1	1	1	1
-19	+6	19	Amélioration de caractéristiques	6	15	4	3	3	3	3	2	1	1	1
-20	+6	20	Restauration magique	6	15	4	3	3	3	3	2	2	1	1
+| Niv | Bonus de maîtrise | Points de sorcellerie | Capacités                           | Sorts mineurs connus | Sorts connus | Emplacements de sorts |
+|-----|-------------------|------------------------|-------------------------------------|-----------------------|--------------|------------------------|
+|     |                   |                        |                                     |                       |              | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| 1   | +2                | -                      | Incantation, Origine magique        | 4                     | 2            | 2 | - | - | - | - | - | - | - | - |
+| 2   | +2                | 2                      | Source de magie                     | 4                     | 3            | 3 | - | - | - | - | - | - | - | - |
+| 3   | +2                | 3                      | Métamagie                           | 4                     | 4            | 4 | 2 | - | - | - | - | - | - | - |
+| 4   | +2                | 4                      | Amélioration de caractéristiques    | 5                     | 5            | 4 | 3 | - | - | - | - | - | - | - |
+| 5   | +3                | 5                      | -                                   | 5                     | 6            | 4 | 3 | 2 | - | - | - | - | - | - |
+| 6   | +3                | 6                      | Capacité de l'origine magique       | 5                     | 7            | 4 | 3 | 3 | - | - | - | - | - | - |
+| 7   | +3                | 7                      | -                                   | 5                     | 8            | 4 | 3 | 3 | 1 | - | - | - | - | - |
+| 8   | +3                | 8                      | Amélioration de caractéristiques    | 5                     | 9            | 4 | 3 | 3 | 2 | - | - | - | - | - |
+| 9   | +4                | 9                      | -                                   | 5                     | 10           | 4 | 3 | 3 | 3 | 1 | - | - | - | - |
+| 10  | +4                | 10                     | Métamagie                           | 6                     | 11           | 4 | 3 | 3 | 3 | 2 | - | - | - | - |
+| 11  | +4                | 11                     | -                                   | 6                     | 12           | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
+| 12  | +4                | 12                     | Amélioration de caractéristiques    | 6                     | 12           | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
+| 13  | +5                | 13                     | -                                   | 6                     | 13           | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
+| 14  | +5                | 14                     | Capacité de l'origine magique       | 6                     | 13           | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
+| 15  | +5                | 15                     | -                                   | 6                     | 14           | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
+| 16  | +5                | 16                     | Amélioration de caractéristiques    | 6                     | 14           | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
+| 17  | +6                | 17                     | Métamagie                           | 6                     | 15           | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18  | +6                | 18                     | Capacité de l'origine magique       | 6                     | 15           | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19  | +6                | 19                     | Amélioration de caractéristiques    | 6                     | 15           | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20  | +6                | 20                     | Restauration magique                | 6                     | 15           | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 
 ## Incantation
 Un événement dans votre passé, ou dans la vie d'un parent ou un ancêtre, vous a laissé une marque indélébile, en vous insufflant la magie des arcanes. Cette source de magie, quelle que soit son origine, alimente vos sorts.
