@@ -394,6 +394,66 @@ Lorsque votre défenseur d'acier utilise sa Parade d'attaque, l'attaquant subit 
 
 ---
 
+## Armurier
+L'artificier qui se spécialise comme armurier modifie l'armure pour qu'elle fonctionne comme une seconde peau. L'armure est améliorée pour affiner la magie de l'artificier, déclencher des attaques puissantes et générer une défense redoutable. L'artificier se lie à son armure, ne faisant plus qu'un avec elle alors même qu'il expérimente et affine ses capacités magiques.
+
+### Outils du métier
+Lorsque vous adoptez cette spécialisation au 3e niveau, vous gagnez la compétence avec les armures lourdes. Vous gagnez également la compétence avec les outils de forgeron. Si vous possédez déjà cette compétence, vous gagnez la compétence avec un autre type d'outil d'artisan de votre choix.
+
+### Sorts d'armurier
+A partir du 3ème niveau, vous disposez toujours de certains sorts préparés après avoir atteint certains niveaux de cette classe, comme indiqué dans la table des sorts d'armurier. Ces sorts comptent comme des sorts d'artificier pour vous, mais ils ne sont pas décomptés du nombre de sorts d'artificier que vous préparez.
+
+| Niveau de l'artificier | Sorts d'armurier                           |
+|------------------------|--------------------------------------------|
+| 3e                     | Missile magique, Onde tonnerre             |
+| 5e                     | Image miroir, Éclatement                   |
+| 9e                     | Motif hypnotique, Éclair                   |
+| 13e                    | Bouclier de feu, Grande invisibilité       |
+| 17e                    | Pare-feu, Mur de force                     |
+
+### Armure arcanique
+À partir du 3e niveau, vos activités métallurgiques vous ont amené à faire de l'armure un conduit pour votre magie. En une action, vous pouvez transformer une armure que vous portez en armure des arcanes, à condition d'avoir des outils de forgeron en main.
+
+Vous bénéficiez des avantages suivants lorsque vous portez cette armure :
+
+- Si l'armure a normalement une condition de Force, l'armure des arcanes n'a pas cette condition pour vous.
+- Vous pouvez utiliser l'armure des arcanes comme focalisation pour vos sorts d'artificier.
+- L'armure s'attache à vous et ne peut être retirée contre votre volonté. Elle s'étend également pour couvrir tout votre corps, bien que vous puissiez rétracter ou déployer le casque par une action bonus. L'armure remplace les membres manquants et fonctionne de la même manière que la partie du corps qu'elle remplace.
+- Vous pouvez retirer ou enfiler l'armure comme une action.
+- L'armure reste une armure arcanique jusqu'à ce que vous en enfiliez une autre ou que vous mouriez.
+
+### Modèle d'armure
+A partir du 3ème niveau, vous pouvez personnaliser votre armure des arcanes. Pour ce faire, vous choisissez l'un des modèles d'armure suivants : Gardien ou Infiltrateur. Le modèle que vous choisissez vous donne des avantages spéciaux lorsque vous le portez.
+
+Chaque modèle comprend une arme spéciale. Lorsque vous attaquez avec cette arme, vous pouvez ajouter votre modificateur d'Intelligence, au lieu de la Force ou de la Dextérité, aux jets d'attaque et de dégâts.
+
+Vous pouvez changer de modèle d'armure à la fin d'un repos court ou long, à condition d'avoir des outils de forgeron en main.
+
+- **Gardien.** Vous avez conçu votre armure pour qu'elle soit en première ligne lors d'un conflit. Elle possède les caractéristiques suivantes :
+
+- **Gantelets de tonnerre.** Chaque gantelet de l'armure compte comme une arme de mêlée simple tant que vous ne tenez rien dedans, et inflige 1d8 points de dégâts de tonnerre sur un coup. Une créature touchée par le gantelet a un désavantage aux jets d'attaque contre des cibles autres que vous jusqu'au début de votre prochain tour, comme l'indique l'image du gantelet.
+
+- **Lanceur de foudre.** Un nœud en forme de gemme apparaît sur l'un de vos poings en armure ou sur votre poitrine (au choix). Il compte comme une arme à distance simple, avec une portée normale de 90 pieds et une portée longue de 300 pieds, et il inflige 1d6 points de dégâts de foudre sur un coup. Une fois à chacun de vos tours, lorsque vous touchez une créature avec cette arme, vous pouvez lui infliger 1d6 points de dégâts de foudre supplémentaires.
+
+- **Marche rapide.** Votre vitesse de marche augmente de 5 pieds.
+Champ d'amortissement. Vous avez l'avantage sur les tests de Dextérité (furtivité). Si l'armure impose normalement un désavantage à ces tests, l'avantage et le désavantage s'annulent, comme d'habitude.
+
+### Attaque supplémentaire
+A partir du 5ème niveau, vous pouvez attaquer deux fois au lieu d'une, lorsque vous effectuez l'action Attaque à votre tour.
+
+### Modifications d'armure
+Au 9ème niveau, vous apprenez à utiliser vos infusions d'artificier pour modifier spécialement votre armure des arcanes. Cette armure compte désormais comme des objets distincts pour les besoins de votre caractéristique Infusion d'objets : l'armure (le plastron), les bottes, le casque et l'arme spéciale de l'armure. Chacun de ces objets peut porter une de vos infusions, et les infusions sont transférées si vous changez le modèle de votre armure avec la caractéristique Modèle d'armure. De plus, le nombre maximum d'objets que vous pouvez infuser à la fois augmente de 2, mais ces objets supplémentaires doivent faire partie de votre armure des arcanes.
+
+### Armure perfectionnée
+Au 15ème niveau, votre armure des arcanes bénéficie d'avantages supplémentaires en fonction de son modèle, comme indiqué ci-dessous.
+
+- **Gardien.** Lorsqu'une créature énorme ou plus petite que vous pouvez voir termine son tour à moins de 30 pieds de vous, vous pouvez utiliser votre réaction pour la forcer magiquement à faire un jet de sauvegarde de Force contre le DC de sauvegarde de votre sort. En cas d'échec, vous tirez la créature jusqu'à 25 pieds directement dans un espace inoccupé. Si vous attirez la cible dans un espace situé à moins de 5 pieds de vous, vous pouvez effectuer une attaque d'arme de mêlée contre elle dans le cadre de cette réaction.
+Vous pouvez utiliser cette réaction un nombre de fois égal à votre bonus de compétence, et vous récupérez toutes les utilisations de cette réaction à la fin d'un repos long.
+
+- **Infiltrateur.** Toute créature qui subit des dégâts de foudre de votre lance-foudre scintille d'une lumière magique jusqu'au début de votre prochain tour. La créature scintillante diffuse une faible lumière dans un rayon de 5 pieds, et elle a un désavantage sur les jets d'attaque contre vous, car la lumière la secoue si elle vous attaque. De plus, le prochain jet d'attaque contre elle bénéficie de l'avantage, et si cette attaque touche, la cible subit 1d6 points de dégâts de foudre supplémentaires.
+
+---
+
 ## ==Imprégnations d'artificier==
 Les artificiers ont inventé d'innombrables imprégnations magiques capables de rapidement produire des objets magiques. Pour le profane, les artificiers ont l'air de faiseurs de miracles, accomplissant en quelques heures ce que d'autre mettent des semaines à terminer.
 
